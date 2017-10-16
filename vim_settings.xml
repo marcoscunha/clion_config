@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508150095516">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508156399171">
         <mark key="'" line="704" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+        <mark key="[" line="704" column="38" />
+        <mark key="]" line="704" column="15" />
+        <mark key="." line="704" column="15" />
+        <mark key="^" line="704" column="15" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1507900708839">
         <mark key="[" line="126" column="0" />
@@ -95,7 +95,6 @@
         <mark key="^" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h" timestamp="1508146824128" />
       <file name="/preview" timestamp="1507551333929">
         <mark key="[" line="0" column="0" />
       </file>
