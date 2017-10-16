@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508165233909">
-        <mark key="'" line="705" column="52" />
-        <mark key="[" line="693" column="19" />
-        <mark key="]" line="693" column="25" />
-        <mark key="^" line="693" column="25" />
-        <mark key="." line="693" column="25" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508166894551">
+        <mark key="'" line="18" column="0" />
+        <mark key="]" line="694" column="0" />
+        <mark key="." line="694" column="0" />
+        <mark key="^" line="694" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1507900708839">
         <mark key="[" line="126" column="0" />
@@ -120,6 +119,9 @@
         <mark key="^" line="194" column="0" />
         <mark key="." line="199" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1508166706169">
+        <mark key="'" line="584" column="33" />
+      </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
       </file>
@@ -164,12 +166,9 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.h" timestamp="1508165846084" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_diagnostic_build.c" timestamp="1507909500615">
         <mark key="'" line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1507897274068">
-        <mark key="'" line="230" column="0" />
-        <mark key="[" line="153" column="49" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_stubs.c" timestamp="1507730715274">
         <mark key="[" line="18" column="0" />
@@ -221,11 +220,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508165120602">
-        <mark key="[" line="15" column="67" />
-        <mark key="]" line="15" column="66" />
-        <mark key="^" line="15" column="66" />
-        <mark key="." line="15" column="66" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508165899710">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="65" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.h" timestamp="1506089049400">
         <mark key="'" line="36" column="18" />
@@ -264,15 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_battery_level_indicator.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
-      <jump line="41" column="31" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
-      <jump line="96" column="85" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
-      <jump line="108" column="85" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
-      <jump line="209" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
-      <jump line="202" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="777" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="786" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="131" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="768" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="117" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
@@ -346,7 +337,6 @@
       <jump line="621" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="400" column="59" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="25" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="700" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="695" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="622" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
@@ -364,49 +354,89 @@
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="707" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="705" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="680" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="2" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="700" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="676" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="706" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="694" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="584" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <jump line="404" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="18" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>target_link_libraries(${PROJECT_NAME}.elf CMSIS)</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>target_link_libraries(${PROJECT_NAME}.elf CMSIS)</text>
       </register>
       <register name="/" type="4">
         <text>mcu</text>
       </register>
       <register name="0" type="4">
-        <text>include_directories( /home/mcunha/devel/Tools/gcc-arm-none-eabi/gcc-arm-none-eabi-5_3-2016q1/arm-none-eabi/include/)</text>
+        <text>include(CMakeForceCompiler)
+
+SET(CMAKE_SYSTEM_NAME Generic)
+SET(CMAKE_SYSTEM_VERSION 1)
+
+# specify the cross compiler
+CMAKE_FORCE_C_COMPILER(arm-none-eabi-gcc GNU)
+CMAKE_FORCE_CXX_COMPILER(arm-none-eabi-g++ GNU)
+SET(CMAKE_CROSSCOMPILING TRUE)
+
+SET(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F09RC_FLASH.ld)
+#SET(COMMON_FLAGS &quot;-mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0&quot;)
+SET(COMMON_FLAGS &quot;-mcpu=cortex-m0 -mthumb  -mthumb-interwork -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0 -x assembler-with-cpp&quot;)
+SET(CMAKE_CXX_FLAGS &quot;${COMMON_FLAGS} -std=c++11&quot;)
+SET(CMAKE_C_FLAGS &quot;${COMMON_FLAGS} -std=gnu99&quot;)
+SET(CMAKE_EXE_LINKER_FLAGS &quot;-Wl,-gc-sections -T ${LINKER_SCRIPT}&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NST1NTQ09NUElMSU5HPXRydWUpCg==</text>
+        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFIHN0bTMyZjA5cmMuY21ha2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfQ09NUElMRVI9YXJtLW5vbmUtZWFiaS1nY2MpCg==</text>
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1zdGQ9Z251OTkiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q01BS0VfRk9SQ0VfQ19DT01QSUxFUihhcm0tbm9uZS1lYWJpLWdjYyBHTlUpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyggL2hvbWUvbWN1bmhhL2RldmVsL1Rvb2xzL2djYy1hcm0tbm9uZS1lYWJpL2djYy1hcm0tbm9uZS1lYWJpLTVfMy0yMDE2cTEvYmluKQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">RVQoQ01BS0VfRVhFX0xJTktFUl9GTEFHUyAiLVdsLC1nYy1zZWN0aW9ucyAtVCAke0xJTktFUl9TQ1JJUFR9IikK</text>
+      </register>
+      <register name="6" type="4">
+        <text>include(CMakeForceCompiler)
+
+SET(CMAKE_SYSTEM_NAME Generic)
+SET(CMAKE_SYSTEM_VERSION 1)
+
+# specify the cross compiler
+CMAKE_FORCE_C_COMPILER(arm-none-eabi-gcc GNU)
+CMAKE_FORCE_CXX_COMPILER(arm-none-eabi-g++ GNU)
+SET(CMAKE_CROSSCOMPILING TRUE)
+
+SET(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F09RC_FLASH.ld)
+#SET(COMMON_FLAGS &quot;-mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0&quot;)
+SET(COMMON_FLAGS &quot;-mcpu=cortex-m0 -mthumb  -mthumb-interwork -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0 -x assembler-with-cpp&quot;)
+SET(CMAKE_CXX_FLAGS &quot;${COMMON_FLAGS} -std=c++11&quot;)
+SET(CMAKE_C_FLAGS &quot;${COMMON_FLAGS} -std=gnu99&quot;)
+S</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0KCBDTUFLRV9DX0NPTVBJTEVSIC9ob21lL21jdW5oYS9kZXZlbC9Ub29scy9nY2MtYXJtLW5vbmUtZWFiaS9nY2MtYXJtLW5vbmUtZWFiaS01XzMtMjAxNnExL2Jpbi9hcm0tbm9uZS1lYWJpLWdjYykK</text>
+        <text encoding="base64">aW5jbHVkZShDTWFrZUZvcmNlQ29tcGlsZXIpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9uZQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
