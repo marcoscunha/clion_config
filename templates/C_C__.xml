@@ -1,0 +1,26 @@
+<templateSet group="C/C++">
+  <template name="set_test" value="#include &quot;unity.h&quot;&#10;&#10;void setUp ( void )&#10;{&#10;}&#10;&#10;void tearDown ( void )&#10;{&#10;}" description="Include basic test functions" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="c_test" value="// Initialize variables&#10;&#10;// Mock functions&#10;&#10;// Execute code under test&#10;&#10;// Evaluate results " description="Comments for test functions" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ( ) &#10;{&#10;}&#10;else &#10;{&#10;}" description="Indexed if" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="do" value="do &#10;{&#10;}while ( );" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
