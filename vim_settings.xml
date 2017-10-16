@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508166894551">
-        <mark key="'" line="18" column="0" />
-        <mark key="]" line="694" column="0" />
-        <mark key="." line="694" column="0" />
-        <mark key="^" line="694" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1507900708839">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="127" column="0" />
@@ -22,24 +16,11 @@
         <mark key="^" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1508159449263">
-        <mark key="'" line="76" column="35" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="88" column="34" />
-        <mark key="." line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-      </file>
       <file name="[backend_prod] CONSOLE - backend_prod" timestamp="1507797040246">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="38" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.h" timestamp="1507029928403">
-        <mark key="[" line="111" column="78" />
-      </file>
-      <file name="/fragment.m" timestamp="1507884212594">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="[backend_dev] CONSOLE - backend_dev" timestamp="1507797600568">
         <mark key="[" line="2" column="60" />
@@ -47,32 +28,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" timestamp="1507884179665">
-        <mark key="'" line="578" column="45" />
-        <mark key="[" line="576" column="57" />
-        <mark key="]" line="576" column="58" />
-        <mark key="." line="576" column="58" />
-        <mark key="^" line="576" column="58" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1507731564250">
         <mark key="'" line="37" column="27" />
         <mark key="[" line="57" column="14" />
         <mark key="]" line="57" column="15" />
         <mark key="^" line="57" column="15" />
         <mark key="." line="57" column="15" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/common.h" timestamp="1507825401909">
-        <mark key="'" line="23" column="30" />
-        <mark key="[" line="94" column="26" />
-        <mark key="]" line="94" column="27" />
-        <mark key="^" line="94" column="27" />
-        <mark key="." line="94" column="27" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_migration.c" timestamp="1507910962466">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savebootstrap.c" timestamp="1507912147173">
         <mark key="'" line="58" column="112" />
@@ -87,16 +48,6 @@
         <mark key="^" line="40" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" timestamp="1507728712674">
-        <mark key="'" line="188" column="8" />
-        <mark key="[" line="250" column="4" />
-        <mark key="]" line="250" column="31" />
-        <mark key="^" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-      </file>
-      <file name="/preview" timestamp="1507551333929">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1507904408956">
         <mark key="'" line="604" column="27" />
         <mark key="[" line="610" column="51" />
@@ -104,29 +55,14 @@
         <mark key="^" line="610" column="50" />
         <mark key="." line="610" column="50" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/CMSIS/Include/core_cmFunc.h" timestamp="1508165074096" />
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savets.c" timestamp="1507883693935">
-        <mark key="'" line="483" column="24" />
-        <mark key="[" line="70" column="65" />
-        <mark key="]" line="71" column="3" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="71" column="3" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" timestamp="1508167035689">
+        <mark key="'" line="2174" column="170" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1507877877707">
-        <mark key="'" line="128" column="9" />
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="201" column="50" />
-        <mark key="^" line="194" column="0" />
-        <mark key="." line="199" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1508166706169">
-        <mark key="'" line="584" column="33" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeCache.txt" timestamp="1508167534283">
+        <mark key="'" line="51" column="5" />
       </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
-      </file>
-      <file name="/GDB" timestamp="1507897692809">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.h" timestamp="1507822104888">
         <mark key="[" line="12" column="27" />
@@ -134,10 +70,6 @@
         <mark key="^" line="32" column="45" />
         <mark key="." line="32" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508158216499">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/CanHal.c" timestamp="1508164122503" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1507629963520">
         <mark key="'" line="554" column="0" />
         <mark key="[" line="54" column="111" />
@@ -152,29 +84,23 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="61" column="11" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" timestamp="1508164344541">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" timestamp="1508167875637">
         <mark key="'" line="247" column="0" />
         <mark key="[" line="207" column="33" />
         <mark key="]" line="207" column="33" />
         <mark key="." line="207" column="33" />
         <mark key="^" line="207" column="33" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.h" timestamp="1507730127486">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.h" timestamp="1508165846084" />
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_diagnostic_build.c" timestamp="1507909500615">
-        <mark key="'" line="29" column="23" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_stubs.c" timestamp="1507730715274">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="20" column="4" />
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.h" timestamp="1508167984094">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1507729972473">
         <mark key="'" line="673" column="16" />
@@ -183,12 +109,9 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1507712952423">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="." line="345" column="0" />
-        <mark key="^" line="345" column="3" />
+      <file name="$USER_HOME$/devel/Tools/gcc-arm-none-eabi/gcc-arm-none-eabi-5_3-2016q1/arm-none-eabi/include/stdlib.h" timestamp="1508167952532">
+        <mark key="[" line="199" column="8" />
+        <mark key="]" line="199" column="39" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savebootstrap.c" timestamp="1507911997754">
         <mark key="'" line="137" column="52" />
@@ -213,19 +136,11 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1507046519924">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="68" column="1" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508165899710">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="65" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508169840838">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="107" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.h" timestamp="1506089049400">
         <mark key="'" line="36" column="18" />
@@ -243,17 +158,126 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1507896885165">
         <mark key="'" line="66" column="49" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/watchdog.h" timestamp="1507910649890">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508170020361">
+        <mark key="'" line="182" column="9" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="256" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1508168040857">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1508159449263">
+        <mark key="'" line="76" column="35" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="88" column="34" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.h" timestamp="1507029928403">
+        <mark key="[" line="111" column="78" />
+      </file>
+      <file name="/fragment.m" timestamp="1507884212594">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" timestamp="1507884179665">
+        <mark key="'" line="578" column="45" />
+        <mark key="[" line="576" column="57" />
+        <mark key="]" line="576" column="58" />
+        <mark key="." line="576" column="58" />
+        <mark key="^" line="576" column="58" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/common.h" timestamp="1507825401909">
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="94" column="26" />
+        <mark key="]" line="94" column="27" />
+        <mark key="^" line="94" column="27" />
+        <mark key="." line="94" column="27" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_migration.c" timestamp="1507910962466">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" timestamp="1507728712674">
+        <mark key="'" line="188" column="8" />
+        <mark key="[" line="250" column="4" />
+        <mark key="]" line="250" column="31" />
+        <mark key="^" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
+      <file name="/preview" timestamp="1507551333929">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savets.c" timestamp="1507883693935">
+        <mark key="'" line="483" column="24" />
+        <mark key="[" line="70" column="65" />
+        <mark key="]" line="71" column="3" />
+        <mark key="^" line="71" column="3" />
+        <mark key="." line="71" column="3" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1507877877707">
+        <mark key="'" line="128" column="9" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="201" column="50" />
+        <mark key="^" line="194" column="0" />
+        <mark key="." line="199" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1508166972261">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/GDB" timestamp="1507897692809">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508158216499">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.h" timestamp="1507730127486">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_diagnostic_build.c" timestamp="1507909500615">
+        <mark key="'" line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1507712952423">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="." line="345" column="0" />
+        <mark key="^" line="345" column="3" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508168015814">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1507046519924">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="68" column="1" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1505910470710">
         <mark key="'" line="1116" column="10" />
         <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/watchdog.h" timestamp="1507910649890">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1507911219164">
         <mark key="'" line="81" column="18" />
@@ -264,36 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="768" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="117" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="118" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="404" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="205" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="190" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="198" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="375" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="199" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="200" column="91" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="218" column="82" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="515" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" />
-      <jump line="482" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" />
-      <jump line="184" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
-      <jump line="460" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.c" />
-      <jump line="252" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="253" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="518" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="207" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="224" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="257" column="134" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="266" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="280" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="649" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="676" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="722" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="729" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="757" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="150" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_migration.c" />
       <jump line="296" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_migration.c" />
       <jump line="225" column="63" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_migration.c" />
       <jump line="129" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.h" />
@@ -333,11 +327,8 @@
       <jump line="46" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
       <jump line="80" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
       <jump line="137" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savebootstrap.c" />
-      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="621" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="400" column="59" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="25" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="695" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="622" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="13" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="14" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
@@ -349,10 +340,7 @@
       <jump line="692" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="574" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="247" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
-      <jump line="704" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="15" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="707" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="705" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="680" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="2" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
@@ -360,92 +348,114 @@
       <jump line="700" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="676" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="706" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="694" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="584" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
       <jump line="404" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="18" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="57" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <jump line="56" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="62" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="66" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="70" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="86" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="88" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="92" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="112" column="61" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="116" column="61" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="136" column="55" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="140" column="55" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="160" column="57" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="2171" column="110" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="2174" column="170" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" />
+      <jump line="51" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeCache.txt" />
+      <jump line="707" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="714" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="694" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="192" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="193" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="704" column="31" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="78" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="241" column="41" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="258" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="11" column="114" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="12" column="99" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="15" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="6" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="7" column="38" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
+      <jump line="25" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="695" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="15" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="182" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target_link_libraries(${PROJECT_NAME}.elf CMSIS)</text>
+        <text>include_directories( /home/mcunha/devel/Tools/gcc-arm-none-eabi/gcc-arm-none-eabi-5_3-2016q1/arm-none-eabi/include/)
+include_directories( sys/inc/)
+include_directories( app/)
+include_directories( app/obdexperts/App/inc)
+include_directories( bsp/)
+include_directories( build/test/test/mocks )
+include_directories( nanopb/)
+include_directories( test_ceedling/vendor/ceedling/vendor/unity/src )
+include_directories( STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/ )</text>
       </register>
       <register name="-" type="4">
-        <text>target_link_libraries(${PROJECT_NAME}.elf CMSIS)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mcu</text>
+        <text>cryp</text>
       </register>
       <register name="0" type="4">
-        <text>include(CMakeForceCompiler)
-
-SET(CMAKE_SYSTEM_NAME Generic)
-SET(CMAKE_SYSTEM_VERSION 1)
-
-# specify the cross compiler
-CMAKE_FORCE_C_COMPILER(arm-none-eabi-gcc GNU)
-CMAKE_FORCE_CXX_COMPILER(arm-none-eabi-g++ GNU)
-SET(CMAKE_CROSSCOMPILING TRUE)
-
-SET(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F09RC_FLASH.ld)
-#SET(COMMON_FLAGS &quot;-mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0&quot;)
-SET(COMMON_FLAGS &quot;-mcpu=cortex-m0 -mthumb  -mthumb-interwork -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0 -x assembler-with-cpp&quot;)
-SET(CMAKE_CXX_FLAGS &quot;${COMMON_FLAGS} -std=c++11&quot;)
-SET(CMAKE_C_FLAGS &quot;${COMMON_FLAGS} -std=gnu99&quot;)
-SET(CMAKE_EXE_LINKER_FLAGS &quot;-Wl,-gc-sections -T ${LINKER_SCRIPT}&quot;)</text>
+        <text>set(COMMON_FLAGS &quot;-mcpu=cortex-m0 -mthumb -mthumb-interwork -ffunction-sections -fdata-sections -ggdb -Og &quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFIHN0bTMyZjA5cmMuY21ha2UpCg==</text>
+      <register name="1" type="4">
+        <text>include_directories( /home/mcunha/devel/Tools/gcc-arm-none-eabi/gcc-arm-none-eabi-5_3-2016q1/arm-none-eabi/include/)
+include_directories( sys/inc/)
+include_directories( app/)
+include_directories( app/obdexperts/App/inc)
+include_directories( bsp/)
+include_directories( build/test/test/mocks )
+include_directories( nanopb/)
+include_directories( test_ceedling/vendor/ceedling/vendor/unity/src )
+include_directories( STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/ )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9GTEFHUyAiJHtDTUFLRV9DWFhfRkxBR1N9IC1zdGQ9Z251OTkiKQo=</text>
+        <text encoding="base64">I1NFVChDT01NT05fRkxBR1MgIi1tY3B1PWNvcnRleC1tNCAtbXRodW1iIC1tdGh1bWItaW50ZXJ3b3JrIC1tZmxvYXQtYWJpPXNvZnQgLWZmdW5jdGlvbi1zZWN0aW9ucyAtZmRhdGEtc2VjdGlvbnMgLWcgLWZuby1jb21tb24gLWZtZXNzYWdlLWxlbmd0aD0wIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">c2V0KENfRkxBR1MgIiR7Q09NTU9OX0ZMQUdTfSAtc3RkPWdudTk5IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0KENNQUtFX0NfRkwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVQoQ01BS0VfRVhFX0xJTktFUl9GTEFHUyAiLVdsLC1nYy1zZWN0aW9ucyAtVCAke0xJTktFUl9TQ1JJUFR9IikK</text>
+        <text encoding="base64">Y2hhck4oaXRvYSwoaW50LCBjaGFyICosIGludCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>include(CMakeForceCompiler)
-
-SET(CMAKE_SYSTEM_NAME Generic)
-SET(CMAKE_SYSTEM_VERSION 1)
-
-# specify the cross compiler
-CMAKE_FORCE_C_COMPILER(arm-none-eabi-gcc GNU)
-CMAKE_FORCE_CXX_COMPILER(arm-none-eabi-g++ GNU)
-SET(CMAKE_CROSSCOMPILING TRUE)
-
-SET(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F09RC_FLASH.ld)
-#SET(COMMON_FLAGS &quot;-mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0&quot;)
-SET(COMMON_FLAGS &quot;-mcpu=cortex-m0 -mthumb  -mthumb-interwork -ffunction-sections -fdata-sections -g -fno-common -fmessage-length=0 -x assembler-with-cpp&quot;)
-SET(CMAKE_CXX_FLAGS &quot;${COMMON_FLAGS} -std=c++11&quot;)
-SET(CMAKE_C_FLAGS &quot;${COMMON_FLAGS} -std=gnu99&quot;)
-S</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW5jbHVkZShDTWFrZUZvcmNlQ29tcGlsZXIpCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">c3Nxd3MK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Z0NvbXBpbGluZyB0aGUgQyBjb21waWxlciBpZGVudGlmaWNhdGlvbiBzb3VyY2UgZmlsZSAiQ01ha2VDQ29tcGlsZXJJZC5jIiBzdWNjZWVkZWQuCkNvbXBpbGVyOiAvdXNyL2Jpbi9jYyAKQnVpbGQgZmxhZ3M6IApJZCBmbGFnczogIAoKVGhlIG91dHB1dCB3YXM6CjAKCgpDb21waWxhdGlvbiBvZiB0aGUgQyBjb21waWxlciBpZGVudGlmaWNhdGlvbiBzb3VyY2UgIkNNYWtlQ0NvbXBpbGVySWQuYyIgcHJvZHVjZWQgImEub3V0IgoKVGhlIEMgY29tcGlsZXIgaWRlbnRpZmljYXRpb24gaXMgR05VLCBmb3VuZCBpbiAiL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzLzMuOC4yL0NvbXBpbGVySWRDL2Eub3V0IgoKQ29tcGlsaW5nIHRoZSBDWFggY29tcGlsZXIgaWRlbnRpZmljYXRpb24gc291cmNlIGZpbGUgIkNNYWtlQ1hYQ29tcGlsZXJJZC5jcHAiIHN1Y2NlZWRlZC4KQ29tcGlsZXI6IC91c3IvYmluL2MrKyAKQnVpbGQgZmxhZ3M6IApJZCBmbGFnczogIAoKVGhlIG91dHB1dCB3YXM6CjAKCgpDb21waWxhdGlvbiBvZiB0aGUgQ1hYIGNvbXBpbGVyIGlkZW50aWZpY2F0aW9uIHNvdXJjZSAiQ01ha2VDWFhDb21waWxlcklkLmNwcCIgcHJvZHVjZWQgImEub3V0IgoKVGhlIENYWCBjb21waWxlciBpZGVudGlmaWNhdGlvbiBpcyBHTlUsIGZvdW5kIGluICIvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvMy44LjIvQ29tcGlsZXJJZENYWC9hLm91dCIKCkRldGVybWluaW5nIGlmIHRoZSBDIGNvbXBpbGVyIHdvcmtzIHBhc3NlZCB3aXRoIHRoZSBmb2xsb3dpbmcgb3V0cHV0OgpDaGFuZ2UgRGlyOiAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAKClJ1biBCdWlsZCBDb21tYW5kOiIvdXNyL2Jpbi9tYWtlIiAiY21UQ19hMmM4My9mYXN0IgovdXNyL2Jpbi9tYWtlIC1mIENNYWtlRmlsZXMvY21UQ19hMmM4My5kaXIvYnVpbGQubWFrZSBDTWFrZUZpbGVzL2NtVENfYTJjODMuZGlyL2J1aWxkCm1ha2VbMV06IEVudGVyaW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwpCdWlsZGluZyBDIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfYTJjODMuZGlyL3Rlc3RDQ29tcGlsZXIuYy5vCi91c3IvYmluL2NjICAgIC1vIENNYWtlRmlsZXMvY21UQ19hMmM4My5kaXIvdGVzdENDb21waWxlci5jLm8gICAtYyAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAvdGVzdENDb21waWxlci5jCkxpbmtpbmcgQyBleGVjdXRhYmxlIGNtVENfYTJjODMKL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ19hMmM4My5kaXIvbGluay50eHQgLS12ZXJib3NlPTEKL3Vzci9iaW4vY2MgICAgICBDTWFrZUZpbGVzL2NtVENfYTJjODMuZGlyL3Rlc3RDQ29tcGlsZXIuYy5vICAtbyBjbVRDX2EyYzgzIAptYWtlWzFdOiBMZWF2aW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwoKCkRldGVjdGluZyBDIGNvbXBpbGVyIEFCSSBpbmZvIGNvbXBpbGVkIHdpdGggdGhlIGZvbGxvd2luZyBvdXRwdXQ6CkNoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcAoKUnVuIEJ1aWxkIENvbW1hbmQ6Ii91c3IvYmluL21ha2UiICJjbVRDXzZjYzY0L2Zhc3QiCi91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDXzZjYzY0LmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ182Y2M2NC5kaXIvYnVpbGQKbWFrZVsxXTogRW50ZXJpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCkJ1aWxkaW5nIEMgb2JqZWN0IENNYWtlRmlsZXMvY21UQ182Y2M2NC5kaXIvQ01ha2VDQ29tcGlsZXJBQkkuYy5vCi91c3IvYmluL2NjICAgIC1vIENNYWtlRmlsZXMvY21UQ182Y2M2NC5kaXIvQ01ha2VDQ29tcGlsZXJBQkkuYy5vICAgLWMgL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2Uvc2hhcmUvY21ha2UtMy44L01vZHVsZXMvQ01ha2VDQ29tcGlsZXJBQkkuYwpMaW5raW5nIEMgZXhlY3V0YWJsZSBjbVRDXzZjYzY0Ci9ob21lL21jdW5oYS9kZXZlbC9BcHAvQ0xpb24vY2xpb24tMjAxNy4yLjEvYmluL2NtYWtlL2Jpbi9jbWFrZSAtRSBjbWFrZV9saW5rX3NjcmlwdCBDTWFrZUZpbGVzL2NtVENfNmNjNjQuZGlyL2xpbmsudHh0IC0tdmVyYm9zZT0xCi91c3IvYmluL2NjICAgICAtdiBDTWFrZUZpbGVzL2NtVENfNmNjNjQuZGlyL0NNYWtlQ0NvbXBpbGVyQUJJLmMubyAgLW8gY21UQ182Y2M2NCAKVXNpbmcgYnVpbHQtaW4gc3BlY3MuCkNPTExFQ1RfR0NDPS91c3IvYmluL2NjCkNPTExFQ1RfTFRPX1dSQVBQRVI9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9sdG8td3JhcHBlcgpUYXJnZXQ6IHg4Nl82NC1saW51eC1nbnUKQ29uZmlndXJlZCB3aXRoOiAuLi9zcmMvY29uZmlndXJlIC12IC0td2l0aC1wa2d2ZXJzaW9uPSdEZWJpYW4gNi4zLjAtMTgnIC0td2l0aC1idWd1cmw9ZmlsZTovLy91c3Ivc2hhcmUvZG9jL2djYy02L1JFQURNRS5CdWdzIC0tZW5hYmxlLWxhbmd1YWdlcz1jLGFkYSxjKyssamF2YSxnbyxkLGZvcnRyYW4sb2JqYyxvYmotYysrIC0tcHJlZml4PS91c3IgLS1wcm9ncmFtLXN1ZmZpeD0tNiAtLXByb2dyYW0tcHJlZml4PXg4Nl82NC1saW51eC1nbnUtIC0tZW5hYmxlLXNoYXJlZCAtLWVuYWJsZS1saW5rZXItYnVpbGQtaWQgLS1saWJleGVjZGlyPS91c3IvbGliIC0td2l0aG91dC1pbmNsdWRlZC1nZXR0ZXh0IC0tZW5hYmxlLXRocmVhZHM9cG9zaXggLS1saWJkaXI9L3Vzci9saWIgLS1lbmFibGUtbmxzIC0td2l0aC1zeXNyb290PS8gLS1lbmFibGUtY2xvY2FsZT1nbnUgLS1lbmFibGUtbGlic3RkY3h4LWRlYnVnIC0tZW5hYmxlLWxpYnN0ZGN4eC10aW1lPXllcyAtLXdpdGgtZGVmYXVsdC1saWJzdGRjeHgtYWJpPW5ldyAtLWVuYWJsZS1nbnUtdW5pcXVlLW9iamVjdCAtLWRpc2FibGUtdnRhYmxlLXZlcmlmeSAtLWVuYWJsZS1saWJtcHggLS1lbmFibGUtcGx1Z2luIC0tZW5hYmxlLWRlZmF1bHQtcGllIC0td2l0aC1zeXN0ZW0temxpYiAtLWRpc2FibGUtYnJvd3Nlci1wbHVnaW4gLS1lbmFibGUtamF2YS1hd3Q9Z3RrIC0tZW5hYmxlLWd0ay1jYWlybyAtLXdpdGgtamF2YS1ob21lPS91c3IvbGliL2p2bS9qYXZhLTEuNS4wLWdjai02LWFtZDY0L2pyZSAtLWVuYWJsZS1qYXZhLWhvbWUgLS13aXRoLWp2bS1yb290LWRpcj0vdXNyL2xpYi9qdm0vamF2YS0xLjUuMC1nY2otNi1hbWQ2NCAtLXdpdGgtanZtLWphci1kaXI9L3Vzci9saWIvanZtLWV4cG9ydHMvamF2YS0xLjUuMC1nY2otNi1hbWQ2NCAtLXdpdGgtYXJjaC1kaXJlY3Rvcnk9YW1kNjQgLS13aXRoLWVjai1qYXI9L3Vzci9zaGFyZS9qYXZhL2VjbGlwc2UtZWNqLmphciAtLXdpdGgtdGFyZ2V0LXN5c3RlbS16bGliIC0tZW5hYmxlLW9iamMtZ2M9YXV0byAtLWVuYWJsZS1tdWx0aWFyY2ggLS13aXRoLWFyY2gtMzI9aTY4NiAtLXdpdGgtYWJpPW02NCAtLXdpdGgtbXVsdGlsaWItbGlzdD1tMzIsbTY0LG14MzIgLS1lbmFibGUtbXVsdGlsaWIgLS13aXRoLXR1bmU9Z2VuZXJpYyAtLWVuYWJsZS1jaGVja2luZz1yZWxlYXNlIC0tYnVpbGQ9eDg2XzY0LWxpbnV4LWdudSAtLWhvc3Q9eDg2XzY0LWxpbnV4LWdudSAtLXRhcmdldD14ODZfNjQtbGludXgtZ251ClRocmVhZCBtb2RlbDogcG9zaXgKZ2NjIHZlcnNpb24gNi4zLjAgMjAxNzA1MTYgKERlYmlhbiA2LjMuMC0xOCkgCkNPTVBJTEVSX1BBVEg9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LwpMSUJSQVJZX1BBVEg9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYi86L2xpYi94ODZfNjQtbGludXgtZ251LzovbGliLy4uL2xpYi86L3Vzci9saWIveDg2XzY0LWxpbnV4LWdudS86L3Vzci9saWIvLi4vbGliLzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLzovbGliLzovdXNyL2xpYi8KQ09MTEVDVF9HQ0NfT1BUSU9OUz0nLXYnICctbycgJ2NtVENfNmNjNjQnICctbXR1bmU9Z2VuZXJpYycgJy1tYXJjaD14ODYtNjQnCiAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NvbGxlY3QyIC1wbHVnaW4gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9saWJsdG9fcGx1Z2luLnNvIC1wbHVnaW4tb3B0PS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvbHRvLXdyYXBwZXIgLXBsdWdpbi1vcHQ9LWZyZXNvbHV0aW9uPS90bXAvY2NKSUNSQWMucmVzIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2MgLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY19zIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxjIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2MgLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY19zIC0tc3lzcm9vdD0vIC0tYnVpbGQtaWQgLS1laC1mcmFtZS1oZHIgLW0gZWxmX3g4Nl82NCAtLWhhc2gtc3R5bGU9Z251IC1keW5hbWljLWxpbmtlciAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIgLXBpZSAtbyBjbVRDXzZjYzY0IC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9TY3J0MS5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRpLm8gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9jcnRiZWdpblMubyAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnUgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYiAtTC9saWIveDg2XzY0LWxpbnV4LWdudSAtTC9saWIvLi4vbGliIC1ML3Vzci9saWIveDg2XzY0LWxpbnV4LWdudSAtTC91c3IvbGliLy4uL2xpYiAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4gQ01ha2VGaWxlcy9jbVRDXzZjYzY0LmRpci9DTWFrZUNDb21waWxlckFCSS5jLm8gLWxnY2MgLS1hcy1uZWVkZWQgLWxnY2NfcyAtLW5vLWFzLW5lZWRlZCAtbGMgLWxnY2MgLS1hcy1uZWVkZWQgLWxnY2NfcyAtLW5vLWFzLW5lZWRlZCAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NydGVuZFMubyAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnUvY3J0bi5vCkNPTExFQ1RfR0NDX09QVElPTlM9Jy12JyAnLW8nICdjbVRDXzZjYzY0JyAnLW10dW5lPWdlbmVyaWMnICctbWFyY2g9eDg2LTY0JwptYWtlWzFdOiBMZWF2aW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwoKClBhcnNlZCBDIGltcGxpY2l0IGxpbmsgaW5mb3JtYXRpb24gZnJvbSBhYm92ZSBvdXRwdXQ6CiAgbGluayBsaW5lIHJlZ2V4OiBbXiggKnwuKlsvXF0pKGxkfChbXi9cXSstKT9sZHxjb2xsZWN0MilbXi9cXSooIHwkKV0KICBpZ25vcmUgbGluZTogW0NoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcF0KICBpZ25vcmUgbGluZTogW10KICBpZ25vcmUgbGluZTogW1J1biBCdWlsZCBDb21tYW5kOiIvdXNyL2Jpbi9tYWtlIiAiY21UQ182Y2M2NC9mYXN0Il0KICBpZ25vcmUgbGluZTogWy91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDXzZjYzY0LmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ182Y2M2NC5kaXIvYnVpbGRdCiAgaWdub3JlIGxpbmU6IFttYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCddCiAgaWdub3JlIGxpbmU6IFtCdWlsZGluZyBDIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfNmNjNjQuZGlyL0NNYWtlQ0NvbXBpbGVyQUJJLmMub10KICBpZ25vcmUgbGluZTogWy91c3IvYmluL2NjICAgIC1vIENNYWtlRmlsZXMvY21UQ182Y2M2NC5kaXIvQ01ha2VDQ29tcGlsZXJBQkkuYy5vICAgLWMgL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2Uvc2hhcmUvY21ha2UtMy44L01vZHVsZXMvQ01ha2VDQ29tcGlsZXJBQkkuY10KICBpZ25vcmUgbGluZTogW0xpbmtpbmcgQyBleGVjdXRhYmxlIGNtVENfNmNjNjRdCiAgaWdub3JlIGxpbmU6IFsvaG9tZS9tY3VuaGEvZGV2ZWwvQXBwL0NMaW9uL2NsaW9uLTIwMTcuMi4xL2Jpbi9jbWFrZS9iaW4vY21ha2UgLUUgY21ha2VfbGlua19zY3JpcHQgQ01ha2VGaWxlcy9jbVRDXzZjYzY0LmRpci9saW5rLnR4dCAtLXZlcmJvc2U9MV0KICBpZ25vcmUgbGluZTogWy91c3IvYmluL2NjICAgICAtdiBDTWFrZUZpbGVzL2NtVENfNmNjNjQuZGlyL0NNYWtlQ0NvbXBpbGVyQUJJLmMubyAgLW8gY21UQ182Y2M2NCBdCiAgaWdub3JlIGxpbmU6IFtVc2luZyBidWlsdC1pbiBzcGVjcy5dCiAgaWdub3JlIGxpbmU6IFtDT0xMRUNUX0dDQz0vdXNyL2Jpbi9jY10KICBpZ25vcmUgbGluZTogW0NPTExFQ1RfTFRPX1dSQVBQRVI9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9sdG8td3JhcHBlcl0KICBpZ25vcmUgbGluZTogW1RhcmdldDogeDg2XzY0LWxpbnV4LWdudV0KICBpZ25vcmUgbGluZTogW0NvbmZpZ3VyZWQgd2l0aDogLi4vc3JjL2NvbmZpZ3VyZSAtdiAtLXdpdGgtcGtndmVyc2lvbj0nRGViaWFuIDYuMy4wLTE4JyAtLXdpdGgtYnVndXJsPWZpbGU6Ly8vdXNyL3NoYXJlL2RvYy9nY2MtNi9SRUFETUUuQnVncyAtLWVuYWJsZS1sYW5ndWFnZXM9YyxhZGEsYysrLGphdmEsZ28sZCxmb3J0cmFuLG9iamMsb2JqLWMrKyAtLXByZWZpeD0vdXNyIC0tcHJvZ3JhbS1zdWZmaXg9LTYgLS1wcm9ncmFtLXByZWZpeD14ODZfNjQtbGludXgtZ251LSAtLWVuYWJsZS1zaGFyZWQgLS1lbmFibGUtbGlua2VyLWJ1aWxkLWlkIC0tbGliZXhlY2Rpcj0vdXNyL2xpYiAtLXdpdGhvdXQtaW5jbHVkZWQtZ2V0dGV4dCAtLWVuYWJsZS10aHJlYWRzPXBvc2l4IC0tbGliZGlyPS91c3IvbGliIC0tZW5hYmxlLW5scyAtLXdpdGgtc3lzcm9vdD0vIC0tZW5hYmxlLWNsb2NhbGU9Z251IC0tZW5hYmxlLWxpYnN0ZGN4eC1kZWJ1ZyAtLWVuYWJsZS1saWJzdGRjeHgtdGltZT15ZXMgLS13aXRoLWRlZmF1bHQtbGlic3RkY3h4LWFiaT1uZXcgLS1lbmFibGUtZ251LXVuaXF1ZS1vYmplY3QgLS1kaXNhYmxlLXZ0YWJsZS12ZXJpZnkgLS1lbmFibGUtbGlibXB4IC0tZW5hYmxlLXBsdWdpbiAtLWVuYWJsZS1kZWZhdWx0LXBpZSAtLXdpdGgtc3lzdGVtLXpsaWIgLS1kaXNhYmxlLWJyb3dzZXItcGx1Z2luIC0tZW5hYmxlLWphdmEtYXd0PWd0ayAtLWVuYWJsZS1ndGstY2Fpcm8gLS13aXRoLWphdmEtaG9tZT0vdXNyL2xpYi9qdm0vamF2YS0xLjUuMC1nY2otNi1hbWQ2NC9qcmUgLS1lbmFibGUtamF2YS1ob21lIC0td2l0aC1qdm0tcm9vdC1kaXI9L3Vzci9saWIvanZtL2phdmEtMS41LjAtZ2NqLTYtYW1kNjQgLS13aXRoLWp2bS1qYXItZGlyPS91c3IvbGliL2p2bS1leHBvcnRzL2phdmEtMS41LjAtZ2NqLTYtYW1kNjQgLS13aXRoLWFyY2gtZGlyZWN0b3J5PWFtZDY0IC0td2l0aC1lY2otamFyPS91c3Ivc2hhcmUvamF2YS9lY2xpcHNlLWVjai5qYXIgLS13aXRoLXRhcmdldC1zeXN0ZW0temxpYiAtLWVuYWJsZS1vYmpjLWdjPWF1dG8gLS1lbmFibGUtbXVsdGlhcmNoIC0td2l0aC1hcmNoLTMyPWk2ODYgLS13aXRoLWFiaT1tNjQgLS13aXRoLW11bHRpbGliLWxpc3Q9bTMyLG02NCxteDMyIC0tZW5hYmxlLW11bHRpbGliIC0td2l0aC10dW5lPWdlbmVyaWMgLS1lbmFibGUtY2hlY2tpbmc9cmVsZWFzZSAtLWJ1aWxkPXg4Nl82NC1saW51eC1nbnUgLS1ob3N0PXg4Nl82NC1saW51eC1nbnUgLS10YXJnZXQ9eDg2XzY0LWxpbnV4LWdudV0KICBpZ25vcmUgbGluZTogW1RocmVhZCBtb2RlbDogcG9zaXhdCiAgaWdub3JlIGxpbmU6IFtnY2MgdmVyc2lvbiA2LjMuMCAyMDE3MDUxNiAoRGViaWFuIDYuMy4wLTE4KSBdCiAgaWdub3JlIGxpbmU6IFtDT01QSUxFUl9QQVRIPS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS9dCiAgaWdub3JlIGxpbmU6IFtMSUJSQVJZX1BBVEg9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYi86L2xpYi94ODZfNjQtbGludXgtZ251LzovbGliLy4uL2xpYi86L3Vzci9saWIveDg2XzY0LWxpbnV4LWdudS86L3Vzci9saWIvLi4vbGliLzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLzovbGliLzovdXNyL2xpYi9dCiAgaWdub3JlIGxpbmU6IFtDT0xMRUNUX0dDQ19PUFRJT05TPSctdicgJy1vJyAnY21UQ182Y2M2NCcgJy1tdHVuZT1nZW5lcmljJyAnLW1hcmNoPXg4Ni02NCddCiAgbGluayBsaW5lOiBbIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY29sbGVjdDIgLXBsdWdpbiAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2xpYmx0b19wbHVnaW4uc28gLXBsdWdpbi1vcHQ9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9sdG8td3JhcHBlciAtcGx1Z2luLW9wdD0tZnJlc29sdXRpb249L3RtcC9jY0pJQ1JBYy5yZXMgLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjYyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjX3MgLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGMgLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjYyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjX3MgLS1zeXNyb290PS8gLS1idWlsZC1pZCAtLWVoLWZyYW1lLWhkciAtbSBlbGZfeDg2XzY0IC0taGFzaC1zdHlsZT1nbnUgLWR5bmFtaWMtbGlua2VyIC9saWI2NC9sZC1saW51eC14ODYtNjQuc28uMiAtcGllIC1vIGNtVENfNmNjNjQgL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L1NjcnQxLm8gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L2NydGkubyAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NydGJlZ2luUy5vIC1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNiAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudSAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4vLi4vbGliIC1ML2xpYi94ODZfNjQtbGludXgtZ251IC1ML2xpYi8uLi9saWIgLUwvdXNyL2xpYi94ODZfNjQtbGludXgtZ251IC1ML3Vzci9saWIvLi4vbGliIC1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLiBDTWFrZUZpbGVzL2NtVENfNmNjNjQuZGlyL0NNYWtlQ0NvbXBpbGVyQUJJLmMubyAtbGdjYyAtLWFzLW5lZWRlZCAtbGdjY19zIC0tbm8tYXMtbmVlZGVkIC1sYyAtbGdjYyAtLWFzLW5lZWRlZCAtbGdjY19zIC0tbm8tYXMtbmVlZGVkIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY3J0ZW5kUy5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRuLm9dCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY29sbGVjdDJdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbl0gPT0+IGlnbm9yZQogICAgYXJnIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2xpYmx0b19wbHVnaW4uc29dID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9sdG8td3JhcHBlcl0gPT0+IGlnbm9yZQogICAgYXJnIFstcGx1Z2luLW9wdD0tZnJlc29sdXRpb249L3RtcC9jY0pJQ1JBYy5yZXNdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY10gPT0+IGlnbm9yZQogICAgYXJnIFstcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjX3NdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGNdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY10gPT0+IGlnbm9yZQogICAgYXJnIFstcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjX3NdID09PiBpZ25vcmUKICAgIGFyZyBbLS1zeXNyb290PS9dID09PiBpZ25vcmUKICAgIGFyZyBbLS1idWlsZC1pZF0gPT0+IGlnbm9yZQogICAgYXJnIFstLWVoLWZyYW1lLWhkcl0gPT0+IGlnbm9yZQogICAgYXJnIFstbV0gPT0+IGlnbm9yZQogICAgYXJnIFtlbGZfeDg2XzY0XSA9PT4gaWdub3JlCiAgICBhcmcgWy0taGFzaC1zdHlsZT1nbnVdID09PiBpZ25vcmUKICAgIGFyZyBbLWR5bmFtaWMtbGlua2VyXSA9PT4gaWdub3JlCiAgICBhcmcgWy9saWI2NC9sZC1saW51eC14ODYtNjQuc28uMl0gPT0+IGlnbm9yZQogICAgYXJnIFstcGllXSA9PT4gaWdub3JlCiAgICBhcmcgWy1vXSA9PT4gaWdub3JlCiAgICBhcmcgW2NtVENfNmNjNjRdID09PiBpZ25vcmUKICAgIGFyZyBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L1NjcnQxLm9dID09PiBpZ25vcmUKICAgIGFyZyBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L2NydGkub10gPT0+IGlnbm9yZQogICAgYXJnIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NydGJlZ2luUy5vXSA9PT4gaWdub3JlCiAgICBhcmcgWy1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNl0KICAgIGFyZyBbLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnVdID09PiBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudV0KICAgIGFyZyBbLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi8uLi9saWJdCiAgICBhcmcgWy1ML2xpYi94ODZfNjQtbGludXgtZ251XSA9PT4gZGlyIFsvbGliL3g4Nl82NC1saW51eC1nbnVdCiAgICBhcmcgWy1ML2xpYi8uLi9saWJdID09PiBkaXIgWy9saWIvLi4vbGliXQogICAgYXJnIFstTC91c3IvbGliL3g4Nl82NC1saW51eC1nbnVdID09PiBkaXIgWy91c3IvbGliL3g4Nl82NC1saW51eC1nbnVdCiAgICBhcmcgWy1ML3Vzci9saWIvLi4vbGliXSA9PT4gZGlyIFsvdXNyL2xpYi8uLi9saWJdCiAgICBhcmcgWy1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLl0KICAgIGFyZyBbQ01ha2VGaWxlcy9jbVRDXzZjYzY0LmRpci9DTWFrZUNDb21waWxlckFCSS5jLm9dID09PiBpZ25vcmUKICAgIGFyZyBbLWxnY2NdID09PiBsaWIgW2djY10KICAgIGFyZyBbLS1hcy1uZWVkZWRdID09PiBpZ25vcmUKICAgIGFyZyBbLWxnY2Nfc10gPT0+IGxpYiBbZ2NjX3NdCiAgICBhcmcgWy0tbm8tYXMtbmVlZGVkXSA9PT4gaWdub3JlCiAgICBhcmcgWy1sY10gPT0+IGxpYiBbY10KICAgIGFyZyBbLWxnY2NdID09PiBsaWIgW2djY10KICAgIGFyZyBbLS1hcy1uZWVkZWRdID09PiBpZ25vcmUKICAgIGFyZyBbLWxnY2Nfc10gPT0+IGxpYiBbZ2NjX3NdCiAgICBhcmcgWy0tbm8tYXMtbmVlZGVkXSA9PT4gaWdub3JlCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY3J0ZW5kUy5vXSA9PT4gaWdub3JlCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRuLm9dID09PiBpZ25vcmUKICByZW1vdmUgbGliIFtnY2NdCiAgcmVtb3ZlIGxpYiBbZ2NjX3NdCiAgcmVtb3ZlIGxpYiBbZ2NjXQogIHJlbW92ZSBsaWIgW2djY19zXQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82XSA9PT4gWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzZdCiAgY29sbGFwc2UgbGlicmFyeSBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudV0gPT0+IFsvdXNyL2xpYi94ODZfNjQtbGludXgtZ251XQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYl0gPT0+IFsvdXNyL2xpYl0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL2xpYi94ODZfNjQtbGludXgtZ251XSA9PT4gWy9saWIveDg2XzY0LWxpbnV4LWdudV0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL2xpYi8uLi9saWJdID09PiBbL2xpYl0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL3Vzci9saWIveDg2XzY0LWxpbnV4LWdudV0gPT0+IFsvdXNyL2xpYi94ODZfNjQtbGludXgtZ251XQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi8uLi9saWJdID09PiBbL3Vzci9saWJdCiAgY29sbGFwc2UgbGlicmFyeSBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi5dID09PiBbL3Vzci9saWJdCiAgaW1wbGljaXQgbGliczogW2NdCiAgaW1wbGljaXQgZGlyczogWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzY7L3Vzci9saWIveDg2XzY0LWxpbnV4LWdudTsvdXNyL2xpYjsvbGliL3g4Nl82NC1saW51eC1nbnU7L2xpYl0KICBpbXBsaWNpdCBmd2tzOiBbXQoKCgoKRGV0ZWN0aW5nIEMgWy1zdGQ9YzExXSBjb21waWxlciBmZWF0dXJlcyBjb21waWxlZCB3aXRoIHRoZSBmb2xsb3dpbmcgb3V0cHV0OgpDaGFuZ2UgRGlyOiAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAKClJ1biBCdWlsZCBDb21tYW5kOiIvdXNyL2Jpbi9tYWtlIiAiY21UQ19kYWQ4Ny9mYXN0IgovdXNyL2Jpbi9tYWtlIC1mIENNYWtlRmlsZXMvY21UQ19kYWQ4Ny5kaXIvYnVpbGQubWFrZSBDTWFrZUZpbGVzL2NtVENfZGFkODcuZGlyL2J1aWxkCm1ha2VbMV06IEVudGVyaW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwpCdWlsZGluZyBDIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfZGFkODcuZGlyL2ZlYXR1cmVfdGVzdHMuYy5vCi91c3IvYmluL2NjICAgLXN0ZD1jMTEgLW8gQ01ha2VGaWxlcy9jbVRDX2RhZDg3LmRpci9mZWF0dXJlX3Rlc3RzLmMubyAgIC1jIC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9mZWF0dXJlX3Rlc3RzLmMKTGlua2luZyBDIGV4ZWN1dGFibGUgY21UQ19kYWQ4NwovaG9tZS9tY3VuaGEvZGV2ZWwvQXBwL0NMaW9uL2NsaW9uLTIwMTcuMi4xL2Jpbi9jbWFrZS9iaW4vY21ha2UgLUUgY21ha2VfbGlua19zY3JpcHQgQ01ha2VGaWxlcy9jbVRDX2RhZDg3LmRpci9saW5rLnR4dCAtLXZlcmJvc2U9MQovdXNyL2Jpbi9jYyAgICAgIENNYWtlRmlsZXMvY21UQ19kYWQ4Ny5kaXIvZmVhdHVyZV90ZXN0cy5jLm8gIC1vIGNtVENfZGFkODcgCm1ha2VbMV06IExlYXZpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCgoKICAgIEZlYXR1cmUgcmVjb3JkOiBDX0ZFQVRVUkU6MWNfZnVuY3Rpb25fcHJvdG90eXBlcwogICAgRmVhdHVyZSByZWNvcmQ6IENfRkVBVFVSRToxY19yZXN0cmljdAogICAgRmVhdHVyZSByZWNvcmQ6IENfRkVBVFVSRToxY19zdGF0aWNfYXNzZXJ0CiAgICBGZWF0dXJlIHJlY29yZDogQ19GRUFUVVJFOjFjX3ZhcmlhZGljX21hY3JvcwoKCkRldGVjdGluZyBDIFstc3RkPWM5OV0gY29tcGlsZXIgZmVhdHVyZXMgY29tcGlsZWQgd2l0aCB0aGUgZm9sbG93aW5nIG91dHB1dDoKQ2hhbmdlIERpcjogL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wCgpSdW4gQnVpbGQgQ29tbWFuZDoiL3Vzci9iaW4vbWFrZSIgImNtVENfMjQxMGEvZmFzdCIKL3Vzci9iaW4vbWFrZSAtZiBDTWFrZUZpbGVzL2NtVENfMjQxMGEuZGlyL2J1aWxkLm1ha2UgQ01ha2VGaWxlcy9jbVRDXzI0MTBhLmRpci9idWlsZAptYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKQnVpbGRpbmcgQyBvYmplY3QgQ01ha2VGaWxlcy9jbVRDXzI0MTBhLmRpci9mZWF0dXJlX3Rlc3RzLmMubwovdXNyL2Jpbi9jYyAgIC1zdGQ9Yzk5IC1vIENNYWtlRmlsZXMvY21UQ18yNDEwYS5kaXIvZmVhdHVyZV90ZXN0cy5jLm8gICAtYyAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvZmVhdHVyZV90ZXN0cy5jCkxpbmtpbmcgQyBleGVjdXRhYmxlIGNtVENfMjQxMGEKL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ18yNDEwYS5kaXIvbGluay50eHQgLS12ZXJib3NlPTEKL3Vzci9iaW4vY2MgICAgICBDTWFrZUZpbGVzL2NtVENfMjQxMGEuZGlyL2ZlYXR1cmVfdGVzdHMuYy5vICAtbyBjbVRDXzI0MTBhIAptYWtlWzFdOiBMZWF2aW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwoKCiAgICBGZWF0dXJlIHJlY29yZDogQ19GRUFUVVJFOjFjX2Z1bmN0aW9uX3Byb3RvdHlwZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDX0ZFQVRVUkU6MWNfcmVzdHJpY3QKICAgIEZlYXR1cmUgcmVjb3JkOiBDX0ZFQVRVUkU6MGNfc3RhdGljX2Fzc2VydAogICAgRmVhdHVyZSByZWNvcmQ6IENfRkVBVFVSRToxY192YXJpYWRpY19tYWNyb3MKCgpEZXRlY3RpbmcgQyBbLXN0ZD1jOTBdIGNvbXBpbGVyIGZlYXR1cmVzIGNvbXBpbGVkIHdpdGggdGhlIGZvbGxvd2luZyBvdXRwdXQ6CkNoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcAoKUnVuIEJ1aWxkIENvbW1hbmQ6Ii91c3IvYmluL21ha2UiICJjbVRDXzhlNTBhL2Zhc3QiCi91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDXzhlNTBhLmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ184ZTUwYS5kaXIvYnVpbGQKbWFrZVsxXTogRW50ZXJpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCkJ1aWxkaW5nIEMgb2JqZWN0IENNYWtlRmlsZXMvY21UQ184ZTUwYS5kaXIvZmVhdHVyZV90ZXN0cy5jLm8KL3Vzci9iaW4vY2MgICAtc3RkPWM5MCAtbyBDTWFrZUZpbGVzL2NtVENfOGU1MGEuZGlyL2ZlYXR1cmVfdGVzdHMuYy5vICAgLWMgL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL2ZlYXR1cmVfdGVzdHMuYwpMaW5raW5nIEMgZXhlY3V0YWJsZSBjbVRDXzhlNTBhCi9ob21lL21jdW5oYS9kZXZlbC9BcHAvQ0xpb24vY2xpb24tMjAxNy4yLjEvYmluL2NtYWtlL2Jpbi9jbWFrZSAtRSBjbWFrZV9saW5rX3NjcmlwdCBDTWFrZUZpbGVzL2NtVENfOGU1MGEuZGlyL2xpbmsudHh0IC0tdmVyYm9zZT0xCi91c3IvYmluL2NjICAgICAgQ01ha2VGaWxlcy9jbVRDXzhlNTBhLmRpci9mZWF0dXJlX3Rlc3RzLmMubyAgLW8gY21UQ184ZTUwYSAKbWFrZVsxXTogTGVhdmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKCgogICAgRmVhdHVyZSByZWNvcmQ6IENfRkVBVFVSRToxY19mdW5jdGlvbl9wcm90b3R5cGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ19GRUFUVVJFOjBjX3Jlc3RyaWN0CiAgICBGZWF0dXJlIHJlY29yZDogQ19GRUFUVVJFOjBjX3N0YXRpY19hc3NlcnQKICAgIEZlYXR1cmUgcmVjb3JkOiBDX0ZFQVRVUkU6MGNfdmFyaWFkaWNfbWFjcm9zCkRldGVybWluaW5nIGlmIHRoZSBDWFggY29tcGlsZXIgd29ya3MgcGFzc2VkIHdpdGggdGhlIGZvbGxvd2luZyBvdXRwdXQ6CkNoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcAoKUnVuIEJ1aWxkIENvbW1hbmQ6Ii91c3IvYmluL21ha2UiICJjbVRDXzgyOWQ5L2Zhc3QiCi91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDXzgyOWQ5LmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ184MjlkOS5kaXIvYnVpbGQKbWFrZVsxXTogRW50ZXJpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCkJ1aWxkaW5nIENYWCBvYmplY3QgQ01ha2VGaWxlcy9jbVRDXzgyOWQ5LmRpci90ZXN0Q1hYQ29tcGlsZXIuY3h4Lm8KL3Vzci9iaW4vYysrICAgICAtbyBDTWFrZUZpbGVzL2NtVENfODI5ZDkuZGlyL3Rlc3RDWFhDb21waWxlci5jeHgubyAtYyAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAvdGVzdENYWENvbXBpbGVyLmN4eApMaW5raW5nIENYWCBleGVjdXRhYmxlIGNtVENfODI5ZDkKL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ184MjlkOS5kaXIvbGluay50eHQgLS12ZXJib3NlPTEKL3Vzci9iaW4vYysrICAgICAgIENNYWtlRmlsZXMvY21UQ184MjlkOS5kaXIvdGVzdENYWENvbXBpbGVyLmN4eC5vICAtbyBjbVRDXzgyOWQ5IAptYWtlWzFdOiBMZWF2aW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwoKCkRldGVjdGluZyBDWFggY29tcGlsZXIgQUJJIGluZm8gY29tcGlsZWQgd2l0aCB0aGUgZm9sbG93aW5nIG91dHB1dDoKQ2hhbmdlIERpcjogL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wCgpSdW4gQnVpbGQgQ29tbWFuZDoiL3Vzci9iaW4vbWFrZSIgImNtVENfODFiNzUvZmFzdCIKL3Vzci9iaW4vbWFrZSAtZiBDTWFrZUZpbGVzL2NtVENfODFiNzUuZGlyL2J1aWxkLm1ha2UgQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9idWlsZAptYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKQnVpbGRpbmcgQ1hYIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfODFiNzUuZGlyL0NNYWtlQ1hYQ29tcGlsZXJBQkkuY3BwLm8KL3Vzci9iaW4vYysrICAgICAtbyBDTWFrZUZpbGVzL2NtVENfODFiNzUuZGlyL0NNYWtlQ1hYQ29tcGlsZXJBQkkuY3BwLm8gLWMgL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2Uvc2hhcmUvY21ha2UtMy44L01vZHVsZXMvQ01ha2VDWFhDb21waWxlckFCSS5jcHAKTGlua2luZyBDWFggZXhlY3V0YWJsZSBjbVRDXzgxYjc1Ci9ob21lL21jdW5oYS9kZXZlbC9BcHAvQ0xpb24vY2xpb24tMjAxNy4yLjEvYmluL2NtYWtlL2Jpbi9jbWFrZSAtRSBjbWFrZV9saW5rX3NjcmlwdCBDTWFrZUZpbGVzL2NtVENfODFiNzUuZGlyL2xpbmsudHh0IC0tdmVyYm9zZT0xCi91c3IvYmluL2MrKyAgICAgIC12IENNYWtlRmlsZXMvY21UQ184MWI3NS5kaXIvQ01ha2VDWFhDb21waWxlckFCSS5jcHAubyAgLW8gY21UQ184MWI3NSAKVXNpbmcgYnVpbHQtaW4gc3BlY3MuCkNPTExFQ1RfR0NDPS91c3IvYmluL2MrKwpDT0xMRUNUX0xUT19XUkFQUEVSPS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvbHRvLXdyYXBwZXIKVGFyZ2V0OiB4ODZfNjQtbGludXgtZ251CkNvbmZpZ3VyZWQgd2l0aDogLi4vc3JjL2NvbmZpZ3VyZSAtdiAtLXdpdGgtcGtndmVyc2lvbj0nRGViaWFuIDYuMy4wLTE4JyAtLXdpdGgtYnVndXJsPWZpbGU6Ly8vdXNyL3NoYXJlL2RvYy9nY2MtNi9SRUFETUUuQnVncyAtLWVuYWJsZS1sYW5ndWFnZXM9YyxhZGEsYysrLGphdmEsZ28sZCxmb3J0cmFuLG9iamMsb2JqLWMrKyAtLXByZWZpeD0vdXNyIC0tcHJvZ3JhbS1zdWZmaXg9LTYgLS1wcm9ncmFtLXByZWZpeD14ODZfNjQtbGludXgtZ251LSAtLWVuYWJsZS1zaGFyZWQgLS1lbmFibGUtbGlua2VyLWJ1aWxkLWlkIC0tbGliZXhlY2Rpcj0vdXNyL2xpYiAtLXdpdGhvdXQtaW5jbHVkZWQtZ2V0dGV4dCAtLWVuYWJsZS10aHJlYWRzPXBvc2l4IC0tbGliZGlyPS91c3IvbGliIC0tZW5hYmxlLW5scyAtLXdpdGgtc3lzcm9vdD0vIC0tZW5hYmxlLWNsb2NhbGU9Z251IC0tZW5hYmxlLWxpYnN0ZGN4eC1kZWJ1ZyAtLWVuYWJsZS1saWJzdGRjeHgtdGltZT15ZXMgLS13aXRoLWRlZmF1bHQtbGlic3RkY3h4LWFiaT1uZXcgLS1lbmFibGUtZ251LXVuaXF1ZS1vYmplY3QgLS1kaXNhYmxlLXZ0YWJsZS12ZXJpZnkgLS1lbmFibGUtbGlibXB4IC0tZW5hYmxlLXBsdWdpbiAtLWVuYWJsZS1kZWZhdWx0LXBpZSAtLXdpdGgtc3lzdGVtLXpsaWIgLS1kaXNhYmxlLWJyb3dzZXItcGx1Z2luIC0tZW5hYmxlLWphdmEtYXd0PWd0ayAtLWVuYWJsZS1ndGstY2Fpcm8gLS13aXRoLWphdmEtaG9tZT0vdXNyL2xpYi9qdm0vamF2YS0xLjUuMC1nY2otNi1hbWQ2NC9qcmUgLS1lbmFibGUtamF2YS1ob21lIC0td2l0aC1qdm0tcm9vdC1kaXI9L3Vzci9saWIvanZtL2phdmEtMS41LjAtZ2NqLTYtYW1kNjQgLS13aXRoLWp2bS1qYXItZGlyPS91c3IvbGliL2p2bS1leHBvcnRzL2phdmEtMS41LjAtZ2NqLTYtYW1kNjQgLS13aXRoLWFyY2gtZGlyZWN0b3J5PWFtZDY0IC0td2l0aC1lY2otamFyPS91c3Ivc2hhcmUvamF2YS9lY2xpcHNlLWVjai5qYXIgLS13aXRoLXRhcmdldC1zeXN0ZW0temxpYiAtLWVuYWJsZS1vYmpjLWdjPWF1dG8gLS1lbmFibGUtbXVsdGlhcmNoIC0td2l0aC1hcmNoLTMyPWk2ODYgLS13aXRoLWFiaT1tNjQgLS13aXRoLW11bHRpbGliLWxpc3Q9bTMyLG02NCxteDMyIC0tZW5hYmxlLW11bHRpbGliIC0td2l0aC10dW5lPWdlbmVyaWMgLS1lbmFibGUtY2hlY2tpbmc9cmVsZWFzZSAtLWJ1aWxkPXg4Nl82NC1saW51eC1nbnUgLS1ob3N0PXg4Nl82NC1saW51eC1nbnUgLS10YXJnZXQ9eDg2XzY0LWxpbnV4LWdudQpUaHJlYWQgbW9kZWw6IHBvc2l4CmdjYyB2ZXJzaW9uIDYuMy4wIDIwMTcwNTE2IChEZWJpYW4gNi4zLjAtMTgpIApDT01QSUxFUl9QQVRIPS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS8KTElCUkFSWV9QQVRIPS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi8uLi9saWIvOi9saWIveDg2XzY0LWxpbnV4LWdudS86L2xpYi8uLi9saWIvOi91c3IvbGliL3g4Nl82NC1saW51eC1nbnUvOi91c3IvbGliLy4uL2xpYi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi86L2xpYi86L3Vzci9saWIvCkNPTExFQ1RfR0NDX09QVElPTlM9Jy12JyAnLW8nICdjbVRDXzgxYjc1JyAnLXNoYXJlZC1saWJnY2MnICctbXR1bmU9Z2VuZXJpYycgJy1tYXJjaD14ODYtNjQnCiAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NvbGxlY3QyIC1wbHVnaW4gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9saWJsdG9fcGx1Z2luLnNvIC1wbHVnaW4tb3B0PS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvbHRvLXdyYXBwZXIgLXBsdWdpbi1vcHQ9LWZyZXNvbHV0aW9uPS90bXAvY2NiWkVJWnUucmVzIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NfcyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxjIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NfcyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjIC0tc3lzcm9vdD0vIC0tYnVpbGQtaWQgLS1laC1mcmFtZS1oZHIgLW0gZWxmX3g4Nl82NCAtLWhhc2gtc3R5bGU9Z251IC1keW5hbWljLWxpbmtlciAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIgLXBpZSAtbyBjbVRDXzgxYjc1IC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9TY3J0MS5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRpLm8gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9jcnRiZWdpblMubyAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnUgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYiAtTC9saWIveDg2XzY0LWxpbnV4LWdudSAtTC9saWIvLi4vbGliIC1ML3Vzci9saWIveDg2XzY0LWxpbnV4LWdudSAtTC91c3IvbGliLy4uL2xpYiAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4gQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9DTWFrZUNYWENvbXBpbGVyQUJJLmNwcC5vIC1sc3RkYysrIC1sbSAtbGdjY19zIC1sZ2NjIC1sYyAtbGdjY19zIC1sZ2NjIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY3J0ZW5kUy5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRuLm8KQ09MTEVDVF9HQ0NfT1BUSU9OUz0nLXYnICctbycgJ2NtVENfODFiNzUnICctc2hhcmVkLWxpYmdjYycgJy1tdHVuZT1nZW5lcmljJyAnLW1hcmNoPXg4Ni02NCcKbWFrZVsxXTogTGVhdmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKCgpQYXJzZWQgQ1hYIGltcGxpY2l0IGxpbmsgaW5mb3JtYXRpb24gZnJvbSBhYm92ZSBvdXRwdXQ6CiAgbGluayBsaW5lIHJlZ2V4OiBbXiggKnwuKlsvXF0pKGxkfChbXi9cXSstKT9sZHxjb2xsZWN0MilbXi9cXSooIHwkKV0KICBpZ25vcmUgbGluZTogW0NoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcF0KICBpZ25vcmUgbGluZTogW10KICBpZ25vcmUgbGluZTogW1J1biBCdWlsZCBDb21tYW5kOiIvdXNyL2Jpbi9tYWtlIiAiY21UQ184MWI3NS9mYXN0Il0KICBpZ25vcmUgbGluZTogWy91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ184MWI3NS5kaXIvYnVpbGRdCiAgaWdub3JlIGxpbmU6IFttYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCddCiAgaWdub3JlIGxpbmU6IFtCdWlsZGluZyBDWFggb2JqZWN0IENNYWtlRmlsZXMvY21UQ184MWI3NS5kaXIvQ01ha2VDWFhDb21waWxlckFCSS5jcHAub10KICBpZ25vcmUgbGluZTogWy91c3IvYmluL2MrKyAgICAgLW8gQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9DTWFrZUNYWENvbXBpbGVyQUJJLmNwcC5vIC1jIC9ob21lL21jdW5oYS9kZXZlbC9BcHAvQ0xpb24vY2xpb24tMjAxNy4yLjEvYmluL2NtYWtlL3NoYXJlL2NtYWtlLTMuOC9Nb2R1bGVzL0NNYWtlQ1hYQ29tcGlsZXJBQkkuY3BwXQogIGlnbm9yZSBsaW5lOiBbTGlua2luZyBDWFggZXhlY3V0YWJsZSBjbVRDXzgxYjc1XQogIGlnbm9yZSBsaW5lOiBbL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ184MWI3NS5kaXIvbGluay50eHQgLS12ZXJib3NlPTFdCiAgaWdub3JlIGxpbmU6IFsvdXNyL2Jpbi9jKysgICAgICAtdiBDTWFrZUZpbGVzL2NtVENfODFiNzUuZGlyL0NNYWtlQ1hYQ29tcGlsZXJBQkkuY3BwLm8gIC1vIGNtVENfODFiNzUgXQogIGlnbm9yZSBsaW5lOiBbVXNpbmcgYnVpbHQtaW4gc3BlY3MuXQogIGlnbm9yZSBsaW5lOiBbQ09MTEVDVF9HQ0M9L3Vzci9iaW4vYysrXQogIGlnbm9yZSBsaW5lOiBbQ09MTEVDVF9MVE9fV1JBUFBFUj0vdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2x0by13cmFwcGVyXQogIGlnbm9yZSBsaW5lOiBbVGFyZ2V0OiB4ODZfNjQtbGludXgtZ251XQogIGlnbm9yZSBsaW5lOiBbQ29uZmlndXJlZCB3aXRoOiAuLi9zcmMvY29uZmlndXJlIC12IC0td2l0aC1wa2d2ZXJzaW9uPSdEZWJpYW4gNi4zLjAtMTgnIC0td2l0aC1idWd1cmw9ZmlsZTovLy91c3Ivc2hhcmUvZG9jL2djYy02L1JFQURNRS5CdWdzIC0tZW5hYmxlLWxhbmd1YWdlcz1jLGFkYSxjKyssamF2YSxnbyxkLGZvcnRyYW4sb2JqYyxvYmotYysrIC0tcHJlZml4PS91c3IgLS1wcm9ncmFtLXN1ZmZpeD0tNiAtLXByb2dyYW0tcHJlZml4PXg4Nl82NC1saW51eC1nbnUtIC0tZW5hYmxlLXNoYXJlZCAtLWVuYWJsZS1saW5rZXItYnVpbGQtaWQgLS1saWJleGVjZGlyPS91c3IvbGliIC0td2l0aG91dC1pbmNsdWRlZC1nZXR0ZXh0IC0tZW5hYmxlLXRocmVhZHM9cG9zaXggLS1saWJkaXI9L3Vzci9saWIgLS1lbmFibGUtbmxzIC0td2l0aC1zeXNyb290PS8gLS1lbmFibGUtY2xvY2FsZT1nbnUgLS1lbmFibGUtbGlic3RkY3h4LWRlYnVnIC0tZW5hYmxlLWxpYnN0ZGN4eC10aW1lPXllcyAtLXdpdGgtZGVmYXVsdC1saWJzdGRjeHgtYWJpPW5ldyAtLWVuYWJsZS1nbnUtdW5pcXVlLW9iamVjdCAtLWRpc2FibGUtdnRhYmxlLXZlcmlmeSAtLWVuYWJsZS1saWJtcHggLS1lbmFibGUtcGx1Z2luIC0tZW5hYmxlLWRlZmF1bHQtcGllIC0td2l0aC1zeXN0ZW0temxpYiAtLWRpc2FibGUtYnJvd3Nlci1wbHVnaW4gLS1lbmFibGUtamF2YS1hd3Q9Z3RrIC0tZW5hYmxlLWd0ay1jYWlybyAtLXdpdGgtamF2YS1ob21lPS91c3IvbGliL2p2bS9qYXZhLTEuNS4wLWdjai02LWFtZDY0L2pyZSAtLWVuYWJsZS1qYXZhLWhvbWUgLS13aXRoLWp2bS1yb290LWRpcj0vdXNyL2xpYi9qdm0vamF2YS0xLjUuMC1nY2otNi1hbWQ2NCAtLXdpdGgtanZtLWphci1kaXI9L3Vzci9saWIvanZtLWV4cG9ydHMvamF2YS0xLjUuMC1nY2otNi1hbWQ2NCAtLXdpdGgtYXJjaC1kaXJlY3Rvcnk9YW1kNjQgLS13aXRoLWVjai1qYXI9L3Vzci9zaGFyZS9qYXZhL2VjbGlwc2UtZWNqLmphciAtLXdpdGgtdGFyZ2V0LXN5c3RlbS16bGliIC0tZW5hYmxlLW9iamMtZ2M9YXV0byAtLWVuYWJsZS1tdWx0aWFyY2ggLS13aXRoLWFyY2gtMzI9aTY4NiAtLXdpdGgtYWJpPW02NCAtLXdpdGgtbXVsdGlsaWItbGlzdD1tMzIsbTY0LG14MzIgLS1lbmFibGUtbXVsdGlsaWIgLS13aXRoLXR1bmU9Z2VuZXJpYyAtLWVuYWJsZS1jaGVja2luZz1yZWxlYXNlIC0tYnVpbGQ9eDg2XzY0LWxpbnV4LWdudSAtLWhvc3Q9eDg2XzY0LWxpbnV4LWdudSAtLXRhcmdldD14ODZfNjQtbGludXgtZ251XQogIGlnbm9yZSBsaW5lOiBbVGhyZWFkIG1vZGVsOiBwb3NpeF0KICBpZ25vcmUgbGluZTogW2djYyB2ZXJzaW9uIDYuMy4wIDIwMTcwNTE2IChEZWJpYW4gNi4zLjAtMTgpIF0KICBpZ25vcmUgbGluZTogW0NPTVBJTEVSX1BBVEg9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi86L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251L10KICBpZ25vcmUgbGluZTogW0xJQlJBUllfUEFUSD0vdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82LzovdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnUvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4vLi4vbGliLzovbGliL3g4Nl82NC1saW51eC1nbnUvOi9saWIvLi4vbGliLzovdXNyL2xpYi94ODZfNjQtbGludXgtZ251LzovdXNyL2xpYi8uLi9saWIvOi91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4vOi9saWIvOi91c3IvbGliL10KICBpZ25vcmUgbGluZTogW0NPTExFQ1RfR0NDX09QVElPTlM9Jy12JyAnLW8nICdjbVRDXzgxYjc1JyAnLXNoYXJlZC1saWJnY2MnICctbXR1bmU9Z2VuZXJpYycgJy1tYXJjaD14ODYtNjQnXQogIGxpbmsgbGluZTogWyAvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NvbGxlY3QyIC1wbHVnaW4gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9saWJsdG9fcGx1Z2luLnNvIC1wbHVnaW4tb3B0PS91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvbHRvLXdyYXBwZXIgLXBsdWdpbi1vcHQ9LWZyZXNvbHV0aW9uPS90bXAvY2NiWkVJWnUucmVzIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NfcyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxjIC1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NfcyAtcGx1Z2luLW9wdD0tcGFzcy10aHJvdWdoPS1sZ2NjIC0tc3lzcm9vdD0vIC0tYnVpbGQtaWQgLS1laC1mcmFtZS1oZHIgLW0gZWxmX3g4Nl82NCAtLWhhc2gtc3R5bGU9Z251IC1keW5hbWljLWxpbmtlciAvbGliNjQvbGQtbGludXgteDg2LTY0LnNvLjIgLXBpZSAtbyBjbVRDXzgxYjc1IC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9TY3J0MS5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRpLm8gL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9jcnRiZWdpblMubyAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnUgLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYiAtTC9saWIveDg2XzY0LWxpbnV4LWdudSAtTC9saWIvLi4vbGliIC1ML3Vzci9saWIveDg2XzY0LWxpbnV4LWdudSAtTC91c3IvbGliLy4uL2xpYiAtTC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4gQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9DTWFrZUNYWENvbXBpbGVyQUJJLmNwcC5vIC1sc3RkYysrIC1sbSAtbGdjY19zIC1sZ2NjIC1sYyAtbGdjY19zIC1sZ2NjIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY3J0ZW5kUy5vIC91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRuLm9dCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY29sbGVjdDJdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbl0gPT0+IGlnbm9yZQogICAgYXJnIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2xpYmx0b19wbHVnaW4uc29dID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9L3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi9sdG8td3JhcHBlcl0gPT0+IGlnbm9yZQogICAgYXJnIFstcGx1Z2luLW9wdD0tZnJlc29sdXRpb249L3RtcC9jY2JaRUladS5yZXNdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY19zXSA9PT4gaWdub3JlCiAgICBhcmcgWy1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGNdID09PiBpZ25vcmUKICAgIGFyZyBbLXBsdWdpbi1vcHQ9LXBhc3MtdGhyb3VnaD0tbGdjY19zXSA9PT4gaWdub3JlCiAgICBhcmcgWy1wbHVnaW4tb3B0PS1wYXNzLXRocm91Z2g9LWxnY2NdID09PiBpZ25vcmUKICAgIGFyZyBbLS1zeXNyb290PS9dID09PiBpZ25vcmUKICAgIGFyZyBbLS1idWlsZC1pZF0gPT0+IGlnbm9yZQogICAgYXJnIFstLWVoLWZyYW1lLWhkcl0gPT0+IGlnbm9yZQogICAgYXJnIFstbV0gPT0+IGlnbm9yZQogICAgYXJnIFtlbGZfeDg2XzY0XSA9PT4gaWdub3JlCiAgICBhcmcgWy0taGFzaC1zdHlsZT1nbnVdID09PiBpZ25vcmUKICAgIGFyZyBbLWR5bmFtaWMtbGlua2VyXSA9PT4gaWdub3JlCiAgICBhcmcgWy9saWI2NC9sZC1saW51eC14ODYtNjQuc28uMl0gPT0+IGlnbm9yZQogICAgYXJnIFstcGllXSA9PT4gaWdub3JlCiAgICBhcmcgWy1vXSA9PT4gaWdub3JlCiAgICBhcmcgW2NtVENfODFiNzVdID09PiBpZ25vcmUKICAgIGFyZyBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L1NjcnQxLm9dID09PiBpZ25vcmUKICAgIGFyZyBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi94ODZfNjQtbGludXgtZ251L2NydGkub10gPT0+IGlnbm9yZQogICAgYXJnIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82L2NydGJlZ2luUy5vXSA9PT4gaWdub3JlCiAgICBhcmcgWy1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNl0KICAgIGFyZyBbLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uL3g4Nl82NC1saW51eC1nbnVdID09PiBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudV0KICAgIGFyZyBbLUwvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLi8uLi9saWJdCiAgICBhcmcgWy1ML2xpYi94ODZfNjQtbGludXgtZ251XSA9PT4gZGlyIFsvbGliL3g4Nl82NC1saW51eC1nbnVdCiAgICBhcmcgWy1ML2xpYi8uLi9saWJdID09PiBkaXIgWy9saWIvLi4vbGliXQogICAgYXJnIFstTC91c3IvbGliL3g4Nl82NC1saW51eC1nbnVdID09PiBkaXIgWy91c3IvbGliL3g4Nl82NC1saW51eC1nbnVdCiAgICBhcmcgWy1ML3Vzci9saWIvLi4vbGliXSA9PT4gZGlyIFsvdXNyL2xpYi8uLi9saWJdCiAgICBhcmcgWy1ML3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLl0gPT0+IGRpciBbL3Vzci9saWIvZ2NjL3g4Nl82NC1saW51eC1nbnUvNi8uLi8uLi8uLl0KICAgIGFyZyBbQ01ha2VGaWxlcy9jbVRDXzgxYjc1LmRpci9DTWFrZUNYWENvbXBpbGVyQUJJLmNwcC5vXSA9PT4gaWdub3JlCiAgICBhcmcgWy1sc3RkYysrXSA9PT4gbGliIFtzdGRjKytdCiAgICBhcmcgWy1sbV0gPT0+IGxpYiBbbV0KICAgIGFyZyBbLWxnY2Nfc10gPT0+IGxpYiBbZ2NjX3NdCiAgICBhcmcgWy1sZ2NjXSA9PT4gbGliIFtnY2NdCiAgICBhcmcgWy1sY10gPT0+IGxpYiBbY10KICAgIGFyZyBbLWxnY2Nfc10gPT0+IGxpYiBbZ2NjX3NdCiAgICBhcmcgWy1sZ2NjXSA9PT4gbGliIFtnY2NdCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvY3J0ZW5kUy5vXSA9PT4gaWdub3JlCiAgICBhcmcgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudS9jcnRuLm9dID09PiBpZ25vcmUKICByZW1vdmUgbGliIFtnY2Nfc10KICByZW1vdmUgbGliIFtnY2NdCiAgcmVtb3ZlIGxpYiBbZ2NjX3NdCiAgcmVtb3ZlIGxpYiBbZ2NjXQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82XSA9PT4gWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzZdCiAgY29sbGFwc2UgbGlicmFyeSBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi4veDg2XzY0LWxpbnV4LWdudV0gPT0+IFsvdXNyL2xpYi94ODZfNjQtbGludXgtZ251XQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi9nY2MveDg2XzY0LWxpbnV4LWdudS82Ly4uLy4uLy4uLy4uL2xpYl0gPT0+IFsvdXNyL2xpYl0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL2xpYi94ODZfNjQtbGludXgtZ251XSA9PT4gWy9saWIveDg2XzY0LWxpbnV4LWdudV0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL2xpYi8uLi9saWJdID09PiBbL2xpYl0KICBjb2xsYXBzZSBsaWJyYXJ5IGRpciBbL3Vzci9saWIveDg2XzY0LWxpbnV4LWdudV0gPT0+IFsvdXNyL2xpYi94ODZfNjQtbGludXgtZ251XQogIGNvbGxhcHNlIGxpYnJhcnkgZGlyIFsvdXNyL2xpYi8uLi9saWJdID09PiBbL3Vzci9saWJdCiAgY29sbGFwc2UgbGlicmFyeSBkaXIgWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzYvLi4vLi4vLi5dID09PiBbL3Vzci9saWJdCiAgaW1wbGljaXQgbGliczogW3N0ZGMrKzttO2NdCiAgaW1wbGljaXQgZGlyczogWy91c3IvbGliL2djYy94ODZfNjQtbGludXgtZ251LzY7L3Vzci9saWIveDg2XzY0LWxpbnV4LWdudTsvdXNyL2xpYjsvbGliL3g4Nl82NC1saW51eC1nbnU7L2xpYl0KICBpbXBsaWNpdCBmd2tzOiBbXQoKCgoKRGV0ZWN0aW5nIENYWCBbLXN0ZD1jKysxel0gY29tcGlsZXIgZmVhdHVyZXMgY29tcGlsZWQgd2l0aCB0aGUgZm9sbG93aW5nIG91dHB1dDoKQ2hhbmdlIERpcjogL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wCgpSdW4gQnVpbGQgQ29tbWFuZDoiL3Vzci9iaW4vbWFrZSIgImNtVENfOWYxZTkvZmFzdCIKL3Vzci9iaW4vbWFrZSAtZiBDTWFrZUZpbGVzL2NtVENfOWYxZTkuZGlyL2J1aWxkLm1ha2UgQ01ha2VGaWxlcy9jbVRDXzlmMWU5LmRpci9idWlsZAptYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKQnVpbGRpbmcgQ1hYIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfOWYxZTkuZGlyL2ZlYXR1cmVfdGVzdHMuY3h4Lm8KL3Vzci9iaW4vYysrICAgIC1zdGQ9YysrMXogLW8gQ01ha2VGaWxlcy9jbVRDXzlmMWU5LmRpci9mZWF0dXJlX3Rlc3RzLmN4eC5vIC1jIC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9mZWF0dXJlX3Rlc3RzLmN4eApMaW5raW5nIENYWCBleGVjdXRhYmxlIGNtVENfOWYxZTkKL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ185ZjFlOS5kaXIvbGluay50eHQgLS12ZXJib3NlPTEKL3Vzci9iaW4vYysrICAgICAgIENNYWtlRmlsZXMvY21UQ185ZjFlOS5kaXIvZmVhdHVyZV90ZXN0cy5jeHgubyAgLW8gY21UQ185ZjFlOSAKbWFrZVsxXTogTGVhdmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKCgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYWdncmVnYXRlX2RlZmF1bHRfaW5pdGlhbGl6ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hbGlhc190ZW1wbGF0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2FsaWduYXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2FsaWdub2YKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2F0dHJpYnV0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2F0dHJpYnV0ZV9kZXByZWNhdGVkCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hdXRvX3R5cGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2JpbmFyeV9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfY29uc3RleHByCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9jb250ZXh0dWFsX2NvbnZlcnNpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWNsdHlwZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVjbHR5cGVfYXV0bwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVjbHR5cGVfaW5jb21wbGV0ZV9yZXR1cm5fdHlwZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlZmF1bHRfZnVuY3Rpb25fdGVtcGxhdGVfYXJncwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVmYXVsdGVkX2Z1bmN0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVmYXVsdGVkX21vdmVfaW5pdGlhbGl6ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWxlZ2F0aW5nX2NvbnN0cnVjdG9ycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVsZXRlZF9mdW5jdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RpZ2l0X3NlcGFyYXRvcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2VudW1fZm9yd2FyZF9kZWNsYXJhdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2V4cGxpY2l0X2NvbnZlcnNpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9leHRlbmRlZF9mcmllbmRfZGVjbGFyYXRpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9leHRlcm5fdGVtcGxhdGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9maW5hbAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZnVuY19pZGVudGlmaWVyCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9nZW5lcmFsaXplZF9pbml0aWFsaXplcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2dlbmVyaWNfbGFtYmRhcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfaW5oZXJpdGluZ19jb25zdHJ1Y3RvcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2lubGluZV9uYW1lc3BhY2VzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9sYW1iZGFzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9sYW1iZGFfaW5pdF9jYXB0dXJlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbG9jYWxfdHlwZV90ZW1wbGF0ZV9hcmdzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9sb25nX2xvbmdfdHlwZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbm9leGNlcHQKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X25vbnN0YXRpY19tZW1iZXJfaW5pdAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbnVsbHB0cgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfb3ZlcnJpZGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3JhbmdlX2ZvcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcmF3X3N0cmluZ19saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcmVmZXJlbmNlX3F1YWxpZmllZF9mdW5jdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3JlbGF4ZWRfY29uc3RleHByCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yZXR1cm5fdHlwZV9kZWR1Y3Rpb24KICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3JpZ2h0X2FuZ2xlX2JyYWNrZXRzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9ydmFsdWVfcmVmZXJlbmNlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfc2l6ZW9mX21lbWJlcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfc3RhdGljX2Fzc2VydAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfc3Ryb25nX2VudW1zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF90ZW1wbGF0ZV90ZW1wbGF0ZV9wYXJhbWV0ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF90aHJlYWRfbG9jYWwKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3RyYWlsaW5nX3JldHVybl90eXBlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdW5pY29kZV9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdW5pZm9ybV9pbml0aWFsaXphdGlvbgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdW5yZXN0cmljdGVkX3VuaW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdXNlcl9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdmFyaWFibGVfdGVtcGxhdGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF92YXJpYWRpY19tYWNyb3MKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3ZhcmlhZGljX3RlbXBsYXRlcwoKCkRldGVjdGluZyBDWFggWy1zdGQ9YysrMTRdIGNvbXBpbGVyIGZlYXR1cmVzIGNvbXBpbGVkIHdpdGggdGhlIGZvbGxvd2luZyBvdXRwdXQ6CkNoYW5nZSBEaXI6IC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcAoKUnVuIEJ1aWxkIENvbW1hbmQ6Ii91c3IvYmluL21ha2UiICJjbVRDX2M1NDJmL2Zhc3QiCi91c3IvYmluL21ha2UgLWYgQ01ha2VGaWxlcy9jbVRDX2M1NDJmLmRpci9idWlsZC5tYWtlIENNYWtlRmlsZXMvY21UQ19jNTQyZi5kaXIvYnVpbGQKbWFrZVsxXTogRW50ZXJpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCkJ1aWxkaW5nIENYWCBvYmplY3QgQ01ha2VGaWxlcy9jbVRDX2M1NDJmLmRpci9mZWF0dXJlX3Rlc3RzLmN4eC5vCi91c3IvYmluL2MrKyAgICAtc3RkPWMrKzE0IC1vIENNYWtlRmlsZXMvY21UQ19jNTQyZi5kaXIvZmVhdHVyZV90ZXN0cy5jeHgubyAtYyAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvZmVhdHVyZV90ZXN0cy5jeHgKTGlua2luZyBDWFggZXhlY3V0YWJsZSBjbVRDX2M1NDJmCi9ob21lL21jdW5oYS9kZXZlbC9BcHAvQ0xpb24vY2xpb24tMjAxNy4yLjEvYmluL2NtYWtlL2Jpbi9jbWFrZSAtRSBjbWFrZV9saW5rX3NjcmlwdCBDTWFrZUZpbGVzL2NtVENfYzU0MmYuZGlyL2xpbmsudHh0IC0tdmVyYm9zZT0xCi91c3IvYmluL2MrKyAgICAgICBDTWFrZUZpbGVzL2NtVENfYzU0MmYuZGlyL2ZlYXR1cmVfdGVzdHMuY3h4Lm8gIC1vIGNtVENfYzU0MmYgCm1ha2VbMV06IExlYXZpbmcgZGlyZWN0b3J5ICcvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAnCgoKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2FnZ3JlZ2F0ZV9kZWZhdWx0X2luaXRpYWxpemVycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYWxpYXNfdGVtcGxhdGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hbGlnbmFzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hbGlnbm9mCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hdHRyaWJ1dGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9hdHRyaWJ1dGVfZGVwcmVjYXRlZAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYXV0b190eXBlCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9iaW5hcnlfbGl0ZXJhbHMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2NvbnN0ZXhwcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfY29udGV4dHVhbF9jb252ZXJzaW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVjbHR5cGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlY2x0eXBlX2F1dG8KICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlY2x0eXBlX2luY29tcGxldGVfcmV0dXJuX3R5cGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWZhdWx0X2Z1bmN0aW9uX3RlbXBsYXRlX2FyZ3MKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlZmF1bHRlZF9mdW5jdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlZmF1bHRlZF9tb3ZlX2luaXRpYWxpemVycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVsZWdhdGluZ19jb25zdHJ1Y3RvcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlbGV0ZWRfZnVuY3Rpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kaWdpdF9zZXBhcmF0b3JzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9lbnVtX2ZvcndhcmRfZGVjbGFyYXRpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9leHBsaWNpdF9jb252ZXJzaW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZXh0ZW5kZWRfZnJpZW5kX2RlY2xhcmF0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZXh0ZXJuX3RlbXBsYXRlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZmluYWwKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2Z1bmNfaWRlbnRpZmllcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZ2VuZXJhbGl6ZWRfaW5pdGlhbGl6ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9nZW5lcmljX2xhbWJkYXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2luaGVyaXRpbmdfY29uc3RydWN0b3JzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9pbmxpbmVfbmFtZXNwYWNlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbGFtYmRhcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbGFtYmRhX2luaXRfY2FwdHVyZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2xvY2FsX3R5cGVfdGVtcGxhdGVfYXJncwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbG9uZ19sb25nX3R5cGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X25vZXhjZXB0CiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9ub25zdGF0aWNfbWVtYmVyX2luaXQKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X251bGxwdHIKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X292ZXJyaWRlCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yYW5nZV9mb3IKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3Jhd19zdHJpbmdfbGl0ZXJhbHMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3JlZmVyZW5jZV9xdWFsaWZpZWRfZnVuY3Rpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yZWxheGVkX2NvbnN0ZXhwcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcmV0dXJuX3R5cGVfZGVkdWN0aW9uCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yaWdodF9hbmdsZV9icmFja2V0cwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcnZhbHVlX3JlZmVyZW5jZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3NpemVvZl9tZW1iZXIKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3N0YXRpY19hc3NlcnQKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3N0cm9uZ19lbnVtcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdGVtcGxhdGVfdGVtcGxhdGVfcGFyYW1ldGVycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdGhyZWFkX2xvY2FsCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF90cmFpbGluZ19yZXR1cm5fdHlwZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3VuaWNvZGVfbGl0ZXJhbHMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3VuaWZvcm1faW5pdGlhbGl6YXRpb24KICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3VucmVzdHJpY3RlZF91bmlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3VzZXJfbGl0ZXJhbHMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3ZhcmlhYmxlX3RlbXBsYXRlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdmFyaWFkaWNfbWFjcm9zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF92YXJpYWRpY190ZW1wbGF0ZXMKCgpEZXRlY3RpbmcgQ1hYIFstc3RkPWMrKzExXSBjb21waWxlciBmZWF0dXJlcyBjb21waWxlZCB3aXRoIHRoZSBmb2xsb3dpbmcgb3V0cHV0OgpDaGFuZ2UgRGlyOiAvaG9tZS9tY3VuaGEvZGV2ZWwvRHJ1c3QvZHJ1c3RfZmlybXdhcmUvRFJVU1QvbWN1L2NtYWtlLWJ1aWxkLWRlYnVnL0NNYWtlRmlsZXMvQ01ha2VUbXAKClJ1biBCdWlsZCBDb21tYW5kOiIvdXNyL2Jpbi9tYWtlIiAiY21UQ181ZDdkYy9mYXN0IgovdXNyL2Jpbi9tYWtlIC1mIENNYWtlRmlsZXMvY21UQ181ZDdkYy5kaXIvYnVpbGQubWFrZSBDTWFrZUZpbGVzL2NtVENfNWQ3ZGMuZGlyL2J1aWxkCm1ha2VbMV06IEVudGVyaW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwpCdWlsZGluZyBDWFggb2JqZWN0IENNYWtlRmlsZXMvY21UQ181ZDdkYy5kaXIvZmVhdHVyZV90ZXN0cy5jeHgubwovdXNyL2Jpbi9jKysgICAgLXN0ZD1jKysxMSAtbyBDTWFrZUZpbGVzL2NtVENfNWQ3ZGMuZGlyL2ZlYXR1cmVfdGVzdHMuY3h4Lm8gLWMgL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL2ZlYXR1cmVfdGVzdHMuY3h4CkxpbmtpbmcgQ1hYIGV4ZWN1dGFibGUgY21UQ181ZDdkYwovaG9tZS9tY3VuaGEvZGV2ZWwvQXBwL0NMaW9uL2NsaW9uLTIwMTcuMi4xL2Jpbi9jbWFrZS9iaW4vY21ha2UgLUUgY21ha2VfbGlua19zY3JpcHQgQ01ha2VGaWxlcy9jbVRDXzVkN2RjLmRpci9saW5rLnR4dCAtLXZlcmJvc2U9MQovdXNyL2Jpbi9jKysgICAgICAgQ01ha2VGaWxlcy9jbVRDXzVkN2RjLmRpci9mZWF0dXJlX3Rlc3RzLmN4eC5vICAtbyBjbVRDXzVkN2RjIAptYWtlWzFdOiBMZWF2aW5nIGRpcmVjdG9yeSAnL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wJwoKCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9hZ2dyZWdhdGVfZGVmYXVsdF9pbml0aWFsaXplcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2FsaWFzX3RlbXBsYXRlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYWxpZ25hcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYWxpZ25vZgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfYXR0cmlidXRlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfYXR0cmlidXRlX2RlcHJlY2F0ZWQKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2F1dG9fdHlwZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfYmluYXJ5X2xpdGVyYWxzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9jb25zdGV4cHIKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2NvbnRleHR1YWxfY29udmVyc2lvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlY2x0eXBlCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9kZWNsdHlwZV9hdXRvCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWNsdHlwZV9pbmNvbXBsZXRlX3JldHVybl90eXBlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZGVmYXVsdF9mdW5jdGlvbl90ZW1wbGF0ZV9hcmdzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWZhdWx0ZWRfZnVuY3Rpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWZhdWx0ZWRfbW92ZV9pbml0aWFsaXplcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2RlbGVnYXRpbmdfY29uc3RydWN0b3JzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9kZWxldGVkX2Z1bmN0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGlnaXRfc2VwYXJhdG9ycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZW51bV9mb3J3YXJkX2RlY2xhcmF0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfZXhwbGljaXRfY29udmVyc2lvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2V4dGVuZGVkX2ZyaWVuZF9kZWNsYXJhdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2V4dGVybl90ZW1wbGF0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2ZpbmFsCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9mdW5jX2lkZW50aWZpZXIKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2dlbmVyYWxpemVkX2luaXRpYWxpemVycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZ2VuZXJpY19sYW1iZGFzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9pbmhlcml0aW5nX2NvbnN0cnVjdG9ycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfaW5saW5lX25hbWVzcGFjZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2xhbWJkYXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2xhbWJkYV9pbml0X2NhcHR1cmVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9sb2NhbF90eXBlX3RlbXBsYXRlX2FyZ3MKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X2xvbmdfbG9uZ190eXBlCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9ub2V4Y2VwdAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfbm9uc3RhdGljX21lbWJlcl9pbml0CiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9udWxscHRyCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9vdmVycmlkZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcmFuZ2VfZm9yCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yYXdfc3RyaW5nX2xpdGVyYWxzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9yZWZlcmVuY2VfcXVhbGlmaWVkX2Z1bmN0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfcmVsYXhlZF9jb25zdGV4cHIKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X3JldHVybl90eXBlX2RlZHVjdGlvbgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfcmlnaHRfYW5nbGVfYnJhY2tldHMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3J2YWx1ZV9yZWZlcmVuY2VzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9zaXplb2ZfbWVtYmVyCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9zdGF0aWNfYXNzZXJ0CiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF9zdHJvbmdfZW51bXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3RlbXBsYXRlX3RlbXBsYXRlX3BhcmFtZXRlcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3RocmVhZF9sb2NhbAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdHJhaWxpbmdfcmV0dXJuX3R5cGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF91bmljb2RlX2xpdGVyYWxzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF91bmlmb3JtX2luaXRpYWxpemF0aW9uCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF91bnJlc3RyaWN0ZWRfdW5pb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF91c2VyX2xpdGVyYWxzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF92YXJpYWJsZV90ZW1wbGF0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRToxY3h4X3ZhcmlhZGljX21hY3JvcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjFjeHhfdmFyaWFkaWNfdGVtcGxhdGVzCgoKRGV0ZWN0aW5nIENYWCBbLXN0ZD1jKys5OF0gY29tcGlsZXIgZmVhdHVyZXMgY29tcGlsZWQgd2l0aCB0aGUgZm9sbG93aW5nIG91dHB1dDoKQ2hhbmdlIERpcjogL2hvbWUvbWN1bmhhL2RldmVsL0RydXN0L2RydXN0X2Zpcm13YXJlL0RSVVNUL21jdS9jbWFrZS1idWlsZC1kZWJ1Zy9DTWFrZUZpbGVzL0NNYWtlVG1wCgpSdW4gQnVpbGQgQ29tbWFuZDoiL3Vzci9iaW4vbWFrZSIgImNtVENfNGFjOGIvZmFzdCIKL3Vzci9iaW4vbWFrZSAtZiBDTWFrZUZpbGVzL2NtVENfNGFjOGIuZGlyL2J1aWxkLm1ha2UgQ01ha2VGaWxlcy9jbVRDXzRhYzhiLmRpci9idWlsZAptYWtlWzFdOiBFbnRlcmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKQnVpbGRpbmcgQ1hYIG9iamVjdCBDTWFrZUZpbGVzL2NtVENfNGFjOGIuZGlyL2ZlYXR1cmVfdGVzdHMuY3h4Lm8KL3Vzci9iaW4vYysrICAgIC1zdGQ9YysrOTggLW8gQ01ha2VGaWxlcy9jbVRDXzRhYzhiLmRpci9mZWF0dXJlX3Rlc3RzLmN4eC5vIC1jIC9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9mZWF0dXJlX3Rlc3RzLmN4eApMaW5raW5nIENYWCBleGVjdXRhYmxlIGNtVENfNGFjOGIKL2hvbWUvbWN1bmhhL2RldmVsL0FwcC9DTGlvbi9jbGlvbi0yMDE3LjIuMS9iaW4vY21ha2UvYmluL2NtYWtlIC1FIGNtYWtlX2xpbmtfc2NyaXB0IENNYWtlRmlsZXMvY21UQ180YWM4Yi5kaXIvbGluay50eHQgLS12ZXJib3NlPTEKL3Vzci9iaW4vYysrICAgICAgIENNYWtlRmlsZXMvY21UQ180YWM4Yi5kaXIvZmVhdHVyZV90ZXN0cy5jeHgubyAgLW8gY21UQ180YWM4YiAKbWFrZVsxXTogTGVhdmluZyBkaXJlY3RvcnkgJy9ob21lL21jdW5oYS9kZXZlbC9EcnVzdC9kcnVzdF9maXJtd2FyZS9EUlVTVC9tY3UvY21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9DTWFrZVRtcCcKCgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfYWdncmVnYXRlX2RlZmF1bHRfaW5pdGlhbGl6ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9hbGlhc190ZW1wbGF0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2FsaWduYXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2FsaWdub2YKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2F0dHJpYnV0ZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2F0dHJpYnV0ZV9kZXByZWNhdGVkCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9hdXRvX3R5cGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2JpbmFyeV9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfY29uc3RleHByCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9jb250ZXh0dWFsX2NvbnZlcnNpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9kZWNsdHlwZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGVjbHR5cGVfYXV0bwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGVjbHR5cGVfaW5jb21wbGV0ZV9yZXR1cm5fdHlwZXMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2RlZmF1bHRfZnVuY3Rpb25fdGVtcGxhdGVfYXJncwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGVmYXVsdGVkX2Z1bmN0aW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGVmYXVsdGVkX21vdmVfaW5pdGlhbGl6ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9kZWxlZ2F0aW5nX2NvbnN0cnVjdG9ycwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZGVsZXRlZF9mdW5jdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2RpZ2l0X3NlcGFyYXRvcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2VudW1fZm9yd2FyZF9kZWNsYXJhdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2V4cGxpY2l0X2NvbnZlcnNpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9leHRlbmRlZF9mcmllbmRfZGVjbGFyYXRpb25zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9leHRlcm5fdGVtcGxhdGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9maW5hbAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfZnVuY19pZGVudGlmaWVyCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9nZW5lcmFsaXplZF9pbml0aWFsaXplcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2dlbmVyaWNfbGFtYmRhcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfaW5oZXJpdGluZ19jb25zdHJ1Y3RvcnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X2lubGluZV9uYW1lc3BhY2VzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9sYW1iZGFzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9sYW1iZGFfaW5pdF9jYXB0dXJlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfbG9jYWxfdHlwZV90ZW1wbGF0ZV9hcmdzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9sb25nX2xvbmdfdHlwZQogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfbm9leGNlcHQKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X25vbnN0YXRpY19tZW1iZXJfaW5pdAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfbnVsbHB0cgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfb3ZlcnJpZGUKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X3JhbmdlX2ZvcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfcmF3X3N0cmluZ19saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfcmVmZXJlbmNlX3F1YWxpZmllZF9mdW5jdGlvbnMKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X3JlbGF4ZWRfY29uc3RleHByCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9yZXR1cm5fdHlwZV9kZWR1Y3Rpb24KICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X3JpZ2h0X2FuZ2xlX2JyYWNrZXRzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF9ydmFsdWVfcmVmZXJlbmNlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfc2l6ZW9mX21lbWJlcgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfc3RhdGljX2Fzc2VydAogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfc3Ryb25nX2VudW1zCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MWN4eF90ZW1wbGF0ZV90ZW1wbGF0ZV9wYXJhbWV0ZXJzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF90aHJlYWRfbG9jYWwKICAgIEZlYXR1cmUgcmVjb3JkOiBDWFhfRkVBVFVSRTowY3h4X3RyYWlsaW5nX3JldHVybl90eXBlcwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfdW5pY29kZV9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfdW5pZm9ybV9pbml0aWFsaXphdGlvbgogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfdW5yZXN0cmljdGVkX3VuaW9ucwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfdXNlcl9saXRlcmFscwogICAgRmVhdHVyZSByZWNvcmQ6IENYWF9GRUFUVVJFOjBjeHhfdmFyaWFibGVfdGVtcGxhdGVzCiAgICBGZWF0dXJlIHJlY29yZDogQ1hYX0ZFQVRVUkU6MGN4eF92YXJpYWRpY19tYWNyb3MKICAgIEY=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">VGhlIHN5c3RlbSBpczogTGludXggLSA0LjkuMC00LWFtZDY0IC0geDg2XzY0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mcu</last-search>
+      <last-search>cryp</last-search>
       <last-offset />
-      <last-pattern>mcu</last-pattern>
+      <last-pattern>cryp</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -453,19 +463,6 @@ S</text>
     </search>
     <history>
       <history-search>
-        <entry>cb</entry>
-        <entry>start</entry>
-        <entry>stop</entry>
-        <entry>format</entry>
-        <entry>falsh_</entry>
-        <entry>init</entry>
-        <entry>28 * 1024</entry>
-        <entry>w</entry>
-        <entry>sys_queue</entry>
-        <entry>simple</entry>
-        <entry>frame_di</entry>
-        <entry>diag</entry>
-        <entry>migra</entry>
         <entry>savenor_init</entry>
         <entry>main</entry>
         <entry>CXX_FLAG</entry>
@@ -473,9 +470,21 @@ S</text>
         <entry>boot</entry>
         <entry>uint32_</entry>
         <entry>mcu</entry>
+        <entry>force</entry>
+        <entry>CC</entry>
+        <entry>cc</entry>
+        <entry>arm</entry>
+        <entry>gcc</entry>
+        <entry>std</entry>
+        <entry>cry</entry>
+        <entry>PKS</entry>
+        <entry>RSQ</entry>
+        <entry>RSA</entry>
+        <entry>clean</entry>
+        <entry>-g</entry>
+        <entry>cryp</entry>
       </history-search>
       <history-cmd>
-        <entry>ẅ</entry>
         <entry>158</entry>
         <entry>366</entry>
         <entry>s</entry>
@@ -494,6 +503,7 @@ S</text>
         <entry>100</entry>
         <entry>700</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>ẅ</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
