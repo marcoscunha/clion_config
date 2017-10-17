@@ -138,12 +138,12 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508232140937">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508235139907">
         <mark key="'" line="7" column="38" />
-        <mark key="[" line="14" column="90" />
-        <mark key="]" line="14" column="89" />
-        <mark key="." line="14" column="89" />
-        <mark key="^" line="14" column="89" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.h" timestamp="1506089049400">
         <mark key="'" line="36" column="18" />
@@ -166,12 +166,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508232442341">
-        <mark key="'" line="119" column="12" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="^" line="401" column="0" />
-        <mark key="." line="393" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1508236481458">
+        <mark key="'" line="306" column="40" />
+        <mark key="]" line="311" column="0" />
+        <mark key="^" line="311" column="0" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1508231649817">
         <mark key="'" line="74" column="27" />
@@ -292,14 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
-      <jump line="20" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" />
-      <jump line="17" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="66" column="49" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="428" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" />
-      <jump line="432" column="58" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" />
-      <jump line="459" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" />
-      <jump line="225" column="67" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="220" column="66" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="229" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="408" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
@@ -392,59 +383,141 @@
       <jump line="119" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="71" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
       <jump line="74" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
+      <jump line="181" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="272" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="29" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="125" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="157" column="22" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="175" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="50" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
+      <jump line="306" column="40" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>include_directories( STM32Cube_FW_F0_V1.2.0/Drivers/CMSIS/Include/ )</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>include_directories( STM32Cube_FW_F0_V1.2.0/Drivers/CMSIS/Include/ )</text>
       </register>
       <register name="/" type="4">
-        <text>nano</text>
+        <text>depend</text>
       </register>
       <register name="0" type="4">
-        <text>LDFLAGS = --specs=nano.specs</text>
+        <text>add_definitions( -DAT_DEBUG )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3RvcmllcyggL2hvbWUvbWN1bmhhL2RldmVsL1Rvb2xzL2djYy1hcm0tbm9uZS1lYWJpL2djYy1hcm0tbm9uZS1lYWJpLTVfMy0yMDE2cTEvYXJtLW5vbmUtZWFiaS9pbmNsdWRlLyApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3RhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0uZWxmIENNU0lTKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>#        crypto/Inc/AES/CBC/aes_cbc.h
+#        crypto/Inc/AES/CCM/aes_ccm.h
+#        crypto/Inc/AES/CFB/aes_cfb.h
+#        crypto/Inc/AES/CMAC/aes_cmac.h
+#        crypto/Inc/AES/Common/aes_common.h
+#        crypto/Inc/AES/Common/aes_low_level.h
+#        crypto/Inc/AES/CTR/aes_ctr.h
+#        crypto/Inc/AES/ECB/aes_ecb.h
+#        crypto/Inc/AES/GCM/aes_gcm.h
+#        crypto/Inc/AES/KEYWRAP/aes_keywrap.h
+#        crypto/Inc/AES/OFB/aes_ofb.h
+#        crypto/Inc/AES/XTS/aes_xts.h
+#        crypto/Inc/AES/aes.h
+#        crypto/Inc/ARC4/arc4.h
+#        crypto/Inc/C25519/c25519.h
+#        crypto/Inc/CHACHA/chacha.h
+#        crypto/Inc/CHACHA20-POLY1305/chacha20-poly1305.h
+#        crypto/Inc/Common/err_codes.h
+#        crypto/Inc/Common/macros.h
+#        crypto/Inc/Common/sk.h
+#        crypto/Inc/Common/types.h
+#        crypto/Inc/Common_chacha20_poly1305/chacha20_core.h
+#        crypto/Inc/Common_chacha20_poly1305/poly1305_core.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/arith.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/bn.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/conv.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/modular.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/monty.h
+#        crypto/Inc/Common_ecc_rsa/MATH/BN/rng_bn.h
+#        crypto/Inc/Common_ecc_rsa/MATH/math.h
+#        crypto/Inc/Common_ed25519_c25519/internals/fe25519.h
+#        crypto/Inc/DES/CBC/des_cbc.h
+#        crypto/Inc/DES/Common/des_common.h
+#        crypto/Inc/DES/ECB/des_ecb.h
+#        crypto/Inc/DES/des.h
+#        crypto/Inc/ECC/LowLevel/elliptic.h
+#        crypto/Inc/ECC/ecc.h
+#        crypto/Inc/ED25519/internals/ge25519.h
+#        crypto/Inc/ED25519/internals/sc25519.h
+#        crypto/Inc/ED25519/ed25519.h
+#        crypto/Inc/HASH/Common/hash_common.h
+#        crypto/Inc/HASH/Common/sha256_sha224_transform.h
+#        crypto/Inc/HASH/Common/sha512_sha384_transform.h
+#        crypto/Inc/HASH/MD5/hmac_md5.h
+#        crypto/Inc/HASH/MD5/md5.h
+#        crypto/Inc/HASH/MD5/md5_low_level.h
+#        crypto/Inc/HASH/SHA1/hmac_sha1.h
+#        crypto/Inc/HASH/SHA1/sha1.h
+#        crypto/Inc/HASH/SHA1/sha1_low_level.h
+#        crypto/Inc/HASH/SHA224/hmac_sha224.h
+#        crypto/Inc/HASH/SHA224/sha224.h
+#        crypto/Inc/HASH/SHA224/sha224_low_level.h
+#        crypto/Inc/HASH/SHA256/hmac_sha256.h
+#        crypto/Inc/HASH/SHA256/sha256.h
+#        crypto/Inc/HASH/SHA256/sha256_low_level.h
+#        crypto/Inc/HASH/SHA384/hmac_sha384.h
+#        crypto/Inc/HASH/SHA384/sha384.h
+#        crypto/Inc/HASH/SHA384/sha384_low_level.h
+#        crypto/Inc/HASH/SHA512/hkdf512.h
+#        crypto/Inc/HASH/SHA512/hmac_sha512.h
+#        crypto/Inc/HASH/SHA512/sha512.h
+#        crypto/Inc/HASH/SHA512/sha512_low_level.h
+#        crypto/Inc/HASH/hash.h
+#        crypto/Inc/POLY1305/poly1305.h
+#        crypto/Inc/RNG/DRBG_AES128/drbg.h
+#        crypto/Inc/RNG/rng.h
+#        crypto/Inc/RSA/LowLevel/rsa_low_level.h
+#        crypto/Inc/RSA/PKCS\#1v15/rsa_pkcs1v15.h
+#        crypto/Inc/RSA/rsa.h
+#        crypto/Inc/TDES/CBC/tdes_cbc.h
+#        crypto/Inc/TDES/Common/tdes_common.h
+#        crypto/Inc/TDES/ECB/tdes_ecb.h
+#        crypto/Inc/TDES/tdes.h
+#        crypto/Inc/config.h
+#        crypto/Inc/crypto.h</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyAgICAgICAgYXBwL2Frb2x5dF9zYXZlYm9vdHN0cmFwLmgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICAgICAgYXBwL2Frb2x5dF9zYXZlYm9vdHN0cmFwLmMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I3RhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0uZWxmIENNU0lTKQo=</text>
+      </register>
+      <register name="8" type="4">
         <text>add_definitions( -DBUILD_DEV )
 add_definitions( -DENABLE_CONSOLE )</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWRkX2RlZmluaXRpb25zKCAtVUVOQUJMRV9DT05TT0xFKSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFIHN0bTMyZjA5cmMuY21ha2UpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y21ha2UtYnVpbGQtZGVidWcvQ01ha2VGaWxlcy9ha29seXRfY21ha2UuZWxmLmRpci9kZXBlbmQubWFrZToK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2V0KENNQUtFX1RPT0xDSEFJTl9GSUxFIHN0bTMyZjA5cmMuY21ha2UpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgLURERUJVR19CTEUpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgLURBQ1FVSVJFX0RFQlVHCg==</text>
+        <text encoding="base64">YWRkX2RlZmluaXRpb25zKCAtVUVOQUJMRV9DT05TT0xFKSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nano</last-search>
+      <last-search>depend</last-search>
       <last-offset />
-      <last-pattern>nano</last-pattern>
+      <last-pattern>depend</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -452,13 +525,6 @@ add_definitions( -DENABLE_CONSOLE )</text>
     </search>
     <history>
       <history-search>
-        <entry>cc</entry>
-        <entry>arm</entry>
-        <entry>gcc</entry>
-        <entry>std</entry>
-        <entry>cry</entry>
-        <entry>PKS</entry>
-        <entry>RSQ</entry>
         <entry>RSA</entry>
         <entry>clean</entry>
         <entry>-g</entry>
@@ -468,17 +534,23 @@ add_definitions( -DENABLE_CONSOLE )</text>
         <entry>test</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry>bootl</entry>
-        <entry>CMSIS</entry>
         <entry>-lCMS</entry>
-        <entry>main</entry>
         <entry>nano</entry>
+        <entry>sha_258</entry>
+        <entry>.S</entry>
+        <entry>.s</entry>
+        <entry>\.S</entry>
+        <entry>\.s</entry>
+        <entry>main</entry>
+        <entry>it</entry>
+        <entry>CMSIS</entry>
+        <entry>depend</entry>
       </history-search>
       <history-cmd>
         <entry>158</entry>
         <entry>366</entry>
         <entry>s</entry>
         <entry>240</entry>
-        <entry>W</entry>
         <entry>396</entry>
         <entry>528</entry>
         <entry>556</entry>
@@ -493,6 +565,7 @@ add_definitions( -DENABLE_CONSOLE )</text>
         <entry>700</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ẅ</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
