@@ -15,11 +15,11 @@
         <mark key="^" line="21" column="39" />
         <mark key="." line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508334011317">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508335217846">
         <mark key="'" line="121" column="34" />
-        <mark key="[" line="125" column="8" />
-        <mark key="]" line="135" column="15" />
-        <mark key="." line="125" column="8" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/sys.c" timestamp="1508316262226">
         <mark key="'" line="360" column="1" />
@@ -357,8 +357,8 @@
       <jump line="557" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBjaGFyICp0b2sgPSBzdHJ0b2sgKCBjcmVnX3N0ciwgIiAiICk7CiAgICBpbnQgaSA9IDA7CgogICAgZG8KICAgIHsKICAgICAgICBpKys7CiAgICAgICAgdG9rID0gc3RydG9rICggTlVMTCwgIiAsXG4iICk7CiAgICB9IHdoaWxlICggKCB0b2sgIT0gTlVMTCApICYmICggaSA8IENSRUdfRklFTERfUkVHSVNUUkFUSU9OICkgKTsKCiAgICByZXR1cm4gdG9rOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0b2s7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIGF0ICggIiIsICJPSyIsIG5ldHdvcmtfbWFuYWdlcl9nZXRfZ3NtX2xldmVsX2NhbGxiYWNrLCAxMDAwLCBOVUxMICk7</text>
@@ -369,35 +369,35 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGNoYXIgKnRvayA9IHN0cnRvayAoIGNyZWdfc3RyLCAiICIgKTsKICAgIGludCBpID0gMDsKCiAgICBkbwogICAgewogICAgICAgIGkrKzsKICAgICAgICB0b2sgPSBzdHJ0b2sgKCBOVUxMLCAiICxcbiIgKTsKICAgIH0gd2hpbGUgKCAoIHRvayAhPSBOVUxMICkgJiYgKCBpIDwgQ1JFR19GSUVMRF9SRUdJU1RSQVRJT04gKSApOwoKICAgIHJldHVybiB0b2s7</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBjaGFyICp0b2sgPSBzdHJ0b2sgKCBjcmVnX3N0ciwgIiAiICk7CiAgICBpbnQgaSA9IDA7CgogICAgZG8KICAgIHsKICAgICAgICBpKys7CiAgICAgICAgdG9rID0gc3RydG9rICggTlVMTCwgIiAsXG4iICk7CiAgICB9IHdoaWxlICggKCB0b2sgIT0gTlVMTCApICYmICggaSA8IENSRUdfRklFTERfUkVHSVNUUkFUSU9OICkgKTsKCiAgICByZXR1cm4gdG9rOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0b2s7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfcXVlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBjaGFyICp0b2sgPSBzdHJ0b2sgKCBjcmVnX3N0ciwgIiAiICk7CiAgICBpbnQgaSA9IDA7CgogICAgZG8KICAgIHsKICAgICAgICBpKys7CiAgICAgICAgdG9rID0gc3RydG9rICggTlVMTCwgIiAsXG4iICk7CiAgICB9IHdoaWxlICggKCB0b2sgIT0gTlVMTCApICYmICggaSA8IENSRUdfRklFTERfUkVHSVNUUkFUSU9OICkgKTsKCiAgICByZXR1cm4gdG9rOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50IGF0ICggY2hhciAqY21kLCBjaGFyICphbnMsIGF0X2V2ZW50X2hhbmRsZXJfdCAqY2FsbGJhY2ssIGludCB0aW1lb3V0LCB2b2lkICpjdHggKQo=</text>
+        <text encoding="base64">ICAgICAgICBzeXNfcXVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN5c19xdWV1ZSggKQo=</text>
+        <text encoding="base64">aW50IGF0ICggY2hhciAqY21kLCBjaGFyICphbnMsIGF0X2V2ZW50X2hhbmRsZXJfdCAqY2FsbGJhY2ssIGludCB0aW1lb3V0LCB2b2lkICpjdHggKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEdldAo=</text>
+        <text encoding="base64">ICAgIHN5c19xdWV1ZSggKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEdldAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICggICApCg==</text>
+        <text encoding="base64">ICAgIHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICggICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
