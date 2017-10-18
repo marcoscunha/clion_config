@@ -97,12 +97,10 @@
         <mark key="^" line="110" column="34" />
         <mark key="." line="110" column="34" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1508342982501">
-        <mark key="'" line="214" column="7" />
-        <mark key="[" line="236" column="35" />
-        <mark key="]" line="236" column="55" />
-        <mark key="." line="236" column="55" />
-        <mark key="^" line="236" column="55" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1508346051717">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.h" timestamp="1508344741547">
         <mark key="[" line="109" column="53" />
@@ -121,6 +119,11 @@
         <mark key="]" line="80" column="35" />
         <mark key="^" line="80" column="36" />
         <mark key="." line="80" column="36" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.h" timestamp="1508167984094">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508248124966">
         <mark key="'" line="673" column="16" />
@@ -176,6 +179,11 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/watchdog.h" timestamp="1507910649890">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/.gitignore" timestamp="1508318016523">
         <mark key="[" line="39" column="4" />
         <mark key="]" line="40" column="4" />
@@ -207,6 +215,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1508166972261">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508337516168">
         <mark key="'" line="202" column="0" />
         <mark key="[" line="207" column="30" />
@@ -217,7 +230,7 @@
       <file name="/GDB" timestamp="1508248753794">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508343494871">
+      <file name="/Dummy.txt" timestamp="1508345590195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" timestamp="1508344720169">
@@ -277,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="172" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="233" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="277" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
@@ -377,58 +389,59 @@
       <jump line="17" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
       <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" />
       <jump line="4" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" />
+      <jump line="199" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>upoload</text>
+        <text>sequel</text>
       </register>
       <register name="0" type="4">
         <text>void ako_trip_data_upload_sequel ( void *ctx, int id )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFrb191cGxvYWRfc3RhcnQgKCAmdHJpcF9zYXZldHMsIHRyaXBfZGF0YV9lbmRwb2ludCwgTlVMTCApOwp9Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dm9pZCBha29fdHJpcF9kYXRhX3VwbG9hZCAoIHZvaWQgKQp7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly92b2lkIGFrb2x5dF91cGxvYWRfc2VxdWVsX2NiICggdm9pZCogcmV0ICkKLy97Ci8vICAgIGlmICggKGFrb191cGxvYWRfcmV0dXJuX3QpcmV0ID09IEFLT19VUExPQURfT0sgKQovLyAgICB7Ci8vICAgICAgICBJTkZPX0xPRyAoICJbSV0gJXMgU3RhcnQgdXBsb2FkIHRyaXAuLi5cbiIsIF9fRlVOQ1RJT05fXyApOwovLyAgICAgICAgYWtvX3RyaXBfZGF0YV91cGxvYWQgKCApOwovLyAgICB9Ci8vfQoKLy92b2lkIGFrb2x5dF9zZW5kX3RyaXAgKCB2b2lkICkKLy97Ci8vICAgIGlmICggYWtvX3VwbG9hZF9pc19hY3RpdmUgKCApID09IEZBTFNFICYmIGFrb2x5dC5vYmRfYWxpdmUgPT0gRkFMU0UgJiYgYWtvX2ZvdGFncHJzX2lzX2lkbGUgKCApID09IFRSVUUgJiYgYWtvbHl0LnN0b3JlX3RyaXAgPT0gRkFMU0UgKQovLyAgICB7Ci8vICAgICAgICBJTkZPX0xPRyAoICJbSV0gJXMgU3RhcnQgdXBsb2FkIGRldmljZSBldmVudCAuLi5cbiIsIF9fRlVOQ1RJT05fXyApOwovLyAgICAgICAgaWYgKCBha29fZGV2aWNlX2V2ZW50X3VwbG9hZCAoICkgPT0gQUtPX1VQTE9BRF9FTVBUWSApCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgSU5GT19MT0cgKCAiW0ldICVzIFN0YXJ0IHVwbG9hZCB0cmlwIC4uLlxuIiwgX19GVU5DVElPTl9fICk7Ci8vICAgICAgICAgICAgYWtvX3RyaXBfZGF0YV91cGxvYWQgKCApOwovLyAgICAgICAgfQovLyAgICB9Ci8vICAgIGVsc2UKLy8gICAgewovLyAgICAgICAgSU5GT19MT0cgKCAgIltJXSBBdm9pZCB1cGxvYWRpbmcgLi4uXG4iICk7Ci8vICAgICAgICAvLyBGSVhNRTogdG8gcmV0cnkgb3Igbm90IHRvIHJldHJ5Pz8/Ci8vICAgIH0KLy99CgovL3ZvaWQgYWtvbHl0X3JlcXVlc3RfZm90YSAoIHZvaWQgKQovL3sKLy8gICAgaWYgKCAhYWtvX3VwbG9hZF9pc19hY3RpdmUgKCApICYmICFmb3RhX2lzX2luX3Byb2dyZXNzICggKSAmJiBha29fZm90YWdwcnNfaXNfaWRsZSAoICkgKQovLyAgICB7Ci8vICAgICAgICBjcHJpbnRmICggVEFHLCBDT0xPUl9HUkVFTiAiW0ldIFN0YXJ0IHJlcXVlc3QgZm90YSBncHJzIGluZm9ybWF0aW9uXG4iICk7Ci8vICAgICAgICBha29fZm90YWdwcnNfaHR0cHNfaXN1cF9jYiAoICk7Ci8vICAgIH0KLy8gICAgZWxzZQovLyAgICB7Ci8vICAgICAgICBjcHJpbnRmICggVEFHLCBDT0xPUl9ZRUxMT1cgIltXXSBBdm9pZCByZXF1ZXN0IGZvdGEgZ3BycyBpbmZvcm1hdGlvblxuIiApOwovLyAgICAgICAgLy8gRklYTUU6IHRvIHJldHJ5IG9yIG5vdCB0byByZXRyeT8/PwovLyAgICB9Ci8vfQovKioKICoKICov</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dm9pZCBha29fdHJpcF9kYXRhX3VwbG9hZCAoIHZvaWQgKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Ci8vdm9pZCBha29seXRfZm90YV91cDJkYXRlX2NiICggdm9pZCAqY3R4LCBpbnQgaWQgKQovL3sKLy8gIGFrb2x5dF9zZW5kX3RyaXAgKCApOwovL30=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQgICAgcmV0ID0gYWtvX3VwbG9hZF9zdGFydCAoIChha29fc2F2ZXRzX3QgKikmZGV2X3NhdmV0cywgZGV2aWNlX2V2ZW50X2VuZHBvaW50LCBha29fZGV2aWNlX2V2ZW50X3VwbG9hZF9zZXF1ZWwgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFrb191cGxvYWRfc3RhcnQgKCAmdHJpcF9zYXZldHMsIHRyaXBfZGF0YV9lbmRwb2ludCwgTlVMTCApOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">dm9pZCBha29fdHJpcF9kYXRhX3VwbG9hZCAoIHZvaWQgKQp7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>upoload</last-search>
+      <last-search>sequel</last-search>
       <last-offset />
-      <last-pattern>upoload</last-pattern>
+      <last-pattern>sequel</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send_tip</entry>
         <entry>send_trip</entry>
         <entry>wath</entry>
         <entry>was</entry>
@@ -456,6 +468,7 @@
         <entry>endpoint</entry>
         <entry>upload</entry>
         <entry>upoload</entry>
+        <entry>sequel</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
