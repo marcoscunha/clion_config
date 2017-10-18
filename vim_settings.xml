@@ -80,11 +80,6 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" timestamp="1508167035689">
         <mark key="'" line="2174" column="170" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1508166972261">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
       </file>
@@ -128,13 +123,15 @@
         <mark key="^" line="80" column="36" />
         <mark key="." line="80" column="36" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508311210430">
-        <mark key="'" line="504" column="7" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" timestamp="1508311749326">
+        <mark key="'" line="223" column="3" />
+        <mark key="[" line="224" column="75" />
+        <mark key="]" line="224" column="74" />
+        <mark key="." line="224" column="74" />
+        <mark key="^" line="224" column="74" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.h" timestamp="1508167984094">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508311237875">
+        <mark key="'" line="504" column="7" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508248124966">
         <mark key="'" line="673" column="16" />
@@ -194,14 +191,12 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1507896885165">
         <mark key="'" line="66" column="49" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/watchdog.h" timestamp="1507910649890">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1508311535887">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="39" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="702" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="692" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="574" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
@@ -301,10 +296,11 @@
       <jump line="199" column="2" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
       <jump line="233" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
       <jump line="504" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
+      <jump line="218" column="3" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGJvb2xfdCBpc19lbXB0eTs=</text>
+        <text>AKO_PWR_LOG</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIGJvb2xfdCBpc19lbXB0eTs=</text>
@@ -313,37 +309,41 @@
         <text>imu_rese</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggQUtPX05FVFdPUktfTUFOQUdFUl9PSywgcmV0ICk7</text>
+        <text>AKO_PWR_LOG</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggQUtPX05FVFdPUktfTUFOQUdFUl9PSywgcmV0ICk7Cg==</text>
+      <register name="1" type="4">
+        <text>#ifndef BSP_OBD_DEBUG
+#define OBD_WRAPPER_LOG( args... )
+#else
+#define OBD_WRAPPER_LOG( fmt, ... ) cprintf ( TAG, fmt, ##__VA_ARGS__ )
+#endif</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS51cmwgKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8jZGVmaW5lIEFLT19QV1JfREVCVUcK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEFLT18K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggMCwgdGVzdF9uZXR3b3JrX3F1ZXVlLT50YXNrWyAxIF0uc2F2ZXRzICk7CiAgICBURVNUX0FTU0VSVF9FUVVBTCAoIE5VTEwsIHRlc3RfbmV0d29ya19xdWV1ZS0+dGFza1sgMSBdLnVybCApOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggQUtPX05FVFdPUktfTUFOQUdFUl9PSywgcmV0ICk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS51cmwgKTs=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggMCwgdGVzdF9uZXR3b3JrX3F1ZXVlLT50YXNrWyAxIF0uc2F2ZXRzICk7CiAgICBURVNUX0FTU0VSVF9FUVVBTCAoIE5VTEwsIHRlc3RfbmV0d29ya19xdWV1ZS0+dGFza1sgMSBdLnVybCApOw==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggMSwgdGVzdF9uZXR3b3JrX3F1ZXVlLT5oZWFkICk7</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9uZXR3b3JrX21hbmFnZXIuaD4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY2hhciB0ZXN0X3VybFsgMjU2IF0gPSAiaHR0cHM6Ly9kcnVzdC5pby90ZXN0X2VuZHBvaW50IjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
