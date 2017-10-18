@@ -68,6 +68,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_battery_level_indicator.c" timestamp="1508313141325" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1507883825746">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="1" />
@@ -77,8 +78,12 @@
       <file name="/preview" timestamp="1507551333929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/akolyt_cmake.elf.dir/build.make" timestamp="1508167035689">
-        <mark key="'" line="2174" column="170" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508313246153">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
@@ -101,15 +106,12 @@
       <file name="/Dummy.txt" timestamp="1508158216499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" timestamp="1508167875637">
-        <mark key="'" line="247" column="0" />
-        <mark key="[" line="207" column="33" />
-        <mark key="]" line="207" column="33" />
-        <mark key="." line="207" column="33" />
-        <mark key="^" line="207" column="33" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_diagnostic_build.c" timestamp="1507909500615">
-        <mark key="'" line="29" column="23" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" timestamp="1508312515390">
+        <mark key="'" line="205" column="19" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_stubs.c" timestamp="1507730715274">
         <mark key="[" line="18" column="0" />
@@ -123,15 +125,19 @@
         <mark key="^" line="80" column="36" />
         <mark key="." line="80" column="36" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" timestamp="1508311749326">
-        <mark key="'" line="223" column="3" />
-        <mark key="[" line="224" column="75" />
-        <mark key="]" line="224" column="74" />
-        <mark key="." line="224" column="74" />
-        <mark key="^" line="224" column="74" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" timestamp="1508313236952">
+        <mark key="'" line="223" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508311237875">
-        <mark key="'" line="504" column="7" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508313119989">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="143" column="1" />
+        <mark key="." line="143" column="1" />
+        <mark key="^" line="143" column="1" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508248124966">
         <mark key="'" line="673" column="16" />
@@ -145,9 +151,6 @@
         <mark key="]" line="199" column="1" />
         <mark key="^" line="199" column="1" />
         <mark key="." line="199" column="1" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1508228539917">
-        <mark key="'" line="79" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch..txt" timestamp="1508159981856">
         <mark key="[" line="14" column="65" />
@@ -188,21 +191,12 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1507896885165">
-        <mark key="'" line="66" column="49" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1508311535887">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="39" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="702" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="692" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="574" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="247" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
-      <jump line="705" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="680" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="2" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
       <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" />
@@ -297,62 +291,79 @@
       <jump line="233" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
       <jump line="504" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
       <jump line="218" column="3" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" />
+      <jump line="223" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_pwr.c" />
+      <jump line="203" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
+      <jump line="179" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
+      <jump line="3" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="148" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="202" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AKO_PWR_LOG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGJvb2xfdCBpc19lbXB0eTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>imu_rese</text>
+        <text>PWR</text>
       </register>
       <register name="0" type="4">
-        <text>AKO_PWR_LOG</text>
+        <text>#ifndef AKO_PWR_DEBUG
+#define AKO_PWR_LOG( args... )
+#else
+#define AKO_PWR_LOG( fmt, ... ) cprintf ( TAG, fmt, ##__VA_ARGS__ )
+#endif</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">I2VuZGlmCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2lmZGVmIElNVV9ERUJVRwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">I2VuZGlmCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2lmZGVmIElNVV9ERUJVRwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>//static int32_t a0 = 262144;
+//static int32_t a1 = -766531;
+//static int32_t a2 = 747777;
+//static int32_t a3 = -243353;
+//static int32_t b0 = 2547;
+//static int32_t b1 = -2529;
+//static int32_t b2 = -2529;
+//static int32_t b3 = 2547;</text>
+      </register>
+      <register name="7" type="4">
         <text>#ifndef BSP_OBD_DEBUG
 #define OBD_WRAPPER_LOG( args... )
 #else
 #define OBD_WRAPPER_LOG( fmt, ... ) cprintf ( TAG, fmt, ##__VA_ARGS__ )
 #endif</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8jZGVmaW5lIEFLT19QV1JfREVCVUcK</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIEFLT18K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggQUtPX05FVFdPUktfTUFOQUdFUl9PSywgcmV0ICk7Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDcgXS51cmwgKTs=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggMCwgdGVzdF9uZXR3b3JrX3F1ZXVlLT50YXNrWyAxIF0uc2F2ZXRzICk7CiAgICBURVNUX0FTU0VSVF9FUVVBTCAoIE5VTEwsIHRlc3RfbmV0d29ya19xdWV1ZS0+dGFza1sgMSBdLnVybCApOw==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTs=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3Rfc2F2ZXRzLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS5zYXZldHMgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggJnRlc3RfdXJsLCB0ZXN0X25ldHdvcmtfcXVldWUtPnRhc2tbIDAgXS51cmwgKTsKICAgIFRFU1RfQVNTRVJUX0VRVUFMICggMSwgdGVzdF9uZXR3b3JrX3F1ZXVlLT5oZWFkICk7</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>imu_rese</last-search>
+      <last-search>PWR</last-search>
       <last-offset />
-      <last-pattern>imu_rese</last-pattern>
+      <last-pattern>PWR</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -360,10 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arm_ma</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
-        <entry>bootl</entry>
         <entry>-lCMS</entry>
         <entry>nano</entry>
         <entry>sha_258</entry>
@@ -380,6 +387,10 @@
         <entry>pool</entry>
         <entry>imu_re</entry>
         <entry>imu_rese</entry>
+        <entry>IMU</entry>
+        <entry>AKO_BATTERY_LEVEL_INDICATOR_DEBUG</entry>
+        <entry encoding="base64">I2lmbmRlZiBBS09fUFdSX0RFQlVHIA==</entry>
+        <entry>PWR</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
