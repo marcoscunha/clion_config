@@ -15,11 +15,12 @@
         <mark key="^" line="21" column="39" />
         <mark key="." line="21" column="39" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508335217846">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508335937239">
         <mark key="'" line="121" column="34" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="0" />
+        <mark key="[" line="124" column="4" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/sys.c" timestamp="1508316262226">
         <mark key="'" line="360" column="1" />
