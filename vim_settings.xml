@@ -132,12 +132,11 @@
         <mark key="." line="223" column="0" />
         <mark key="^" line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508313723803">
-        <mark key="'" line="171" column="0" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="182" column="0" />
-        <mark key="." line="182" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" timestamp="1508314980805">
+        <mark key="'" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="185" column="0" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508248124966">
         <mark key="'" line="673" column="16" />
@@ -197,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="676" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="706" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="584" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
       <jump line="404" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
@@ -297,19 +295,20 @@
       <jump line="454" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.c" />
       <jump line="205" column="31" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
       <jump line="19" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
+      <jump line="185" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltdV90aW1lb3V0X2NvdW50ID0gaW11X3RpbWVvdXQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// 5min par defaut</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>// 5min par defaut</text>
       </register>
       <register name="/" type="4">
         <text>sleep</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHN5c190aW1lb3V0X2FkZCAoIDEwMDAsIGltdV90aW1lb3V0X2V2ZW50LCBOVUxMICk7</text>
+        <text>static uint32_t imu_timeout = IMU_DEFAULT_TIMEOUT_SEC;       // 5min par defaut</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltdV90aW1lb3V0X2NvdW50ID0gaW11X3RpbWVvdXQ7Cg==</text>
