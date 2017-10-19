@@ -46,6 +46,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="/Doxygen Fragment (drust.h:25827).doxygen" timestamp="1508433110314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c.c" timestamp="1508252457542">
         <mark key="[" line="26" column="66" />
         <mark key="]" line="26" column="94" />
@@ -162,12 +165,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508431684668">
-        <mark key="'" line="229" column="54" />
-        <mark key="[" line="292" column="44" />
-        <mark key="]" line="292" column="47" />
-        <mark key="." line="292" column="47" />
-        <mark key="^" line="292" column="47" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508432881198">
+        <mark key="'" line="286" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1508413124297">
         <mark key="a" line="6" column="38" />
@@ -269,8 +272,8 @@
         <mark key="[" line="413" column="0" />
         <mark key="]" line="413" column="47" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508339782813">
-        <mark key="'" line="942" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508433106914">
+        <mark key="'" line="69" column="19" />
         <mark key="[" line="942" column="0" />
         <mark key="]" line="942" column="0" />
         <mark key="^" line="814" column="0" />
@@ -283,12 +286,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1508412931539">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1508339979000">
         <mark key="'" line="563" column="34" />
         <mark key="[" line="601" column="4" />
@@ -296,8 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
-      <jump line="68" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="125" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="307" column="42" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="187" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
@@ -396,10 +391,12 @@
       <jump line="714" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/build/test/test/mocks/mock_at.c" />
       <jump line="102" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.h" />
       <jump line="229" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
+      <jump line="290" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
+      <jump line="69" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNhbGxlZCA9IEZBTFNFOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -411,34 +408,34 @@
         <text encoding="base64">ICAgIC8vIE1vY2sgZnVuY3Rpb25z</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNhbGxlZCA9IEZBTFNFOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIEV2YWx1YXRlIHJlc3VsdHMK</text>
+        <text encoding="base64">ICAgIGNhbGxlZCA9IFRSVUU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF0X0NNb2NrRXhwZWN0QW5kUmV0dXJuIChfX0xJTkVfXywgIiIsICJPSyIsIG5ldHdvcmtfbWFuYWdlcl91cGRhdGVfY2FsbGJhY2ssIDEwMDAsIE5VTEwsIDAgKTsK</text>
+        <text encoding="base64">Ym9vbF90IGNhbGxlZCA9IEZBTFNFOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMX1VJTlQ4ICggMjAsIHRlc3RfbmV0d29ya19xdWV1ZS0+cnNzaSApOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9uZXR3b3JrX21hbmFnZXIuaD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLy8gRXhlY3V0ZSBjb2RlIHVuZGVyIHRlc3QK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIEV2YWx1YXRlIHJlc3VsdHMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLy8gTW9jayBmdW5jdGlvbnMK</text>
+        <text encoding="base64">ICAgIGF0X0NNb2NrRXhwZWN0QW5kUmV0dXJuIChfX0xJTkVfXywgIiIsICJPSyIsIG5ldHdvcmtfbWFuYWdlcl91cGRhdGVfY2FsbGJhY2ssIDEwMDAsIE5VTEwsIDAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMX1VJTlQ4ICggMjAsIHRlc3RfbmV0d29ya19xdWV1ZS0+cnNzaSApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLy8gRXhlY3V0ZSBjb2RlIHVuZGVyIHRlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -480,7 +477,6 @@
         <entry>105</entry>
         <entry>%s/network_state/network_queue.state/gc</entry>
         <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
-        <entry>W</entry>
         <entry>29</entry>
         <entry>182</entry>
         <entry>172</entry>
@@ -496,6 +492,7 @@
         <entry>Lw</entry>
         <entry>ẅ</entry>
         <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
