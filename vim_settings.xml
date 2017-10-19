@@ -10,18 +10,18 @@
         <mark key="^" line="95" column="84" />
         <mark key="." line="95" column="84" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508343136384">
-        <mark key="[" line="30" column="87" />
-        <mark key="]" line="30" column="88" />
-        <mark key="." line="30" column="88" />
-        <mark key="^" line="30" column="88" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508407525404">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508406887004">
-        <mark key="'" line="195" column="29" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="30" />
-        <mark key="." line="101" column="30" />
-        <mark key="^" line="101" column="30" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508407542431">
+        <mark key="'" line="198" column="29" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="37" />
+        <mark key="^" line="79" column="5" />
+        <mark key="." line="79" column="5" />
       </file>
       <file name="[backend_prod] CONSOLE - backend_prod" timestamp="1507797040246">
         <mark key="[" line="2" column="0" />
@@ -47,12 +47,12 @@
         <mark key="^" line="40" column="1" />
         <mark key="." line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" timestamp="1508333969009">
-        <mark key="'" line="557" column="20" />
-        <mark key="[" line="520" column="0" />
-        <mark key="]" line="529" column="14" />
-        <mark key="^" line="533" column="6" />
-        <mark key="." line="533" column="6" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" timestamp="1508407585704">
+        <mark key="'" line="1268" column="6" />
+        <mark key="[" line="1269" column="32" />
+        <mark key="]" line="1270" column="3" />
+        <mark key="." line="1270" column="3" />
+        <mark key="^" line="1270" column="3" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1508403742515">
         <mark key="'" line="543" column="46" />
@@ -246,13 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="1" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="100" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="40" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="149" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="136" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="126" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="55" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="119" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="153" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="76" column="4" filename="$USER_HOME$/devel/Tools/gcc-arm-none-eabi/gcc-arm-none-eabi-5_3-2016q1/arm-none-eabi/include/stdlib.h" />
@@ -346,59 +339,65 @@
       <jump line="165" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="104" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="189" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="520" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="1189" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="178" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="1183" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="1187" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="1267" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
+      <jump line="408" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrX3RpbWVvdXRfaWQgPSAwOw==</text>
+        <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfc3RvcCAoICk7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfc3RvcCAoICk7</text>
       </register>
       <register name="/" type="4">
-        <text>sys_timeout_ad</text>
+        <text>upper</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrX3RpbWVvdXRfaWQgPSAwOw==</text>
+        <text>void ako_network_manager_stop ( void )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfc2h1dGRvd24gKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmICggbmV0d29ya190aW1lb3V0X2lkICE9IDAgKQogICAgewogICAgICAgIHN5c190aW1lb3V0X2RlbCAoIG5ldHdvcmtfdGltZW91dF9pZCwgbmV0d29ya19tYW5hZ2VyX2RhZW1vbiApOwogICAgICAgIG5ldHdvcmtfdGltZW91dF9pZCA9IDA7CiAgICB9CiAgICBuZXR3b3JrX3N0YXRlID0gTkVUV09SS19NQU5BR0VSX1NUQVRFX05VTEw7CiAgICBtZW1zZXQgKCAmbmV0d29ya19xdWV1ZSwgMCwgc2l6ZW9mICggbmV0d29ya19xdWV1ZV90ICkgKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBS09fTkVUV09SS19NQU5BR0VSX0xPRyAoICJbRF0gR1BTIFNwZWVkICVkXG4iLCBzcGVlZCApOwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuZCBkYXRhCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBS09fTkVUV09SS19NQU5BR0VSX0xPRyAoICJbRF0gR1BTIFNwZWVkICVkXG4iLCBzcGVlZCApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuZCBkYXRhCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>// XXX: Those dependencies will be replaced by a brand new
-                                                     // Network Manager module</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sys_timeout_ad</last-search>
+      <last-search>upper</last-search>
       <last-offset />
-      <last-pattern>sys_timeout_ad</last-pattern>
+      <last-pattern>upper</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -406,8 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>end_po</entry>
         <entry>end_o</entry>
         <entry>endpoint</entry>
         <entry>upoload</entry>
@@ -426,6 +423,8 @@
         <entry>timeout</entry>
         <entry>stop</entry>
         <entry>sys_timeout_ad</entry>
+        <entry>deinit</entry>
+        <entry>upper</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
