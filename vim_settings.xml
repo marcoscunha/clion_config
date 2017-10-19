@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1508399089008">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1508400722525">
         <mark key="'" line="321" column="19" />
         <mark key="[" line="95" column="108" />
         <mark key="]" line="95" column="84" />
@@ -53,13 +53,6 @@
         <mark key="]" line="529" column="14" />
         <mark key="^" line="533" column="6" />
         <mark key="." line="533" column="6" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1508397784525">
-        <mark key="'" line="286" column="2" />
-        <mark key="[" line="292" column="1" />
-        <mark key="]" line="298" column="9" />
-        <mark key="^" line="298" column="9" />
-        <mark key="." line="298" column="9" />
       </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
@@ -133,24 +126,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.c" timestamp="1508398075601">
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="39" />
-        <mark key="^" line="574" column="28" />
-        <mark key="." line="574" column="28" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508259610020">
         <mark key="'" line="120" column="0" />
         <mark key="[" line="115" column="63" />
         <mark key="]" line="116" column="3" />
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1508398082987">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
-        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1508343184559">
         <mark key="'" line="726" column="43" />
