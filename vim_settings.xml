@@ -16,12 +16,12 @@
         <mark key="." line="30" column="88" />
         <mark key="^" line="30" column="88" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508343128065">
-        <mark key="'" line="246" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="87" />
-        <mark key="." line="141" column="17" />
-        <mark key="^" line="141" column="17" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508404479390">
+        <mark key="'" line="209" column="39" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="[backend_prod] CONSOLE - backend_prod" timestamp="1507797040246">
         <mark key="[" line="2" column="0" />
@@ -54,12 +54,11 @@
         <mark key="^" line="533" column="6" />
         <mark key="." line="533" column="6" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1508402674605">
-        <mark key="'" line="544" column="46" />
-        <mark key="[" line="304" column="33" />
-        <mark key="]" line="304" column="8" />
-        <mark key="." line="304" column="8" />
-        <mark key="^" line="304" column="8" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1508403742515">
+        <mark key="'" line="543" column="46" />
+        <mark key="]" line="310" column="0" />
+        <mark key="." line="310" column="0" />
+        <mark key="^" line="310" column="0" />
       </file>
       <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
         <mark key="[" line="1" column="35" />
@@ -242,13 +241,11 @@
         <mark key="^" line="1419" column="0" />
         <mark key="." line="1419" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1508317553916">
-        <mark key="[" line="30" column="73" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1508403937153">
+        <mark key="[" line="13" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="186" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="324" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="230" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="244" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
@@ -347,6 +344,8 @@
       <jump line="110" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="181" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="230" column="83" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
+      <jump line="211" column="22" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="209" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -356,50 +355,50 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sequel</text>
+        <text>GSP</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBha29fbmV0d29ya19tYW5hZ2VyX2FkZF90YXNrICggYWtvX2RldmljZV9ldmVudF91cGxvYWQgKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0FSTl9MT0cgKCAiW1ddIEF2b2lkIHNlbmQgZGF0YSB3aGlsZSBpbiBoaWdoIHNwZWVkXG4iICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBS09fTkVUV09SS19NQU5BR0VSX0xPRyAoICJbRF0gR1BTIFNwZWVkICVkXG4iLCBzcGVlZCApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuZCBkYXRhCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>// XXX: Those dependencies will be replaced by a brand new
                                                      // Network Manager module</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGVsc2UKICAgIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sequel</last-search>
+      <last-search>GSP</last-search>
       <last-offset />
-      <last-pattern>sequel</last-pattern>
+      <last-pattern>GSP</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>COG</entry>
         <entry>fota</entry>
         <entry>akolyt_req</entry>
         <entry>remove_task</entry>
@@ -427,9 +425,9 @@
         <entry>ts</entry>
         <entry>call</entry>
         <entry>sequel</entry>
+        <entry>GSP</entry>
       </history-search>
       <history-cmd>
-        <entry>24</entry>
         <entry>27</entry>
         <entry>lw</entry>
         <entry>75</entry>
@@ -448,6 +446,7 @@
         <entry>287</entry>
         <entry>528</entry>
         <entry>582</entry>
+        <entry>210</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
