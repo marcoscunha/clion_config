@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1508398305078">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1508399089008">
         <mark key="'" line="321" column="19" />
-        <mark key="[" line="95" column="44" />
-        <mark key="]" line="95" column="50" />
-        <mark key="^" line="95" column="50" />
-        <mark key="." line="95" column="50" />
+        <mark key="[" line="95" column="108" />
+        <mark key="]" line="95" column="84" />
+        <mark key="^" line="95" column="84" />
+        <mark key="." line="95" column="84" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508343136384">
         <mark key="[" line="30" column="87" />
@@ -359,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>alive</text>
