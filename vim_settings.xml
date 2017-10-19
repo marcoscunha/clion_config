@@ -30,10 +30,10 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508429992914">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508431635709">
         <mark key="'" line="233" column="4" />
-        <mark key="[" line="249" column="5" />
-        <mark key="]" line="249" column="41" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="59" />
         <mark key="^" line="233" column="75" />
         <mark key="." line="233" column="75" />
       </file>
@@ -162,12 +162,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508430133266">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508431684668">
         <mark key="'" line="229" column="54" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="30" />
-        <mark key="." line="275" column="30" />
-        <mark key="^" line="275" column="30" />
+        <mark key="[" line="292" column="44" />
+        <mark key="]" line="292" column="47" />
+        <mark key="." line="292" column="47" />
+        <mark key="^" line="292" column="47" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1508413124297">
         <mark key="a" line="6" column="38" />
@@ -398,47 +398,47 @@
       <jump line="229" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>at (</text>
       </register>
       <register name="0" type="4">
-        <text>network_manager_get_gsm_rssi_callback</text>
+        <text encoding="base64">ICAgIC8vIE1vY2sgZnVuY3Rpb25z</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbmV0d29ya19xdWV1ZS0+cnNzaSA9IDEwOwo=</text>
+        <text encoding="base64">ICAgIC8vIEV2YWx1YXRlIHJlc3VsdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbmV0d29ya19xdWV1ZS0+cnNzaSA9IDEwOwo=</text>
+        <text encoding="base64">ICAgIGF0X0NNb2NrRXhwZWN0QW5kUmV0dXJuIChfX0xJTkVfXywgIiIsICJPSyIsIG5ldHdvcmtfbWFuYWdlcl91cGRhdGVfY2FsbGJhY2ssIDEwMDAsIE5VTEwsIDAgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbmV0d29ya19xdWV1ZS0+c3BlZWQ9IDA7Cg==</text>
+        <text encoding="base64">ICAgIFRFU1RfQVNTRVJUX0VRVUFMX1VJTlQ4ICggMjAsIHRlc3RfbmV0d29ya19xdWV1ZS0+cnNzaSApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLy8gRXhlY3V0ZSBjb2RlIHVuZGVyIHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF0X0NNb2NrRXhwZWN0QW5kUmV0dXJuICggX19MSU5FX18sICJBVCtDU1EiLCAiK0NTUSIsIG5ldHdvcmtfbWFuYWdlcl9nZXRfZ3NtX3Jzc2lfY2FsbGJhY2ssIDEwMDAsIE5VTEwsIDAgKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRydXN0X2dwc19nZXRfc3BlZWRfQ01vY2tSZXR1cm5NZW1UaHJ1UHRyX3NwZWVkICggX19MSU5FX18sICIyMCIsIDMgKTsK</text>
+        <text encoding="base64">ICAgLy8gTW9jayBmdW5jdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRydXN0X2dwc19nZXRfc3BlZWRfQ01vY2tFeHBlY3RBbmRSZXR1cm4gKCBfX0xJTkVfXywgTlVMTCwgRFJVU1RfT0sgKTsKICAgIGRydXN0X2dwc19nZXRfc3BlZWRfQ01vY2tJZ25vcmVBcmdfc3BlZWQgKCBfX0xJTkVfXyApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5c19xdWV1ZV9DTW9ja0V4cGVjdEFuZFJldHVybiAoIF9fTElORV9fLCBzdXBwb3J0X25ldHdvcmtfdGFzaywgTlVMTCwgMCApOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -477,7 +477,6 @@
         <entry>at (</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/nt, NULL/nt, test_upload_sequel/gc</entry>
         <entry>105</entry>
         <entry>%s/network_state/network_queue.state/gc</entry>
         <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
@@ -494,8 +493,9 @@
         <entry>240</entry>
         <entry>238</entry>
         <entry>ẃ</entry>
-        <entry>ẅ</entry>
         <entry>Lw</entry>
+        <entry>ẅ</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
