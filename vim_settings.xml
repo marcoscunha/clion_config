@@ -16,12 +16,12 @@
         <mark key="." line="30" column="88" />
         <mark key="^" line="30" column="88" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508404479390">
-        <mark key="'" line="209" column="39" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508406887004">
+        <mark key="'" line="195" column="29" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="30" />
+        <mark key="." line="101" column="30" />
+        <mark key="^" line="101" column="30" />
       </file>
       <file name="[backend_prod] CONSOLE - backend_prod" timestamp="1507797040246">
         <mark key="[" line="2" column="0" />
@@ -246,10 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="230" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="244" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="299" column="1" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="358" column="1" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="100" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="40" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
@@ -346,59 +342,63 @@
       <jump line="230" column="83" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="211" column="22" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="209" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="37" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="165" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="104" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
+      <jump line="189" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrX3RpbWVvdXRfaWQgPSAwOw==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>GSP</text>
+        <text>sys_timeout_ad</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgV0FSTl9MT0cgKCAiW1ddIEF2b2lkIHNlbmQgZGF0YSB3aGlsZSBpbiBoaWdoIHNwZWVkXG4iICk7</text>
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrX3RpbWVvdXRfaWQgPSAwOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBS09fTkVUV09SS19NQU5BR0VSX0xPRyAoICJbRF0gR1BTIFNwZWVkICVkXG4iLCBzcGVlZCApOwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuZCBkYXRhCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBBS09fTkVUV09SS19NQU5BR0VSX0xPRyAoICJbRF0gR1BTIFNwZWVkICVkXG4iLCBzcGVlZCApOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2VuZCBkYXRhCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBha29fdHJpcF9kYXRhX3VwbG9hZCAoICk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>// XXX: Those dependencies will be replaced by a brand new
                                                      // Network Manager module</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgIHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GSP</last-search>
+      <last-search>sys_timeout_ad</last-search>
       <last-offset />
-      <last-pattern>GSP</last-pattern>
+      <last-pattern>sys_timeout_ad</last-pattern>
       <last-replace>ObdPid_</last-replace>
       <last-substitute>w</last-substitute>
       <last-dir>1</last-dir>
@@ -406,9 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fota</entry>
-        <entry>akolyt_req</entry>
-        <entry>remove_task</entry>
         <entry>update</entry>
         <entry>end_po</entry>
         <entry>end_o</entry>
@@ -426,6 +423,9 @@
         <entry>call</entry>
         <entry>sequel</entry>
         <entry>GSP</entry>
+        <entry>timeout</entry>
+        <entry>stop</entry>
+        <entry>sys_timeout_ad</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
@@ -437,7 +437,6 @@
         <entry>10</entry>
         <entry>21</entry>
         <entry>tab</entry>
-        <entry>ẅ</entry>
         <entry>W</entry>
         <entry>Q</entry>
         <entry>ẃ</entry>
@@ -447,6 +446,7 @@
         <entry>528</entry>
         <entry>582</entry>
         <entry>210</entry>
+        <entry>ẅ</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
