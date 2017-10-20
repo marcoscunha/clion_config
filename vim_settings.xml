@@ -274,10 +274,9 @@
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508433106914">
         <mark key="'" line="69" column="19" />
-        <mark key="[" line="942" column="0" />
-        <mark key="]" line="942" column="0" />
-        <mark key="^" line="814" column="0" />
-        <mark key="." line="942" column="0" />
+        <mark key="[" line="813" column="0" />
+        <mark key="]" line="813" column="0" />
+        <mark key="." line="813" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1508251419104">
         <mark key="'" line="24" column="0" />
