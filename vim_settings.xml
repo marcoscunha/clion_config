@@ -272,11 +272,12 @@
         <mark key="[" line="413" column="0" />
         <mark key="]" line="413" column="47" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508433106914">
-        <mark key="'" line="69" column="19" />
-        <mark key="[" line="813" column="0" />
-        <mark key="]" line="813" column="0" />
-        <mark key="." line="813" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1508487092065">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="32" column="1" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1508251419104">
         <mark key="'" line="24" column="0" />
@@ -292,8 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
-      <jump line="307" column="42" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="187" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="2" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
       <jump line="2" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
@@ -392,6 +391,8 @@
       <jump line="229" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
       <jump line="290" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
       <jump line="69" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" />
+      <jump line="29" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" />
+      <jump line="27" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -401,7 +402,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>at (</text>
+        <text>lambda</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIC8vIE1vY2sgZnVuY3Rpb25z</text>
@@ -441,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>at (</last-search>
+      <last-search>lambda</last-search>
       <last-offset />
-      <last-pattern>at (</last-pattern>
+      <last-pattern>lambda</last-pattern>
       <last-replace>network_queue.rssi</last-replace>
       <last-substitute>rssi</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sys_timeout_ad</entry>
         <entry>deinit</entry>
         <entry>upper</entry>
         <entry>Expe</entry>
@@ -471,6 +471,7 @@
         <entry>rssi</entry>
         <entry>gps</entry>
         <entry>at (</entry>
+        <entry>lambda</entry>
       </history-search>
       <history-cmd>
         <entry>105</entry>
