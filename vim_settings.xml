@@ -461,7 +461,7 @@ drust_</text>
         <text encoding="base64">Ym9vbF90IGNhbGxlZCA9IEZBTFNFOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -497,7 +497,6 @@ drust_</text>
         <entry>KwpHandle</entry>
       </history-search>
       <history-cmd>
-        <entry>105</entry>
         <entry>%s/network_state/network_queue.state/gc</entry>
         <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
         <entry>29</entry>
@@ -517,6 +516,7 @@ drust_</text>
         <entry>we</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
