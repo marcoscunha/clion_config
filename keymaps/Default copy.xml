@@ -2,4 +2,7 @@
   <action id="ClangFormat.ClangFormat">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
 </keymap>
