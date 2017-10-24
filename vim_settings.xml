@@ -190,6 +190,12 @@
         <mark key="." line="717" column="59" />
         <mark key="^" line="717" column="59" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1508833216397">
+        <mark key="[" line="426" column="112" />
+        <mark key="]" line="426" column="1" />
+        <mark key="^" line="426" column="1" />
+        <mark key="." line="426" column="1" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_auth.c" timestamp="1508418354434">
         <mark key="'" line="88" column="29" />
         <mark key="[" line="148" column="0" />
@@ -231,12 +237,12 @@
       <file name="/preview" timestamp="1507551333929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508419321660">
-        <mark key="'" line="214" column="15" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508833047320">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
         <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="/GDB" timestamp="1508402092720">
         <mark key="[" line="0" column="0" />
@@ -306,16 +312,8 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1508832136814">
-        <mark key="'" line="160" column="16" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="520" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
       <jump line="1189" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
       <jump line="178" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
@@ -415,16 +413,17 @@
       <jump line="143" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="159" column="62" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="160" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="49" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>retry</text>
+        <text>CAN</text>
       </register>
       <register name="0" type="4">
         <text>#include &quot;stm32f0xx_hal_uart.h&quot;</text>
@@ -466,9 +465,9 @@ drust_</text>
       </register>
     </registers>
     <search>
-      <last-search>retry</last-search>
+      <last-search>CAN</last-search>
       <last-offset />
-      <last-pattern>retry</last-pattern>
+      <last-pattern>CAN</last-pattern>
       <last-replace>network_queue.rssi</last-replace>
       <last-substitute>rssi</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +475,6 @@ drust_</text>
     </search>
     <history>
       <history-search>
-        <entry>nt, NULL</entry>
         <entry>network_state</entry>
         <entry>login</entry>
         <entry>local</entry>
@@ -496,9 +494,9 @@ drust_</text>
         <entry>KwpHandle</entry>
         <entry>connect</entry>
         <entry>retry</entry>
+        <entry>CAN</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/network_state/network_queue.state/gc</entry>
         <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
         <entry>29</entry>
         <entry>182</entry>
@@ -517,6 +515,7 @@ drust_</text>
         <entry>we</entry>
         <entry>W</entry>
         <entry>qa!</entry>
+        <entry>427</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
