@@ -312,22 +312,21 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1508835014172">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" timestamp="1508834538669">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="305" column="45" />
+        <mark key="]" line="355" column="79" />
+        <mark key="^" line="355" column="79" />
+        <mark key="." line="355" column="79" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="520" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="1189" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="178" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="1183" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="1187" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="1267" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" />
-      <jump line="408" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.c" />
-      <jump line="193" column="60" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="194" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="30" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" />
-      <jump line="59" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
-      <jump line="132" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
-      <jump line="195" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="115" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
       <jump line="424" column="3" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" />
       <jump line="61" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
       <jump line="53" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
@@ -414,60 +413,74 @@
       <jump line="159" column="62" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="160" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="49" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="314" column="40" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="327" column="122" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="330" column="80" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="507" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="511" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="520" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="545" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="554" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="560" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="565" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="575" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="581" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="605" column="101" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>CAN</text>
+        <text>connect</text>
       </register>
       <register name="0" type="4">
-        <text>#include &quot;stm32f0xx_hal_uart.h&quot;</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29tbXNTdGF0ZSA9IFJFUVVFU1RJTkc7CiAgICAgICAgICAgICAgICAgICAgc3lzX3RpbWVvdXRfYWRkICggMjAwMCwgT0JEX0Nvbm5lY3RfU00sIE5VTEwgKTsgLy8gMiBzZWNvbmQgZGVsYXkgYmVmb3JlIHRyeWluZyBLV1AgZmFzdCB0byBlbnN1cmUgRUNVJ3MgYXJlIGluIGNvcnJlY3Qgc3RhdGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKCBPQkRfZ1Byb3RvY29sIDwgUFJPVE9DT0xfTk9ORSApIC8vIElmIHdlJ3ZlIGJlZW4gdGhyb3VnaCBhbGwgb3VyIHByb3RvY29sIG9wdGlvbnMgYW5kIGZhaWxlZCB0byBjb25uZWN0Li4uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29tbXNTdGF0ZSA9IFJFUVVFU1RJTkc7CiAgICAgICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggT0JEX0Nvbm5lY3RfU00sIE5VTEwgKTsgLy8gSWYgd2UgaGF2ZSBmYWlsZWQgdG8gY29ubmVjdCB0byBhIHNwZWNpZmljIHByb3RvY29sIHRoZW4gZXhpdCB0byB0aGUgY2FsbGluZyBsYXllcgogICAgICAgICAgICAgICAgfQog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwX2RhdGEuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwLmgiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwX2RhdGEuaCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwLmgiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">I2luY2x1ZGUgIgo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="9" type="8">
         <text>drust_
 drust_
 drust_</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIGQKICAgIGQKICAgIGQ=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBBS09fVFJJUF9TVE9SRV9SRUZSRVNIX0RFTEFZIDEwMDB9Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbGxlZCA9IEZBTFNFOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CAN</last-search>
+      <last-search>connect</last-search>
       <last-offset />
-      <last-pattern>CAN</last-pattern>
+      <last-pattern>connect</last-pattern>
       <last-replace>network_queue.rssi</last-replace>
       <last-substitute>rssi</last-substitute>
       <last-dir>1</last-dir>
@@ -492,9 +505,9 @@ drust_</text>
         <entry>DMA</entry>
         <entry>Hand</entry>
         <entry>KwpHandle</entry>
-        <entry>connect</entry>
         <entry>retry</entry>
         <entry>CAN</entry>
+        <entry>connect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
@@ -513,9 +526,9 @@ drust_</text>
         <entry>Lw</entry>
         <entry>ẅ</entry>
         <entry>we</entry>
-        <entry>W</entry>
         <entry>qa!</entry>
         <entry>427</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
