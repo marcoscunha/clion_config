@@ -30,6 +30,9 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/IsoKwHal.c" timestamp="1508504497153">
         <mark key="'" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1509121312655">
+        <mark key="'" line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508489333515">
         <mark key="'" line="206" column="26" />
         <mark key="]" line="5" column="0" />
@@ -72,10 +75,10 @@
         <mark key="." line="290" column="102" />
         <mark key="^" line="290" column="102" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508833047320">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1509122737060">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="20" />
         <mark key="^" line="49" column="0" />
         <mark key="." line="142" column="0" />
       </file>
@@ -101,12 +104,12 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1509120621354">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="92" column="24" />
-        <mark key="]" line="92" column="24" />
-        <mark key="^" line="92" column="63" />
-        <mark key="." line="92" column="24" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1509123236802">
+        <mark key="'" line="102" column="51" />
+        <mark key="[" line="82" column="20" />
+        <mark key="]" line="82" column="26" />
+        <mark key="^" line="82" column="26" />
+        <mark key="." line="82" column="26" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_stubs.c" timestamp="1509119251976">
         <mark key="[" line="90" column="47" />
@@ -200,10 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="164" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="45" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="276" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="273" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="256" column="50" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
       <jump line="25" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
@@ -282,7 +281,6 @@
       <jump line="505" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="92" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="67" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.h" />
-      <jump line="98" column="50" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="99" column="50" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="110" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="30" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
@@ -293,65 +291,70 @@
       <jump line="23" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" />
       <jump line="67" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="93" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
-      <jump line="97" column="40" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="82" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="83" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="92" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="96" column="40" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="36" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
       <jump line="43" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="22" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
+      <jump line="17" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
+      <jump line="102" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="97" column="51" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="98" column="51" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>APP_OB</text>
+        <text>stripped</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JChBUFBfT0JEX1NUUklQUEVEX09CSlM6JT0kKE9VVF9ESVIpLyUpIA==</text>
+        <text>ifeq ($(TYPE), debug)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBha29fb2JkX2xvb3BfaGFuZGxlciAoIHZvaWQgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">aWYoVFlQRSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2lmZGVmIERFVl9CVUlMRAo=</text>
+        <text encoding="base64">CWVjaG8gJChBUFBfT0JEX1NUUklQUEVEX09CSlM6JT0kKE9VVF9ESVIpLyUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">QVBQX09CRF9TVFJJUFBFRF9PQkpTID0gJChTVEFSVFVQX09CSikgJChCU1BfT0JKUykgJChOQU5PUEJfT0JKUykgJChKU09OX09CSlMpICQoQkFTRV9PQkpTKSBvYmRfc3R1YnMubwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICggc3RyY21wICggYWtvX3ZlcnNpb24ubWN1LnZlcnNpb24sIGN1cnJlbnRfbWN1X3ZlciApID09IDAgKQo=</text>
+        <text encoding="base64">QVBQX09CRF9TVFJJUFBFRF9PQkpTID0gJChTVEFSVFVQX09CSikgJChCU1BfT0JKUykgJChOQU5PUEJfT0JKUykgJChKU09OX09CSlMpICQoQkFTRV9PQkpTKSBvYmRfc3R1YnMubwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">aWYgKFRZUAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2Vsc2UK</text>
+        <text encoding="base64">CUFQUF9PQkpTID0gJChTVEFSVFVQX09CSikgJChCU1BfT0JKUykgJChOQU5PUEJfT0JKUykgJChKU09OX09CSlMpICQoT0JEX09CSlMpICQoQkFTRV9PQkpTKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2lmZGVmIERFVl9CVUlMRAo=</text>
+        <text encoding="base64">dm9pZCBha29fb2JkX2xvb3BfaGFuZGxlciAoIHZvaWQgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2lmZGVmIERFVl9CVUlMRAo=</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>APP_OB</last-search>
+      <last-search>stripped</last-search>
       <last-offset />
-      <last-pattern>APP_OB</last-pattern>
+      <last-pattern>stripped</last-pattern>
       <last-replace>network_queue.rssi</last-replace>
       <last-substitute>rssi</last-substitute>
       <last-dir>1</last-dir>
@@ -359,9 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Hand</entry>
-        <entry>KwpHandle</entry>
-        <entry>retry</entry>
         <entry>CAN</entry>
         <entry>connect</entry>
         <entry>Diagno</entry>
@@ -379,6 +379,9 @@
         <entry>TYPE</entry>
         <entry>strip</entry>
         <entry>APP_OB</entry>
+        <entry>elf</entry>
+        <entry>o</entry>
+        <entry>stripped</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
