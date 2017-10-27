@@ -24,6 +24,9 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/IsoKwHal.c" timestamp="1508504497153">
+        <mark key="'" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508489333515">
         <mark key="'" line="206" column="26" />
         <mark key="]" line="5" column="0" />
@@ -37,6 +40,12 @@
         <mark key="[" line="703" column="0" />
         <mark key="]" line="703" column="32" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.h" timestamp="1507029928403">
+        <mark key="[" line="111" column="78" />
+      </file>
+      <file name="/fragment.m" timestamp="1508413177836">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Doxygen Fragment (drust.h:25827).doxygen" timestamp="1508433110314">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,6 +56,9 @@
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" timestamp="1508504263351">
         <mark key="'" line="456" column="19" />
+      </file>
+      <file name="/preview" timestamp="1507551333929">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" timestamp="1508407585704">
         <mark key="'" line="1268" column="6" />
@@ -62,73 +74,6 @@
         <mark key="." line="290" column="102" />
         <mark key="^" line="290" column="102" />
       </file>
-      <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
-        <mark key="[" line="1" column="35" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1508415781747">
-        <mark key="'" line="425" column="3" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" timestamp="1508340126266">
-        <mark key="'" line="545" column="25" />
-        <mark key="[" line="548" column="0" />
-        <mark key="]" line="556" column="12" />
-        <mark key="^" line="562" column="0" />
-        <mark key="." line="562" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508418666239">
-        <mark key="'" line="159" column="28" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="34" column="6" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508247360393">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508488993788">
-        <mark key="'" line="228" column="24" />
-        <mark key="[" line="232" column="57" />
-        <mark key="]" line="232" column="57" />
-        <mark key="." line="232" column="57" />
-        <mark key="^" line="232" column="57" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1508488401936">
-        <mark key="a" line="6" column="38" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="40" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1508343184559">
-        <mark key="'" line="726" column="43" />
-        <mark key="[" line="717" column="38" />
-        <mark key="]" line="717" column="59" />
-        <mark key="." line="717" column="59" />
-        <mark key="^" line="717" column="59" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_auth.c" timestamp="1508418354434">
-        <mark key="'" line="88" column="29" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="79" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/IsoKwHal.c" timestamp="1508504497153">
-        <mark key="'" line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.h" timestamp="1507029928403">
-        <mark key="[" line="111" column="78" />
-      </file>
-      <file name="/fragment.m" timestamp="1508413177836">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/preview" timestamp="1507551333929">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1508833047320">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="142" column="0" />
@@ -136,11 +81,21 @@
         <mark key="^" line="49" column="0" />
         <mark key="." line="142" column="0" />
       </file>
+      <file name="[backend_dev] TABLE - public.device_events FILTER" timestamp="1507735342214">
+        <mark key="[" line="1" column="35" />
+      </file>
       <file name="/GDB" timestamp="1508402092720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508345590195">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1508415781747">
+        <mark key="'" line="425" column="3" />
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="39" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" timestamp="1508344720169">
         <mark key="'" line="4" column="25" />
@@ -155,6 +110,13 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
         <mark key="^" line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508418666239">
+        <mark key="'" line="159" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="6" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.c" timestamp="1508333840089">
         <mark key="'" line="618" column="10" />
@@ -191,12 +153,49 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508247360393">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1508251419104">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="70" column="79" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508488993788">
+        <mark key="'" line="228" column="24" />
+        <mark key="[" line="232" column="57" />
+        <mark key="]" line="232" column="57" />
+        <mark key="." line="232" column="57" />
+        <mark key="^" line="232" column="57" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1508488401936">
+        <mark key="a" line="6" column="38" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1508343184559">
+        <mark key="'" line="726" column="43" />
+        <mark key="[" line="717" column="38" />
+        <mark key="]" line="717" column="59" />
+        <mark key="." line="717" column="59" />
+        <mark key="^" line="717" column="59" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_auth.c" timestamp="1508418354434">
+        <mark key="'" line="88" column="29" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="79" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509108620462">
+        <mark key="[" line="583" column="6" />
+        <mark key="]" line="582" column="70" />
+        <mark key="^" line="582" column="70" />
+        <mark key="." line="582" column="70" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" timestamp="1508834538669">
         <mark key="'" line="0" column="0" />
@@ -306,48 +305,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>[1.17.3]: https://github.com/Flopi84/drust_firmware/compare/v1.17.2...v1.17.3</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>- Wrong date attribution for simple dtc frame.</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29tbXNTdGF0ZSA9IFJFUVVFU1RJTkc7CiAgICAgICAgICAgICAgICAgICAgc3lzX3RpbWVvdXRfYWRkICggMjAwMCwgT0JEX0Nvbm5lY3RfU00sIE5VTEwgKTsgLy8gMiBzZWNvbmQgZGVsYXkgYmVmb3JlIHRyeWluZyBLV1AgZmFzdCB0byBlbnN1cmUgRUNVJ3MgYXJlIGluIGNvcnJlY3Qgc3RhdGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKCBPQkRfZ1Byb3RvY29sIDwgUFJPVE9DT0xfTk9ORSApIC8vIElmIHdlJ3ZlIGJlZW4gdGhyb3VnaCBhbGwgb3VyIHByb3RvY29sIG9wdGlvbnMgYW5kIGZhaWxlZCB0byBjb25uZWN0Li4uCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgQ29tbXNTdGF0ZSA9IFJFUVVFU1RJTkc7CiAgICAgICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggT0JEX0Nvbm5lY3RfU00sIE5VTEwgKTsgLy8gSWYgd2UgaGF2ZSBmYWlsZWQgdG8gY29ubmVjdCB0byBhIHNwZWNpZmljIHByb3RvY29sIHRoZW4gZXhpdCB0byB0aGUgY2FsbGluZyBsYXllcgogICAgICAgICAgICAgICAgfQog</text>
+        <text>[1.17.3]: https://github.com/Flopi84/drust_firmware/compare/v1.17.2...v1.17.3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxNmU4YzZkMi4uLiBSZW1vdmUgU2ltcGxlIERUQyBmcmFtZSBzdG9yYWdlIGZyb20gYmxlIHRyYW5zbWlzc2lvbiBmdW5jdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+        <text encoding="base64">IyMjIEZpeGVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwX2RhdGEuaCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImFrb2x5dF90cmlwLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>drust_
-drust_
-drust_</text>
+      <register name="9" type="2">
+        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -386,7 +383,6 @@ drust_</text>
         <entry>connect</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/network_timeout_id/network_queue.timeout_id/gc</entry>
         <entry>29</entry>
         <entry>182</entry>
         <entry>172</entry>
@@ -405,6 +401,7 @@ drust_</text>
         <entry>qa!</entry>
         <entry>427</entry>
         <entry>W</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
