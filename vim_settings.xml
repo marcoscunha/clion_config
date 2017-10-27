@@ -54,6 +54,11 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="56" />
       </file>
+      <file name="[backend_dev] CONSOLE - backend_dev" timestamp="1509117101181">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" timestamp="1508504263351">
         <mark key="'" line="456" column="19" />
       </file>
@@ -191,6 +196,7 @@
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="79" />
       </file>
+      <file name="[backend_dev] VIEW - public.pretty_device_events" timestamp="1509117051321" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509110819118">
         <mark key="'" line="341" column="51" />
         <mark key="[" line="15" column="23" />
@@ -306,7 +312,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyMgWzEuMTUuNV0KCiMKCiMjIyBGaXhlZAotIFdyb25nIGRhdGUgYXR0cmlidXRpb24gZm9yIHNpbXBsZSBkdGMgZnJhbWUuCgojIyBbMS4xNS40XQo+Pj4+Pj4+IGU5Yjg4YmUzLi4uIFVwZGF0ZSBDaGFuZ2Vsb2c=</text>
+        <text>SELECT de.event_id,
+    de.date,
+    device_event_type_to_string(de.type) AS type,
+    de.device_id,
+    de.payload
+   FROM device_events de;</text>
       </register>
       <register name="-" type="4">
         <text>## [1.16.1] - 2017-08-22</text>
@@ -318,34 +329,39 @@
         <text>[1.17.3]: https://github.com/Flopi84/drust_firmware/compare/v1.17.2...v1.17.3</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IyMgWzEuMTUuNV0KCiMKCiMjIyBGaXhlZAotIFdyb25nIGRhdGUgYXR0cmlidXRpb24gZm9yIHNpbXBsZSBkdGMgZnJhbWUuCgojIyBbMS4xNS40XQo+Pj4+Pj4+IGU5Yjg4YmUzLi4uIFVwZGF0ZSBDaGFuZ2Vsb2c=</text>
+        <text>SELECT de.event_id,
+    de.date,
+    device_event_type_to_string(de.type) AS type,
+    de.device_id,
+    de.payload
+   FROM device_events de;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IyMgWzEuMTUuNV0KCiMKCiMjIyBGaXhlZAotIFdyb25nIGRhdGUgYXR0cmlidXRpb24gZm9yIHNpbXBsZSBkdGMgZnJhbWUuCgojIyBbMS4xNS40XQo+Pj4+Pj4+IGU5Yjg4YmUzLi4uIFVwZGF0ZSBDaGFuZ2Vsb2c=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNmU4YzZkMi4uLiBSZW1vdmUgU2ltcGxlIERUQyBmcmFtZSBzdG9yYWdlIGZyb20gYmxlIHRyYW5zbWlzc2lvbiBmdW5jdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxNmU4YzZkMi4uLiBSZW1vdmUgU2ltcGxlIERUQyBmcmFtZSBzdG9yYWdlIGZyb20gYmxlIHRyYW5zbWlzc2lvbiBmdW5jdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIEZpeGVkCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">IyMjIEZpeGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
