@@ -191,21 +191,18 @@
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="79" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509108620462">
-        <mark key="[" line="583" column="6" />
-        <mark key="]" line="582" column="70" />
-        <mark key="^" line="582" column="70" />
-        <mark key="." line="582" column="70" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509110819118">
+        <mark key="'" line="341" column="51" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" timestamp="1508834538669">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="424" column="3" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" />
-      <jump line="61" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
-      <jump line="53" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
-      <jump line="57" column="44" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
       <jump line="58" column="44" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
       <jump line="69" column="76" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
       <jump line="75" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
@@ -302,58 +299,62 @@
       <jump line="581" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="605" column="101" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
+      <jump line="72" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
+      <jump line="43" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
+      <jump line="61" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
+      <jump line="347" column="51" filename="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[1.17.3]: https://github.com/Flopi84/drust_firmware/compare/v1.17.2...v1.17.3</text>
+        <text encoding="base64">IyMgWzEuMTUuNV0KCiMKCiMjIyBGaXhlZAotIFdyb25nIGRhdGUgYXR0cmlidXRpb24gZm9yIHNpbXBsZSBkdGMgZnJhbWUuCgojIyBbMS4xNS40XQo+Pj4+Pj4+IGU5Yjg4YmUzLi4uIFVwZGF0ZSBDaGFuZ2Vsb2c=</text>
       </register>
       <register name="-" type="4">
-        <text>- Wrong date attribution for simple dtc frame.</text>
+        <text>## [1.16.1] - 2017-08-22</text>
       </register>
       <register name="/" type="4">
-        <text>connect</text>
+        <text>specif</text>
       </register>
       <register name="0" type="4">
         <text>[1.17.3]: https://github.com/Flopi84/drust_firmware/compare/v1.17.2...v1.17.3</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxNmU4YzZkMi4uLiBSZW1vdmUgU2ltcGxlIERUQyBmcmFtZSBzdG9yYWdlIGZyb20gYmxlIHRyYW5zbWlzc2lvbiBmdW5jdGlvbgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyMgWzEuMTUuNV0KCiMKCiMjIyBGaXhlZAotIFdyb25nIGRhdGUgYXR0cmlidXRpb24gZm9yIHNpbXBsZSBkdGMgZnJhbWUuCgojIyBbMS4xNS40XQo+Pj4+Pj4+IGU5Yjg4YmUzLi4uIFVwZGF0ZSBDaGFuZ2Vsb2c=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxNmU4YzZkMi4uLiBSZW1vdmUgU2ltcGxlIERUQyBmcmFtZSBzdG9yYWdlIGZyb20gYmxlIHRyYW5zbWlzc2lvbiBmdW5jdGlvbgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEZpeGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
+        <text encoding="base64">IyMjIEZpeGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm9iZF93cmFwcGVyLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICggKCBvYmRfY29udGV4dC5wcm90b2NvbCA9PSBBTEwgKSAmJiAoIE9CRF9nUHJvdG9jb2wgPT0gSVNPOTE0MSB8fCBPQkRfZ1Byb3RvY29sID09IEtXUDIwMDAgfHwgT0JEX2dQcm90b2NvbCA9PSBLV1AyMDAwX1NMT1cgKSApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connect</last-search>
+      <last-search>specif</last-search>
       <last-offset />
-      <last-pattern>connect</last-pattern>
+      <last-pattern>specif</last-pattern>
       <last-replace>network_queue.rssi</last-replace>
       <last-substitute>rssi</last-substitute>
       <last-dir>1</last-dir>
@@ -361,12 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>network_state</entry>
-        <entry>login</entry>
-        <entry>local</entry>
-        <entry>network_timeout_id</entry>
-        <entry>SAVETS</entry>
-        <entry>AT_DE</entry>
         <entry>updated</entry>
         <entry>rssi</entry>
         <entry>at (</entry>
@@ -381,6 +376,12 @@
         <entry>retry</entry>
         <entry>CAN</entry>
         <entry>connect</entry>
+        <entry>Diagno</entry>
+        <entry>diagnostic adap</entry>
+        <entry>Diagnostic adap</entry>
+        <entry>adapted</entry>
+        <entry>spec</entry>
+        <entry>specif</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
