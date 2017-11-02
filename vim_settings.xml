@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.options" timestamp="1509638714829" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1509632360806">
         <mark key="'" line="285" column="12" />
         <mark key="[" line="94" column="0" />
@@ -42,6 +43,9 @@
         <mark key="]" line="5" column="32" />
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" timestamp="1509638683725">
+        <mark key="'" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/build/test/test/mocks/mock_at.c" timestamp="1508428937812">
         <mark key="'" line="714" column="4" />
@@ -209,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
-      <jump line="208" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" />
-      <jump line="29" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" />
       <jump line="338" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" />
       <jump line="456" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" />
       <jump line="35" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/IsoKwHal.c" />
@@ -309,6 +310,9 @@
       <jump line="41" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
       <jump line="382" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
       <jump line="409" column="48" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
+      <jump line="70" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
+      <jump line="69" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
+      <jump line="66" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -318,7 +322,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>BRANCH</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHN0cmNhdCAoIGJvZHksICJcIixcInZhcmlhbnRcIjpcIiIgKTsKICAgIHN0cmNhdCAoIGJvZHksIFZFUlNJT05fQlVJTERfQ09NTUlUX1NIT1JUICk7</text>
@@ -358,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>BRANCH</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>BRANCH</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>ako_obd_is_alive</last-substitute>
       <last-dir>1</last-dir>
@@ -368,9 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ako_odb_loop_handle</entry>
-        <entry>loop</entry>
-        <entry>FILE</entry>
         <entry>TYPE</entry>
         <entry>strip</entry>
         <entry>APP_OB</entry>
@@ -388,6 +389,9 @@
         <entry>COMMI</entry>
         <entry>branch</entry>
         <entry>BRANCH</entry>
+        <entry>veriant</entry>
+        <entry>version</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rssi/network_queue.rssi/gc</entry>
