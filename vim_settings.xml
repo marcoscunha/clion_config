@@ -84,12 +84,12 @@
         <mark key="." line="290" column="102" />
         <mark key="^" line="290" column="102" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1509620877225">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="142" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1509640922641">
+        <mark key="'" line="214" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
         <mark key="^" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1509628268204">
         <mark key="'" line="426" column="3" />
@@ -213,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" />
-      <jump line="456" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Can15765.c" />
       <jump line="35" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/IsoKwHal.c" />
       <jump line="849" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="200" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
@@ -313,16 +311,18 @@
       <jump line="70" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
       <jump line="69" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
       <jump line="66" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/device_event.proto" />
+      <jump line="200" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="214" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>AT_DE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHN0cmNhdCAoIGJvZHksICJcIixcInZhcmlhbnRcIjpcIiIgKTsKICAgIHN0cmNhdCAoIGJvZHksIFZFUlNJT05fQlVJTERfQ09NTUlUX1NIT1JUICk7</text>
@@ -362,9 +362,9 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>AT_DE</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>AT_DE</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>ako_obd_is_alive</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TYPE</entry>
         <entry>strip</entry>
         <entry>APP_OB</entry>
         <entry>elf</entry>
@@ -392,6 +391,7 @@
         <entry>veriant</entry>
         <entry>version</entry>
         <entry>update</entry>
+        <entry>AT_DE</entry>
       </history-search>
       <history-cmd>
         <entry>%s/rssi/network_queue.rssi/gc</entry>
