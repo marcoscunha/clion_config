@@ -17,18 +17,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1508489333515">
-        <mark key="'" line="206" column="26" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509717802542">
-        <mark key="'" line="122" column="1" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="180" column="34" />
-        <mark key="^" line="180" column="34" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509718401302">
+        <mark key="'" line="126" column="9" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="129" column="33" />
+        <mark key="." line="129" column="33" />
+        <mark key="^" line="129" column="33" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.c" timestamp="1509705939752">
         <mark key="'" line="144" column="26" />
@@ -37,11 +31,11 @@
         <mark key="^" line="93" column="49" />
         <mark key="." line="93" column="49" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.h" timestamp="1509717776062">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.h" timestamp="1509718276930">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="64" />
+        <mark key="^" line="21" column="64" />
+        <mark key="." line="21" column="64" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.h" timestamp="1509705759957">
         <mark key="'" line="34" column="9" />
@@ -85,6 +79,20 @@
         <mark key="^" line="111" column="3" />
         <mark key="." line="111" column="3" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1509718149339">
+        <mark key="'" line="225" column="28" />
+        <mark key="[" line="225" column="12" />
+        <mark key="]" line="225" column="28" />
+        <mark key="^" line="225" column="28" />
+        <mark key="." line="225" column="28" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1509718204699">
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="59" column="35" />
+        <mark key="]" line="60" column="35" />
+        <mark key="^" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508418666239">
         <mark key="'" line="159" column="28" />
         <mark key="[" line="30" column="0" />
@@ -119,12 +127,12 @@
         <mark key="." line="232" column="57" />
         <mark key="^" line="232" column="57" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509717666413">
-        <mark key="'" line="228" column="18" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="68" />
-        <mark key="^" line="257" column="60" />
-        <mark key="." line="257" column="60" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509718459922">
+        <mark key="'" line="516" column="32" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="255" column="60" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1509699072550">
         <mark key="[" line="209" column="0" />
@@ -178,12 +186,6 @@
         <mark key="^" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1509644284732">
-        <mark key="'" line="2" column="0" />
-        <mark key="]" line="567" column="0" />
-        <mark key="^" line="567" column="0" />
-        <mark key="." line="567" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gps.h" timestamp="1508489213088">
         <mark key="'" line="50" column="30" />
         <mark key="[" line="3" column="0" />
@@ -205,7 +207,6 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_bulk_gprs.c" timestamp="1509697224919" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1508251419104">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="55" column="0" />
@@ -229,16 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="139" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="154" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="95" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="103" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="659" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="159" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="40" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="200" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="249" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
       <jump line="197" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="42" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="249" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
@@ -329,58 +320,68 @@
       <jump line="631" column="59" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" />
       <jump line="29" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" />
       <jump line="122" column="1" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="278" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="225" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="70" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="48" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
+      <jump line="316" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="123" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="126" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="251" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="475" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="518" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>isup</text>
+        <text>get</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBha29fZ3Byc19jb25maWdfc3RhcnQgKCApOw==</text>
+        <text>void ako_gprs_config_https_success_ok_cb ( char *str, void *op )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBha29fZ3Byc19jb25maWdfc3RhcnQgKCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkIGFrb19ncHJzX2NvbmZpZ19zdGFydCAoIHZvaWQgKQo=</text>
+        <text encoding="base64">Ly8gIG5ld19md192ZXJzaW9uID0gYWtvX3ZlcnNpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFrb19mb3RhZ3Byc19lbmQgKCApOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICogCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qIE9uZSBvciBib3RoIGFyZSBuZWVkZWQsIHN0YXJ0IHRoZSB1cGRhdGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICBha29fZ3Byc19jb25maWdfc3RhcnQgKCApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFrb19mb3RhZ3Byc19lbmQgKCApOwo=</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIGFrb19ncHJzX2NvbmZpZ19zdGFydCAoIHZvaWQgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFrb19mb3RhZ3Byc19lbmQgKCApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFrb19odHRwc19yZWxlYXNlX2N0eCAoICk7Cg==</text>
+        <text encoding="base64">ICAgIC8qIE9uZSBvciBib3RoIGFyZSBuZWVkZWQsIHN0YXJ0IHRoZSB1cGRhdGUgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isup</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>isup</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>ako_obd_is_alive</last-substitute>
       <last-dir>1</last-dir>
@@ -388,17 +389,12 @@
     </search>
     <history>
       <history-search>
-        <entry>ble_start</entry>
-        <entry>deploy</entry>
-        <entry>at</entry>
-        <entry>at (</entry>
         <entry>at ( &quot;&quot;</entry>
         <entry>new_version</entry>
         <entry>new_fw_ver</entry>
         <entry>compare</entry>
         <entry>new_</entry>
         <entry>new_fw_version</entry>
-        <entry>fota</entry>
         <entry>FOTA</entry>
         <entry>new_fw_</entry>
         <entry>fota_start</entry>
@@ -408,10 +404,13 @@
         <entry>new_fw</entry>
         <entry encoding="base64">XDxuZXdfZndfdmVyc2lvblw+</entry>
         <entry>isup</entry>
+        <entry>fotagp</entry>
+        <entry>fota</entry>
+        <entry>**</entry>
+        <entry>state</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
-        <entry>427</entry>
-        <entry>W</entry>
         <entry>308</entry>
         <entry>229</entry>
         <entry>299</entry>
@@ -429,6 +428,8 @@
         <entry>185</entry>
         <entry>258</entry>
         <entry>228</entry>
+        <entry>317</entry>
+        <entry>211</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
