@@ -44,11 +44,16 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509698392350">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509699954196">
+        <mark key="'" line="44" column="8" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.c" timestamp="1509698762659">
+        <mark key="'" line="144" column="26" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/build/test/test/mocks/mock_at.c" timestamp="1508428937812">
         <mark key="'" line="714" column="4" />
@@ -57,6 +62,12 @@
         <mark key="[" line="0" column="51" />
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.h" timestamp="1509699732726">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1509119683111">
         <mark key="'" line="23" column="0" />
@@ -195,35 +206,32 @@
         <mark key="." line="232" column="57" />
         <mark key="^" line="232" column="57" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509698240923">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509698916829">
+        <mark key="'" line="698" column="0" />
+        <mark key="[" line="661" column="0" />
+        <mark key="]" line="693" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="262" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1509699072550">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="223" column="5" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509119363479">
         <mark key="'" line="341" column="51" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1509699068240">
+        <mark key="'" line="47" column="23" />
+        <mark key="[" line="260" column="19" />
+        <mark key="]" line="255" column="18" />
+        <mark key="." line="255" column="18" />
+        <mark key="^" line="255" column="18" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" timestamp="1508834538669">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="38" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="127" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="141" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="143" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="159" column="62" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="160" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="49" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="314" column="40" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="327" column="122" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="330" column="80" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="507" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="511" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="520" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
-      <jump line="545" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="554" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="560" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="565" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
@@ -310,64 +318,84 @@
       <jump line="25" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
       <jump line="35" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
       <jump line="23" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="52" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="125" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="144" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.c" />
+      <jump line="37" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="262" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="698" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
+      <jump line="57" column="79" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="255" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="47" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="48" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="45" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="135" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="47" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="58" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX0NIRUNLSU5HLAo=</text>
+      <register name="&quot;" type="4">
+        <text>void ako_gprs_config_update ( void )</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>;      ako_fotagprs_version_update ( );</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>version_update</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEFLT19HUFJTX0NPTkZJR19TVEFURV9JTklUSUFMSVpFRCw=</text>
+        <text>void ako_gprs_config_update ( void )</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX0NIRUNLSU5HLAo=</text>
+      <register name="1" type="4">
+        <text>ENTRY POINT
+* publishes the current firmware versions, and retrieve the target MCU and BLE versions,
+* triggering the update if needed</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX1dSSVRJTkdfQkxFLAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiB0aGVuIGlmIHRoaXMgaXMgdGhlIGZpcnN0ICJIVFRQUy1pcy11cCIgZXZlbnQsIHRoZW4gdHJpZ2dlciBhIEdQUlMgRk9UQSAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX1dSSVRJTkdfTUNVLAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBGT1RBIEdQUlMgaXMgaWRsZSwgbm90IGRvaW5nIGFueXRoaW5nIHlldCwgYnV0IHNpbmNlIHdlIGdvdCBHUFJTLCAgICAgICAgKi8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX0RPV05MT0FESU5HX0JMRSwK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBtY3VuaGEgb24gMTEvMy8xNy4KLy8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNNX0ZPVEFHUFJTX1NUQVRFX0RPV05MT0FESU5HX01DVSwK</text>
+      <register name="5" type="4">
+        <text>typedef enum {
+    AKO_GPRS_CONFIG_STATE_NULL,
+    AKO_GPRS_CONFIG_STATE_INITIALIZED,
+    AKO_GPRS_CONFIG_STATE_CHECKING,
+    AKO_GPRS_CONFIG_STATE_MAX,
+} ako_gprs_config_state_t;
+
+typedef struct
+{
+    ako_gprs_config_state_t state;
+} ako_gprs_config_t;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGVkZWYgZW51bSB7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICggdWludDhfdFtdICl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfQ==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">dm9pZCBha29fZm90YWdwcnNfc3RhcnQgKCB2b2lkICkKewoKICAgIHN3aXRjaCAoIGdfYWtvX2ZvdGFncHJzX3N0YXRlICkKICAgIHsKICAgICAgICBjYXNlIFNNX0ZPVEFHUFJTX1NUQVRFX0NIRUNLSU5HOgogICAgICAgICAgICBpZiAoIGdfYWtvX2ZvdGFncHJzX2N0eC5tY3UubmVlZHNfdXBkYXRlID09IEZPVEFHUFJTX05FRURTX1VQREFURV9ZRVMgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzbV9mb3RhZ3Byc19zdGF0ZV9jaGFuZ2UgKCBTTV9GT1RBR1BSU19TVEFURV9ET1dOTE9BRElOR19NQ1UgKTsKICAgICAgICAgICAgICAgIGFrb19ibGVfc2VuZF9kYXRhICggKCB1aW50OF90W10gKXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFLT0xZVF9CTEVfQ09NTUFORF9GT1RBR1BSU19SRVEsIEFLT0xZVF9GT1RBX0dQUlNfRE9XTkxPQURJTkd9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyICk7CgogICAgICAgICAgICAgICAgaWYgKCAxID09IGFrb19maWxlZGxfbmV3X2N0eCAoIGdfYWtvX2ZvdGFncHJzX2N0eC5tY3UudXJsLCBGT1RBR1BSU19GV19GSUxFTkFNRSwgU1RNMzJfQ0hVTktfU0laRSwgZndfcnhfZGF0YV9jYiwgYWtvX2ZvdGFncHJzX21jdV9kbGNvbXBsZXRlX2NiLCBha29fZm90YWdwcnNfZmlsZWRsX2ZhaWx1cmVfY2IgKSApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY3ByaW50ZiAoIFRBRywgIiVzIFVuYWJsZSB0byBpbml0aWFsaXplIGEgZmlsZWRsIGNvbnRleHRcbiIsIF9fRlVOQ1RJT05fXyApOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC8qIFN0YXJ0IHRoZSBmaWxlIGRvd25sb2FkLiBUaGUgcHJvY2VzcyB3aWxsIGNvbnRpbnVlIHRocm91Z2ggICAqLwogICAgICAgICAgICAgICAgaWYgKCBha29fZmlsZWRsX3N0YXJ0ICggJmdfYWtvX2ZpbGVkbF9jdHggKSApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY3ByaW50ZiAoIFRBRywgIiVzIFVuYWJsZSB0byBpbml0aWFsaXplIHN0YXJ0IGZpbGUgZG93bmxvYWRcbiIsIF9fRlVOQ1RJT05fXyApOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIGlmICggZ19ha29fZm90YWdwcnNfY3R4LmJsZS5uZWVkc191cGRhdGUgPT0gRk9UQUdQUlNfTkVFRFNfVVBEQVRFX1lFUyApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNtX2ZvdGFncHJzX3N0YXRlX2NoYW5nZSAoIFNNX0ZPVEFHUFJTX1NUQVRFX0RPV05MT0FESU5HX0JMRSApOwogICAgICAgICAgICAgICAgYWtvX2JsZV9zZW5kX2RhdGEgKCAoIHVpbnQ4X3RbXSApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQUtPTFlUX0JMRV9DT01NQU5EX0ZPVEFHUFJTX1JFUSwgQUtPTFlUX0ZPVEFfR1BSU19ET1dOTE9BRElOR30sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDIgKTsKCiAgICAgICAgICAgICAgICBpZiAoIDEgPT0gYWtvX2ZpbGVkbF9uZXdfY3R4ICggZ19ha29fZm90YWdwcnNfY3R4LmJsZS51cmwsIEZPVEFHUFJTX0ZXX0ZJTEVOQU1FLCBDWVBSU19DSFVOS19TSVpFLCBmd19yeF9kYXRhX2NiLCBha29fZm90YWdwcnNfYmxlX2RsY29tcGxldGVfY2IsIGFrb19mb3RhZ3Byc19maWxlZGxfZmFpbHVyZV9jYiApICkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjcHJpbnRmICggVEFHLCAiJXMgVW5hYmxlIHRvIGluaXRpYWxpemUgYSBmaWxlZGwgY29udGV4dFxuIiwgX19GVU5DVElPTl9fICk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLyogU3RhcnQgdGhlIGZpbGUgZG93bmxvYWQuIFRoZSBwcm9jZXNzIHdpbGwgY29udGludWUgdGhyb3VnaCAgICAgICAgICAgICAgICovCiAgICAgICAgICAgICAgICBpZiAoIGFrb19maWxlZGxfc3RhcnQgKCAmZ19ha29fZmlsZWRsX2N0eCApICkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjcHJpbnRmICggVEFHLCAiJXMgVW5hYmxlIHRvIGluaXRpYWxpemUgc3RhcnQgZmlsZSBkb3dubG9hZFxuIiwgX19GVU5DVElPTl9fICk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIGNwcmludGYgKCBUQUcsICIlcyBHUFJTIEZvdGEgc3RhdGUgPCVzPiBpcyBpbnZhbGlkXG4iLCBfX0ZVTkNUSU9OX18sIHNtX2ZvdGFncHJzX3RvX3N0ciAoIGdfYWtvX2ZvdGFncHJzX3N0YXRlICkgKTsKICAgICAgICAgICAgYWtvX2JsZV9zZW5kX2RhdGEgKCAoIHVpbnQ4X3RbXSApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0RPV05MT0FEX0VSUk9SfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyICk7CiAgICAgICAgICAgIHJldHVybjsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICggdWludDhfdFtdICl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfQ==</text>
       </register>
       <register name="8" type="4">
-        <text>//
-// Created by mcunha on 11/3/17.
-//</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWtvX2JsZV9zZW5kX2RhdGEgKCAoIHVpbnQ4X3RbXSApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyICk7</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
- *
- * @param ctx
- * @param id
- */</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86IFJlcGxhY2UgYnkgYSBraW5kIG9mIGh0dHAgc2VydmljZSBzeXN0ZW0vcXVldWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>version_update</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>version_update</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>ako_obd_is_alive</last-substitute>
       <last-dir>1</last-dir>
@@ -375,8 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>o</entry>
-        <entry>stripped</entry>
         <entry encoding="base64">Pj4+</entry>
         <entry>seque</entry>
         <entry>sequel_e</entry>
@@ -395,14 +421,14 @@
         <entry encoding="base64">Pj4+Pg==</entry>
         <entry>parse</entry>
         <entry>state</entry>
+        <entry>is_up</entry>
+        <entry>version_update</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w\</entry>
         <entry>240</entry>
         <entry>238</entry>
         <entry>ẃ</entry>
-        <entry>Lw</entry>
         <entry>we</entry>
         <entry>qa!</entry>
         <entry>427</entry>
@@ -416,6 +442,8 @@
         <entry>252</entry>
         <entry>ẅ</entry>
         <entry>327</entry>
+        <entry>q</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
