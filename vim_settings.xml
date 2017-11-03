@@ -44,11 +44,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509699954196">
-        <mark key="'" line="44" column="8" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1509701306817">
+        <mark key="'" line="133" column="0" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+        <mark key="^" line="89" column="73" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.c" timestamp="1509698762659">
         <mark key="'" line="144" column="26" />
@@ -232,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="560" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="565" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
       <jump line="575" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/src/Obd.c" />
@@ -332,70 +332,59 @@
       <jump line="135" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="47" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="58" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="139" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>void ako_gprs_config_update ( void )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZW5kX2JsZV8K</text>
       </register>
       <register name="-" type="4">
-        <text>;      ako_fotagprs_version_update ( );</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>version_update</text>
+        <text>ako_obd_is_alive</text>
       </register>
       <register name="0" type="4">
-        <text>void ako_gprs_config_update ( void )</text>
+        <text>static void send_ble_no_service ( void );</text>
       </register>
-      <register name="1" type="4">
-        <text>ENTRY POINT
-* publishes the current firmware versions, and retrieve the target MCU and BLE versions,
-* triggering the update if needed</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZW5kX2JsZV8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKiB0aGVuIGlmIHRoaXMgaXMgdGhlIGZpcnN0ICJIVFRQUy1pcy11cCIgZXZlbnQsIHRoZW4gdHJpZ2dlciBhIEdQUlMgRk9UQSAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBGT1RBIEdQUlMgaXMgaWRsZSwgbm90IGRvaW5nIGFueXRoaW5nIHlldCwgYnV0IHNpbmNlIHdlIGdvdCBHUFJTLCAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8KLy8gQ3JlYXRlZCBieSBtY3VuaGEgb24gMTEvMy8xNy4KLy8K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>typedef enum {
-    AKO_GPRS_CONFIG_STATE_NULL,
-    AKO_GPRS_CONFIG_STATE_INITIALIZED,
-    AKO_GPRS_CONFIG_STATE_CHECKING,
-    AKO_GPRS_CONFIG_STATE_MAX,
-} ako_gprs_config_state_t;
-
-typedef struct
-{
-    ako_gprs_config_state_t state;
-} ako_gprs_config_t;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICggdWludDhfdFtdICl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICggdWludDhfdFtdICl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgYWtvX2JsZV9zZW5kX2RhdGEgKCAoIHVpbnQ4X3RbXSApewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBS09MWVRfQkxFX0NPTU1BTkRfRk9UQUdQUlNfUkVRLCBBS09MWVRfRk9UQV9HUFJTX0NIRUNLSU5HfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyICk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IFJlcGxhY2UgYnkgYSBraW5kIG9mIGh0dHAgc2VydmljZSBzeXN0ZW0vcXVldWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version_update</last-search>
+      <last-search>ako_obd_is_alive</last-search>
       <last-offset />
-      <last-pattern>version_update</last-pattern>
+      <last-pattern>ako_obd_is_alive</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>ako_obd_is_alive</last-substitute>
       <last-dir>1</last-dir>
@@ -407,7 +396,6 @@ typedef struct
         <entry>seque</entry>
         <entry>sequel_e</entry>
         <entry>sequel_error</entry>
-        <entry>ako_obd_is_alive</entry>
         <entry>https_failure</entry>
         <entry>variant</entry>
         <entry>vari</entry>
@@ -423,9 +411,9 @@ typedef struct
         <entry>state</entry>
         <entry>is_up</entry>
         <entry>version_update</entry>
+        <entry>ako_obd_is_alive</entry>
       </history-search>
       <history-cmd>
-        <entry>w\</entry>
         <entry>240</entry>
         <entry>238</entry>
         <entry>ẃ</entry>
@@ -444,6 +432,7 @@ typedef struct
         <entry>327</entry>
         <entry>q</entry>
         <entry>Lw</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
