@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1509628348955">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="16" column="130" />
+        <mark key="]" line="16" column="140" />
+        <mark key="^" line="16" column="140" />
+        <mark key="." line="16" column="140" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508428501417">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="25" column="18" />
@@ -37,6 +44,9 @@
         <mark key="]" line="93" column="78" />
         <mark key="^" line="93" column="49" />
         <mark key="." line="93" column="49" />
+      </file>
+      <file name="/fragment.m" timestamp="1509727919385">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.h" timestamp="1509718276930">
         <mark key="[" line="21" column="63" />
@@ -82,6 +92,26 @@
         <mark key="^" line="303" column="0" />
         <mark key="." line="303" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1509640922641">
+        <mark key="'" line="214" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="142" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.h" timestamp="1509717582181">
+        <mark key="'" line="190" column="9" />
+        <mark key="[" line="227" column="13" />
+        <mark key="]" line="227" column="13" />
+        <mark key="." line="227" column="13" />
+        <mark key="^" line="227" column="13" />
+      </file>
+      <file name="/GDB" timestamp="1509729186358">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509716987616">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1509628268204">
         <mark key="'" line="426" column="3" />
         <mark key="[" line="0" column="28" />
@@ -115,76 +145,6 @@
         <mark key="^" line="90" column="46" />
         <mark key="." line="90" column="46" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508418666239">
-        <mark key="'" line="159" column="28" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="34" column="6" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1509728902977">
-        <mark key="'" line="582" column="56" />
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="636" column="0" />
-        <mark key="^" line="636" column="15" />
-        <mark key="." line="636" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508247360393">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1509724566754">
-        <mark key="'" line="136" column="34" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508488993788">
-        <mark key="'" line="228" column="24" />
-        <mark key="[" line="232" column="57" />
-        <mark key="]" line="232" column="57" />
-        <mark key="." line="232" column="57" />
-        <mark key="^" line="232" column="57" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509729853912">
-        <mark key="'" line="293" column="0" />
-        <mark key="[" line="490" column="0" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1509628348955">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="130" />
-        <mark key="]" line="16" column="140" />
-        <mark key="^" line="16" column="140" />
-        <mark key="." line="16" column="140" />
-      </file>
-      <file name="/fragment.m" timestamp="1509727919385">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1509640922641">
-        <mark key="'" line="214" column="15" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="142" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.h" timestamp="1509717582181">
-        <mark key="'" line="190" column="9" />
-        <mark key="[" line="227" column="13" />
-        <mark key="]" line="227" column="13" />
-        <mark key="." line="227" column="13" />
-        <mark key="^" line="227" column="13" />
-      </file>
-      <file name="/GDB" timestamp="1509729186358">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1509716987616">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" timestamp="1508344720169">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="64" column="57" />
@@ -198,6 +158,13 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
         <mark key="^" line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1508418666239">
+        <mark key="'" line="159" column="28" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="34" column="6" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.c" timestamp="1509717561154">
         <mark key="'" line="147" column="4" />
@@ -218,6 +185,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1509728902977">
+        <mark key="'" line="582" column="56" />
+        <mark key="[" line="636" column="0" />
+        <mark key="]" line="636" column="0" />
+        <mark key="^" line="636" column="15" />
+        <mark key="." line="636" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.c" timestamp="1508488905991">
         <mark key="'" line="412" column="39" />
         <mark key="[" line="696" column="52" />
@@ -232,12 +206,38 @@
         <mark key="." line="32" column="1" />
         <mark key="^" line="32" column="1" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/stm32f09rc.cmake" timestamp="1508247360393">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_savedata.c" timestamp="1508251419104">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="70" column="79" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1509724566754">
+        <mark key="'" line="136" column="34" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="0" />
+        <mark key="." line="411" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508488993788">
+        <mark key="'" line="228" column="24" />
+        <mark key="[" line="232" column="57" />
+        <mark key="]" line="232" column="57" />
+        <mark key="." line="232" column="57" />
+        <mark key="^" line="232" column="57" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" timestamp="1509729853912">
+        <mark key="'" line="293" column="0" />
+        <mark key="[" line="490" column="0" />
+        <mark key="]" line="490" column="0" />
+        <mark key="." line="490" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1509717761397">
         <mark key="'" line="29" column="28" />
@@ -252,6 +252,12 @@
         <mark key="]" line="260" column="19" />
         <mark key="." line="260" column="19" />
         <mark key="^" line="260" column="19" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1509955704470">
+        <mark key="[" line="29" column="90" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
     </filemarks>
     <jumps>
