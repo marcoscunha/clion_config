@@ -258,11 +258,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.h" timestamp="1510045371671">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.h" timestamp="1510046511949">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="17" />
+        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1509980413427">
         <mark key="'" line="1112" column="21" />
@@ -395,48 +395,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>UNP</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGFrb2x5dF9wbHVnZ2VkX1NNICggICk7</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIFNUQVRFX1BMVUdHRUQ6CiAgICAgICAgICAgIGJyZWFrOw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3QKewogICAgCn1wbHVnX21hbmFnZXJfdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEVWRU5UX0VYVEVSTkFMX1BPV0VSX09GRiwK</text>
       </register>
-      <register name="3" type="4">
-        <text>//
-// Created by mcunha on 11/7/17.
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEVWRU5UX0VYVEVSTkFMX1BPV0VSX09OLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBha29seXRfZXh0ZXJuYWxfcG93ZXJfb2ZmICggdm9pZCAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFrb18K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="7" type="4">
+        <text>)
+{
+
+}
+
+void akolyt_external_power_on ( void )
+{
+
+}</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGJvb2xfdCBlbXB0eTsKICAgIGVtcHR5ID0gRkFMU0U7CgogICAgaWYgKCAgc2F2ZXRzLT5tZXRhZGF0YS5ibG9ja1sgc2F2ZXRzLT5tZXRhZGF0YS5oZWFkZXIubmV4dF9yZWFkX2Jsb2NrIF0ubGVuZ3RoID09IDAgKQogICAgewogICAgICAgIGlmIChzYXZldHMtPm1ldGFkYXRhLmhlYWRlci5uZXh0X3dyaXRlX2Jsb2NrID09IHNhdmV0cy0+bWV0YWRhdGEuaGVhZGVyLm5leHRfcmVhZF9ibG9jayApCiAgICAgICAgewogICAgICAgICAgICBlbXB0eSA9IFRSVUU7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIEVSUk9SX0xPRyAoICJbRV0gSW5jb2hlcmVudCBpbmZvcm1hdGlvbiB3X2Jsb2NrWyVkXSByX2Jsb2NrWyVkXSByX2xlbmd0aCAlZFxuIiwKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZXRzLT5tZXRhZGF0YS5oZWFkZXIubmV4dF93cml0ZV9ibG9jaywKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZXRzLT5tZXRhZGF0YS5oZWFkZXIubmV4dF9yZWFkX2Jsb2NrLAogICAgICAgICAgICAgICAgICAgICAgICBzYXZldHMtPm1ldGFkYXRhLmJsb2NrWyBzYXZldHMtPm1ldGFkYXRhLmhlYWRlci5uZXh0X3JlYWRfYmxvY2sgXSApOwogICAgICAgICAgICBlbXB0eSA9IEZBTFNFOwogICAgICAgIH0KCiAgICB9CiAgICByZXR1cm4gIGVtcHR5Ow==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
