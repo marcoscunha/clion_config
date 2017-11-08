@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508428501417">
@@ -209,12 +209,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.c" timestamp="1510160337003">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.c" timestamp="1510161142990">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.h" timestamp="1510158409497">
         <mark key="'" line="23" column="28" />
@@ -273,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="110" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="111" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="69" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
@@ -373,49 +372,64 @@
       <jump line="212" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="214" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="387" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="61" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>static void transition_to_state_plugged ( plug_manager_t *manager )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>memset</text>
       </register>
       <register name="0" type="4">
-        <text>static void transition_to_state_plugged ( plug_manager_t *manager )</text>
+        <text>static void event_powered_off_state_already_plugged ( plug_manager_t *manager )
+{
+    transition_to_state_plugged_power_off ( manager );
+}
+
+static void event_powered_on_state_plugged_powered_off ( plug_manager_t *manager )
+{
+    transition_to_state_already_plugged ( manager );
+}
+static void event_moved_state_plugged_powered_off ( plug_manager_t *manager )
+{
+    transition_to_state_unplugged ( manager );
+}
+
+static void event_power_off_state_plugged ( plug_manager_t *manager )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFrb19yZW1vdGVfY29uZmlnLm9iZF9kaXNhYmxlZCA9IFRSVUU7Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFrb19vYmRfY29ubmVjdF9jb21tdW5pY2F0aW9uICAgIAo=</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfcXVldWUgKCBTWVNfRVZFTlRfSEFORExFUiAoIGFrb19kZXZpY2VfZXZlbnRfc2hvdyApLCBOVUxMICk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIElORk9fTE9HICggIltJXSAgVklOOiAweCUwOHhcbiIsIGFrb19zZXR1cC52aW5bIDAgXSApOwogICAgSU5GT19MT0cgKCAiW0ldICBQcm90b2NvbDogJWRcbiIsIGFrb19zZXR1cC5wcm90b2NvbCApOwogICAgSU5GT19MT0cgKCAiW0ldICBWSElEOiAweCUwOHhcbiIsIGFrb19zZXR1cC52aGlkWyAwIF0gKTsKICAgIElORk9fTE9HICggIltJXSAgYmxlX2NvbXBpZDogMHglMDh4XG4iLCBha29fc2V0dXAuYmxlX2NvbXBpZCApOwogICAgSU5GT19MT0cgKCAiW0ldICBibGVfcHJvZGlkOiAweCUwOHhcbiIsIGFrb19zZXR1cC5ibGVfcHJvZGlkICk7CiAgICBJTkZPX0xPRyAoICJbSV0gIGlzX3NpbGVudDogMHglMDh4XG4iLCBha29fc2V0dXAuaXNfc2lsZW50ICk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJTkZPX0xPRyAoICJbSV0gIGVjdTogMHglMDh4XHQgaWQ6IDB4JTA4eFxuIiwgYWtvX3NldHVwLm9iZFsgaSBdLmlkLCBha29fc2V0dXAub2JkWyBpIF0uZWN1ICk7Cg==</text>
+        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV9hbHJlYWR5X3BsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -467,12 +481,12 @@
         <entry>88</entry>
         <entry>47</entry>
         <entry>%s/ako_setup_is_obd_disabled/ako_remote_config_is_obd_disabled/gc</entry>
-        <entry>ẅ</entry>
         <entry>53</entry>
         <entry>147</entry>
         <entry>24</entry>
         <entry>204</entry>
         <entry>348</entry>
+        <entry>ẅ</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
