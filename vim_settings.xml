@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1510139074627">
-        <mark key="'" line="110" column="17" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1510139157734">
+        <mark key="'" line="69" column="20" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508428501417">
         <mark key="'" line="29" column="16" />
@@ -315,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="116" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="528" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
       <jump line="15" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
@@ -415,6 +413,8 @@
       <jump line="28" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="105" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="110" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
+      <jump line="111" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
+      <jump line="69" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,7 +424,7 @@
         <text encoding="base64">ICAgIGNvbmZpZy0+cmVtb3RlX2NvbmZpZy5vYmRfZW5hYmxlZCA9IFRSVUU7</text>
       </register>
       <register name="/" type="4">
-        <text>sequel</text>
+        <text>ako_upload_start</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfcmVtb3ZlX3Rhc2sgKCBha29fZ3Byc19jb25maWdfc3RhcnQgKTs=</text>
@@ -464,9 +464,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sequel</last-search>
+      <last-search>ako_upload_start</last-search>
       <last-offset />
-      <last-pattern>sequel</last-pattern>
+      <last-pattern>ako_upload_start</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>AKO_GPRS_CONFIG_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ins</entry>
         <entry>insig</entry>
         <entry>BLE_D</entry>
         <entry>DEBUG_BLE</entry>
@@ -494,6 +493,7 @@
         <entry>AT+CSQ</entry>
         <entry>start</entry>
         <entry>sequel</entry>
+        <entry>ako_upload_start</entry>
       </history-search>
       <history-cmd>
         <entry>317</entry>
