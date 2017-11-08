@@ -19,19 +19,19 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1510138994244">
-        <mark key="'" line="227" column="22" />
-        <mark key="[" line="227" column="23" />
-        <mark key="]" line="227" column="23" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="227" column="23" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1510141728506">
+        <mark key="'" line="232" column="22" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="192" column="11" />
+        <mark key="." line="192" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1510138669744">
-        <mark key="'" line="212" column="19" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="61" />
-        <mark key="^" line="203" column="0" />
-        <mark key="." line="203" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1510140935625">
+        <mark key="'" line="126" column="54" />
+        <mark key="[" line="277" column="0" />
+        <mark key="]" line="277" column="4" />
+        <mark key="^" line="277" column="4" />
+        <mark key="." line="277" column="4" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_parser.c" timestamp="1510073239852">
         <mark key="[" line="277" column="33" />
@@ -315,11 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="528" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="15" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="571" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota_gprs.c" />
-      <jump line="18" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_parser.c" />
       <jump line="45" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_parser.c" />
       <jump line="804" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
       <jump line="470" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
@@ -415,58 +410,63 @@
       <jump line="110" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="111" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
       <jump line="69" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" />
+      <jump line="277" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="395" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="405" column="42" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="50" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="126" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfcmVtb3ZlX3Rhc2sgKCBha29fZ3Byc19jb25maWdfc3RhcnQgKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGNvbmZpZy0+cmVtb3RlX2NvbmZpZy5vYmRfZW5hYmxlZCA9IFRSVUU7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ako_upload_start</text>
+        <text>success</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGFrb19uZXR3b3JrX21hbmFnZXJfcmVtb3ZlX3Rhc2sgKCBha29fZ3Byc19jb25maWdfc3RhcnQgKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0d29ya19xdWV1ZS50aW1lb3V0X2lkID0gc3lzX3RpbWVvdXRfYWRkICggREFFTU9OX1BPT0xJTkdfVElNRSwgYWtvX25ldHdvcmtfbWFuYWdlcl9kYWVtb24sIE5VTEwgKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyW10gPSAie1wib2JkRW5hYmxlZFwiOnRydWV9IjsK</text>
+        <text encoding="base64">CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgSU5GT19MT0cgKCAiW0ldIFVwZGF0ZSBuZXR3b3JrIGluZm9ybWF0aW9uXG4iICk7CiAgICAgICAgICAgIG5ldHdvcmtfbWFuYWdlcl91cGRhdGUgKCApOw==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICBtZW1zZXQgKCAmY29uZmlndXJhdGlvbiwgMHgwMCwgc2l6ZW9mICggYWtvX2dwcnNfcmVtb3RlX2NvbmZpZ190ICkgKTsKICAgIGNvbmZpZ3VyYXRpb24ucmVtb3RlX2NvbmZpZy5vYmRfZW5hYmxlZCA9IFRSVUU7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYXIgc3RyW10gPSAie1wiZGV2aWNlQ29uZlwiOntcIm9iZEVuYWJsZWRcIjpmYWxzZX19IjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIG5ldHdvcmtfcXVldWUuc3RhdGUgPT0gTkVUV09SS19NQU5BR0VSX1NUQVRFX1VQTE9BRElORyApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCBqc29uZXEgKCBzdHIsICZ0b2tlbnNbIG4gXSwgIm9iZEVuYWJsZWQiICkgPT0gMCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIFBBUlNFUl9MT0cgKCAiW0RdIGRldmljZUNvbmY6XG4iICk7CiAgICAgICAgICAgIGpfdCA9IHRva2Vuc1sgbiBdLnNpemU7CiAgICAgICAgICAgIG4rKzsKICAgICAgICAgICAgZm9yICggaW50IGogPSAwOyBqIDwgal90OyBqKysgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyAzcmQgTGV2ZWwKICAgICAgICAgICAgICAgIGlmICggdG9rZW5zWyBuIF0udHlwZSA9PSBKU01OX09CSkVDVCApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAga190ID0gdG9rZW5zWyBuIF0uc2l6ZTsKICAgICAgICAgICAgICAgICAgICBuKys7CiAgICAgICAgICAgICAgICAgICAgZm9yICggaW50IGsgPSAwOyBrIDwga190OyBrKysgKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gNHRoIGxldmVsCgogICAgICAgICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpzb25fcHJpbnQgKCBzdHIsICZ0b2tlbnNbIG4gXSwgIlVuZXhwZWN0ZWQga2V5IiApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbiArPSBha29fcGFyc2VyX2ludmFsaWRhdGVfbGVhZnMgKCAmdG9rZW5zWyBuIF0gKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBqc29uX3ByaW50ICggc3RyLCAmdG9rZW5zWyBuIF0sICJVbmV4cGVjdGVkIGtleSIgKTsKICAgICAgICAgICAgICAgICAgICBuICs9IGFrb19wYXJzZXJfaW52YWxpZGF0ZV9sZWFmcyAoICZ0b2tlbnNbIG4gXSApOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCBqc29uZXEgKCBzdHIsICZ0b2tlbnNbIG4gXSwgIm9iZEVuYWJsZWQiICkgPT0gMCApCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4rKzsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBBUlNFUl9MT0cgKCAiW0RdICAgb2JkRW5hYmxlZDpcbiIgKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICggc3RybmNtcCAoICJ0cnVlIiwgc3RyICsgdG9rZW5zWyBuIF0uc3RhcnQsIHRva2Vuc1sgbiBdLmVuZCAtIHRva2Vuc1sgbiBdLnN0YXJ0ICkgPT0gMCApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnLT5yZW1vdGVfY29uZmlnLm9iZF9lbmFibGVkID0gVFJVRTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25maWctPnJlbW90ZV9jb25maWcub2JkX2VuYWJsZWQgPSBGQUxTRTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4rKzsKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ako_upload_start</last-search>
+      <last-search>success</last-search>
       <last-offset />
-      <last-pattern>ako_upload_start</last-pattern>
+      <last-pattern>success</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>AKO_GPRS_CONFIG_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -474,9 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insig</entry>
-        <entry>BLE_D</entry>
-        <entry>DEBUG_BLE</entry>
         <entry>ble_rgb</entry>
         <entry>update_led</entry>
         <entry>update</entry>
@@ -494,6 +491,9 @@
         <entry>start</entry>
         <entry>sequel</entry>
         <entry>ako_upload_start</entry>
+        <entry encoding="base64">IGFscmVhZHkgdXBkYXRlZCA=</entry>
+        <entry encoding="base64">YWxyZWFkeSB1cGRhdGVkIA==</entry>
+        <entry>success</entry>
       </history-search>
       <history-cmd>
         <entry>317</entry>
