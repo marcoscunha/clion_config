@@ -150,12 +150,11 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1508488993788">
-        <mark key="'" line="228" column="24" />
-        <mark key="[" line="232" column="57" />
-        <mark key="]" line="232" column="57" />
-        <mark key="." line="232" column="57" />
-        <mark key="^" line="232" column="57" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1510145115897">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1509628348955">
         <mark key="'" line="16" column="0" />
@@ -315,8 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_parser.c" />
-      <jump line="804" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
       <jump line="470" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
       <jump line="92" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.h" />
       <jump line="856" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
@@ -415,58 +412,60 @@
       <jump line="405" column="42" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="50" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="126" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
+      <jump line="236" column="112" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
+      <jump line="231" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>success</text>
+        <text>sys_timeout</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0d29ya19xdWV1ZS50aW1lb3V0X2lkID0gc3lzX3RpbWVvdXRfYWRkICggREFFTU9OX1BPT0xJTkdfVElNRSwgYWtvX25ldHdvcmtfbWFuYWdlcl9kYWVtb24sIE5VTEwgKTs=</text>
+        <text encoding="base64">ICAgIHN5c190aW1lb3V0X2FkZF9DTW9ja0V4cGVjdEFuZFJldHVybiAoIF9fTElORV9fLCAxMDAwMCwgYWtvX25ldHdvcmtfbWFuYWdlcl9kYWVtb24sIE5VTEwsIDEwICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgIGF0X0NNb2NrRXhwZWN0QW5kUmV0dXJuICggX19MSU5FX18sICJBVCtDU1EiLCAiK0NTUSIsIG5ldHdvcmtfbWFuYWdlcl9nZXRfZ3NtX3Jzc2lfY2FsbGJhY2ssIDEwMDAsIE5VTEwsIDAgKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSU5GT19MT0cgKCAiW0ldIFVwZGF0ZSBuZXR3b3JrIGluZm9ybWF0aW9uXG4iICk7CiAgICAgICAgICAgIG5ldHdvcmtfbWFuYWdlcl91cGRhdGUgKCApOw==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIG5ldHdvcmtfcXVldWUuc3RhdGUgPT0gTkVUV09SS19NQU5BR0VSX1NUQVRFX1VQTE9BRElORyApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGdwc19nZXRfc3BlZWRfQ01vY2tSZXR1cm5NZW1UaHJ1UHRyX3NwZWVkICggX19MSU5FX18sICIyMCIsIDMgKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdwc19nZXRfc3BlZWRfQ01vY2tJZ25vcmVBcmdfc3BlZWQgKCBfX0xJTkVfXyApOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyogICAgZ3BzX2dldF9zcGVlZF9DTW9ja0V4cGVjdEFuZFJldHVybiAoIF9fTElORV9fLCBOVUxMLCAwICk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHN5c190aW1lb3V0X2FkZF9DTW9ja0V4cGVjdEFuZFJldHVybiAocXVldWVfQ01vY2tFeHBlY3RBbmRSZXR1cm4gKCBfX0xJTkVfXywgbmV0d29ya19tYW5hZ2VyX3VwZGF0ZV9jYWxsYmFjaywgTlVMTCwgMCApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>success</last-search>
+      <last-search>sys_timeout</last-search>
       <last-offset />
-      <last-pattern>success</last-pattern>
+      <last-pattern>sys_timeout</last-pattern>
       <last-replace>ako_trip_is_store_active</last-replace>
       <last-substitute>AKO_GPRS_CONFIG_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -474,8 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ble_rgb</entry>
-        <entry>update_led</entry>
         <entry>update</entry>
         <entry>unplugged</entry>
         <entry>unplu</entry>
@@ -494,9 +491,10 @@
         <entry encoding="base64">IGFscmVhZHkgdXBkYXRlZCA=</entry>
         <entry encoding="base64">YWxyZWFkeSB1cGRhdGVkIA==</entry>
         <entry>success</entry>
+        <entry>sys_queue</entry>
+        <entry>sys_timeout</entry>
       </history-search>
       <history-cmd>
-        <entry>317</entry>
         <entry>60</entry>
         <entry>99</entry>
         <entry>120</entry>
@@ -515,6 +513,7 @@
         <entry>491</entry>
         <entry>1362</entry>
         <entry>W</entry>
+        <entry>222</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
