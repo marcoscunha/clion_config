@@ -98,12 +98,12 @@
         <mark key="^" line="303" column="0" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510157004292">
-        <mark key="'" line="214" column="15" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="151" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510223561092">
+        <mark key="'" line="74" column="12" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.h" timestamp="1509717582181">
         <mark key="'" line="190" column="9" />
@@ -246,12 +246,12 @@
         <mark key="." line="226" column="28" />
         <mark key="^" line="226" column="28" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510218050071">
-        <mark key="'" line="92" column="9" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="94" column="59" />
-        <mark key="^" line="94" column="59" />
-        <mark key="." line="94" column="59" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510224026034">
+        <mark key="'" line="93" column="9" />
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="69" column="43" />
+        <mark key="^" line="69" column="43" />
+        <mark key="." line="69" column="43" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1510221217273">
         <mark key="[" line="31" column="94" />
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="126" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="236" column="112" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
       <jump line="231" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
@@ -367,19 +366,20 @@
       <jump line="26" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/board.h" />
       <jump line="110" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
       <jump line="51" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
+      <jump line="74" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">biBkYXRhc2hlZXQuIA==</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbi0+cmVtb3RlX2NvbmZpZy5vYmRfZGlzYWJsZWQ7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">biBkYXRhc2hlZXQuIA==</text>
+        <text encoding="base64">Y29uZmlndXJhdGlvbi0+cmVtb3RlX2NvbmZpZy5vYmRfZGlzYWJsZWQ7</text>
       </register>
       <register name="/" type="4">
-        <text>FS_G</text>
+        <text>BLE</text>
       </register>
       <register name="0" type="4">
-        <text>static const uint8_t config_on[ ][ 2 ] =</text>
+        <text encoding="base64">ICAgIGFrb19yZW1vdGVfY29uZmlnLm9iZF9kaXNhYmxlZCA9IGNvbmZpZ3VyYXRpb24tPnJlbW90ZV9jb25maWcub2JkX2Rpc2FibGVkOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -422,9 +422,9 @@ REMOTE_</text>
       </register>
     </registers>
     <search>
-      <last-search>FS_G</last-search>
+      <last-search>BLE</last-search>
       <last-offset />
-      <last-pattern>FS_G</last-pattern>
+      <last-pattern>BLE</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +432,6 @@ REMOTE_</text>
     </search>
     <history>
       <history-search>
-        <entry>persis</entry>
         <entry>disabled</entry>
         <entry>ako_setup_is_obd_disabled</entry>
         <entry>setup_remote</entry>
@@ -452,6 +451,7 @@ REMOTE_</text>
         <entry>SENSI</entry>
         <entry>FS_</entry>
         <entry>FS_G</entry>
+        <entry>BLE</entry>
       </history-search>
       <history-cmd>
         <entry>242</entry>
