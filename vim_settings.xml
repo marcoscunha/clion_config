@@ -24,12 +24,12 @@
         <mark key="^" line="134" column="114" />
         <mark key="." line="134" column="114" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1510146947372">
-        <mark key="'" line="185" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="192" column="11" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1510225015807">
+        <mark key="'" line="187" column="1" />
+        <mark key="[" line="98" column="33" />
+        <mark key="]" line="98" column="48" />
+        <mark key="^" line="98" column="48" />
+        <mark key="." line="98" column="48" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1510158425392">
         <mark key="'" line="388" column="4" />
@@ -56,6 +56,12 @@
         <mark key="]" line="44" column="16" />
         <mark key="." line="44" column="16" />
         <mark key="^" line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" timestamp="1510225566316">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="351" column="65" />
+        <mark key="." line="382" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1509119683111">
         <mark key="'" line="23" column="0" />
@@ -91,12 +97,12 @@
         <mark key="." line="1270" column="3" />
         <mark key="^" line="1270" column="3" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1509721296059">
-        <mark key="'" line="292" column="84" />
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="^" line="303" column="0" />
-        <mark key="." line="303" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1510225623755">
+        <mark key="'" line="295" column="28" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="66" />
+        <mark key="." line="328" column="0" />
+        <mark key="^" line="326" column="50" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510223561092">
         <mark key="'" line="74" column="12" />
@@ -246,7 +252,7 @@
         <mark key="." line="226" column="28" />
         <mark key="^" line="226" column="28" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510224026034">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510224891783">
         <mark key="'" line="93" column="9" />
         <mark key="[" line="69" column="37" />
         <mark key="]" line="69" column="43" />
@@ -267,11 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="236" column="112" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
-      <jump line="231" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
-      <jump line="349" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
-      <jump line="342" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="193" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
       <jump line="215" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_acquire.c" />
       <jump line="91" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.c" />
@@ -367,19 +368,24 @@
       <jump line="110" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
       <jump line="51" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
       <jump line="74" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="20" column="31" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
+      <jump line="296" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
+      <jump line="321" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
+      <jump line="295" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
+      <jump line="111" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbi0+cmVtb3RlX2NvbmZpZy5vYmRfZGlzYWJsZWQ7</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWtvX25ldHdvcmtfbWFuYWdlcl9hZGRfdGFzayAoIGFrb190cmlwX2RhdGFfdXBsb2FkICk7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZmlndXJhdGlvbi0+cmVtb3RlX2NvbmZpZy5vYmRfZGlzYWJsZWQ7</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>BLE</text>
+        <text>is_full</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGFrb19yZW1vdGVfY29uZmlnLm9iZF9kaXNhYmxlZCA9IGNvbmZpZ3VyYXRpb24tPnJlbW90ZV9jb25maWcub2JkX2Rpc2FibGVkOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWtvX25ldHdvcmtfbWFuYWdlcl9hZGRfdGFzayAoIGFrb190cmlwX2RhdGFfdXBsb2FkICk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -387,44 +393,44 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
         <text>REMOTE_
 REMOTE_
 REMOTE_
 REMOTE_</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>typedef struct __attribute__ ( ( packed ) )
 {
     uint8_t plugged;
 }local_config_t;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BLE</last-search>
+      <last-search>is_full</last-search>
       <last-offset />
-      <last-pattern>BLE</last-pattern>
+      <last-pattern>is_full</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -432,9 +438,6 @@ REMOTE_</text>
     </search>
     <history>
       <history-search>
-        <entry>disabled</entry>
-        <entry>ako_setup_is_obd_disabled</entry>
-        <entry>setup_remote</entry>
         <entry>remote</entry>
         <entry>access</entry>
         <entry>obd_disa</entry>
@@ -452,6 +455,9 @@ REMOTE_</text>
         <entry>FS_</entry>
         <entry>FS_G</entry>
         <entry>BLE</entry>
+        <entry>remove</entry>
+        <entry>IS_FULL</entry>
+        <entry>is_full</entry>
       </history-search>
       <history-cmd>
         <entry>242</entry>
