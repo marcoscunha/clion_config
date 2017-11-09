@@ -382,7 +382,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>IMU_</text>
+        <text>IMU_G</text>
       </register>
       <register name="0" type="4">
         <text>static void event_powered_off_state_already_plugged ( plug_manager_t *manager )
@@ -436,9 +436,9 @@ static void event_power_off_state_plugged ( plug_manager_t *manager )</text>
       </register>
     </registers>
     <search>
-      <last-search>IMU_</last-search>
+      <last-search>IMU_G</last-search>
       <last-offset />
-      <last-pattern>IMU_</last-pattern>
+      <last-pattern>IMU_G</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +446,6 @@ static void event_power_off_state_plugged ( plug_manager_t *manager )</text>
     </search>
     <history>
       <history-search>
-        <entry>unplug</entry>
         <entry>format</entry>
         <entry>savedata</entry>
         <entry>device_event_init</entry>
@@ -466,6 +465,7 @@ static void event_power_off_state_plugged ( plug_manager_t *manager )</text>
         <entry>3500</entry>
         <entry>IMU_GYR</entry>
         <entry>IMU_</entry>
+        <entry>IMU_G</entry>
       </history-search>
       <history-cmd>
         <entry>72</entry>
