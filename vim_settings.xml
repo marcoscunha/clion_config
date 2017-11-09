@@ -64,12 +64,12 @@
         <mark key="." line="1270" column="3" />
         <mark key="^" line="1270" column="3" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1509628268204">
-        <mark key="'" line="426" column="3" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1510239372494">
+        <mark key="'" line="428" column="3" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.h" timestamp="1510156430833">
         <mark key="[" line="60" column="21" />
@@ -83,9 +83,9 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1510238621475">
         <mark key="'" line="52" column="23" />
         <mark key="[" line="83" column="35" />
-        <mark key="]" line="84" column="34" />
-        <mark key="^" line="84" column="34" />
-        <mark key="." line="84" column="34" />
+        <mark key="]" line="83" column="34" />
+        <mark key="^" line="83" column="34" />
+        <mark key="." line="83" column="34" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1510156905801">
         <mark key="'" line="47" column="0" />
@@ -387,17 +387,17 @@
       <jump line="147" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#include &quot;mock_akolyt_network_manager.h&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF90cmlwX2RhdGEuaD4=</text>
       </register>
       <register name="/" type="4">
         <text>remote</text>
       </register>
       <register name="0" type="4">
-        <text>void ako_config_is_plugged ( bool_t plugged )</text>
+        <text>#include &quot;mock_akolyt_network_manager.h&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
