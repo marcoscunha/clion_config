@@ -45,9 +45,6 @@
         <mark key="^" line="832" column="0" />
         <mark key="." line="832" column="0" />
       </file>
-      <file name="/fragment.m" timestamp="1510155536657">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup_remote.h" timestamp="1510153697206">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="5" />
@@ -59,6 +56,12 @@
         <mark key="]" line="44" column="16" />
         <mark key="." line="44" column="16" />
         <mark key="^" line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" timestamp="1510155170857">
+        <mark key="'" line="97" column="8" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="98" />
+        <mark key="." line="382" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1509119683111">
         <mark key="'" line="23" column="0" />
@@ -79,6 +82,12 @@
         <mark key="]" line="87" column="34" />
         <mark key="." line="87" column="34" />
         <mark key="^" line="87" column="34" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/board.h" timestamp="1510221936596">
+        <mark key="'" line="26" column="33" />
+        <mark key="[" line="455" column="38" />
+        <mark key="]" line="456" column="0" />
+        <mark key="." line="456" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" timestamp="1508407585704">
         <mark key="'" line="1268" column="6" />
@@ -108,9 +117,6 @@
         <mark key="." line="227" column="13" />
         <mark key="^" line="227" column="13" />
       </file>
-      <file name="/GDB" timestamp="1510042440193">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_trip_data.c" timestamp="1509628268204">
         <mark key="'" line="426" column="3" />
         <mark key="[" line="0" column="28" />
@@ -138,8 +144,8 @@
         <mark key="^" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" timestamp="1510215378477">
-        <mark key="'" line="15" column="14" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" timestamp="1510221976720">
+        <mark key="'" line="51" column="8" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
@@ -227,6 +233,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" timestamp="1510145115897">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1510156723861">
         <mark key="'" line="1480" column="16" />
         <mark key="[" line="1387" column="0" />
@@ -248,8 +260,11 @@
         <mark key="^" line="94" column="59" />
         <mark key="." line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1510219966605">
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/CHANGELOG.md" timestamp="1510221217273">
+        <mark key="[" line="31" column="94" />
+        <mark key="]" line="32" column="2" />
+        <mark key="^" line="32" column="2" />
+        <mark key="." line="32" column="2" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_def.h" timestamp="1510218292529">
         <mark key="[" line="47" column="23" />
@@ -259,9 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="395" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
-      <jump line="405" column="42" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="50" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="126" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="236" column="112" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_network_manager.c" />
@@ -359,16 +371,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
       <jump line="14" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
       <jump line="15" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
+      <jump line="26" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/board.h" />
+      <jump line="110" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
+      <jump line="51" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>IMU_G</text>
+        <text>FS_G</text>
       </register>
       <register name="0" type="4">
         <text>bool_t ako_remote_config_is_obd_disabled ( void )
@@ -376,50 +391,50 @@
     return ako_config.remote.obd_disabled;
 }</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>REMOTE_
 REMOTE_
 REMOTE_
 REMOTE_</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>typedef struct __attribute__ ( ( packed ) )
 {
     uint8_t plugged;
 }local_config_t;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IMU_G</last-search>
+      <last-search>FS_G</last-search>
       <last-offset />
-      <last-pattern>IMU_G</last-pattern>
+      <last-pattern>FS_G</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -427,9 +442,6 @@ REMOTE_</text>
     </search>
     <history>
       <history-search>
-        <entry>format</entry>
-        <entry>savedata</entry>
-        <entry>device_event_init</entry>
         <entry>persis</entry>
         <entry>disabled</entry>
         <entry>ako_setup_is_obd_disabled</entry>
@@ -447,9 +459,11 @@ REMOTE_</text>
         <entry>IMU_GYR</entry>
         <entry>IMU_</entry>
         <entry>IMU_G</entry>
+        <entry>SENSI</entry>
+        <entry>FS_</entry>
+        <entry>FS_G</entry>
       </history-search>
       <history-cmd>
-        <entry>72</entry>
         <entry>242</entry>
         <entry>419</entry>
         <entry>425</entry>
@@ -468,6 +482,7 @@ REMOTE_</text>
         <entry>204</entry>
         <entry>348</entry>
         <entry>ẅ</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
