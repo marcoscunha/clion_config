@@ -122,13 +122,6 @@
         <mark key="^" line="60" column="21" />
         <mark key="." line="60" column="21" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1510156831119">
-        <mark key="'" line="146" column="11" />
-        <mark key="[" line="347" column="13" />
-        <mark key="]" line="347" column="25" />
-        <mark key="^" line="347" column="25" />
-        <mark key="." line="347" column="25" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1510156205238">
         <mark key="'" line="52" column="23" />
         <mark key="[" line="52" column="19" />
