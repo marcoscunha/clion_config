@@ -48,15 +48,17 @@
       <file name="/fragment.m" timestamp="1510155536657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.h" timestamp="1510155093591">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="42" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup_remote.h" timestamp="1510153697206">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="5" />
         <mark key="." line="13" column="5" />
         <mark key="^" line="13" column="5" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_config.h" timestamp="1510218214506">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="16" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savets.c" timestamp="1510155170857">
         <mark key="'" line="97" column="8" />
@@ -77,6 +79,12 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_config.c" timestamp="1510218518397">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+        <mark key="^" line="87" column="34" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gprs.c" timestamp="1508407585704">
         <mark key="'" line="1268" column="6" />
@@ -136,11 +144,6 @@
         <mark key="^" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savedata.c" timestamp="1510154876515">
-        <mark key="'" line="44" column="103" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="40" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" timestamp="1510215378477">
         <mark key="'" line="15" column="14" />
         <mark key="[" line="149" column="0" />
@@ -189,12 +192,11 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.h" timestamp="1510158409497">
-        <mark key="'" line="23" column="28" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="80" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.h" timestamp="1510218014497">
+        <mark key="'" line="35" column="28" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_parser.c" timestamp="1510073202794">
         <mark key="'" line="45" column="19" />
@@ -251,17 +253,17 @@
         <mark key="." line="226" column="28" />
         <mark key="^" line="226" column="28" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510158398072">
-        <mark key="'" line="89" column="9" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="79" />
-        <mark key="^" line="81" column="4" />
-        <mark key="." line="81" column="4" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510218050071">
+        <mark key="'" line="92" column="9" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="94" column="59" />
+        <mark key="^" line="94" column="59" />
+        <mark key="." line="94" column="59" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_def.h" timestamp="1510153786441">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="47" />
-        <mark key="." line="49" column="80" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_def.h" timestamp="1510218292529">
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
         <mark key="^" line="49" column="79" />
       </file>
     </filemarks>
@@ -368,61 +370,56 @@
       <jump line="15" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>IMU_G</text>
       </register>
       <register name="0" type="4">
-        <text>static void event_powered_off_state_already_plugged ( plug_manager_t *manager )
+        <text>bool_t ako_remote_config_is_obd_disabled ( void )
 {
-    transition_to_state_plugged_power_off ( manager );
-}
-
-static void event_powered_on_state_plugged_powered_off ( plug_manager_t *manager )
-{
-    transition_to_state_already_plugged ( manager );
-}
-static void event_moved_state_plugged_powered_off ( plug_manager_t *manager )
-{
-    transition_to_state_unplugged ( manager );
-}
-
-static void event_power_off_state_plugged ( plug_manager_t *manager )</text>
+    return ako_config.remote.obd_disabled;
+}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>REMOTE_
+REMOTE_
+REMOTE_
+REMOTE_</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
+      <register name="2" type="4">
+        <text>typedef struct __attribute__ ( ( packed ) )
+{
+    uint8_t plugged;
+}local_config_t;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfbW92ZWQgKCBwbHVnX21hbmFnZXJfdCAqbWFuYWdlciApOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZXZlbnRfcG93ZXJlZF9vbiAoIHBsdWdfbWFuYWdlcl90ICptYW5hZ2VyICk7CnN0YXRpYyB2b2lkIGV2ZW50X3Bvd2VyZWRfb2ZmICggcGx1Z19tYW5hZ2VyX3QgKm1hbmFnZXIgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV9hbHJlYWR5X3BsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
+        <text encoding="base64">ewogICAgdHJhbnNpdGlvbl90b19zdGF0ZV91bnBsdWdnZWQgKCBtYW5hZ2VyICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
