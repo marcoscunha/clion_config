@@ -52,12 +52,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1510246160042">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="832" column="0" />
-        <mark key="]" line="832" column="0" />
-        <mark key="^" line="832" column="0" />
-        <mark key="." line="832" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1510307303956">
+        <mark key="'" line="307" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" timestamp="1510306274361">
         <mark key="'" line="145" column="25" />
@@ -121,12 +120,12 @@
         <mark key="." line="1270" column="3" />
         <mark key="^" line="1270" column="3" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510246841010">
-        <mark key="'" line="90" column="21" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510307733257">
+        <mark key="'" line="214" column="15" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_https.h" timestamp="1509717582181">
         <mark key="'" line="190" column="9" />
@@ -257,10 +256,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510303826976">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510307807610">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1510237985571">
         <mark key="'" line="15" column="0" />
@@ -269,12 +269,12 @@
         <mark key="." line="1396" column="36" />
         <mark key="^" line="1396" column="36" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1510155871479">
-        <mark key="'" line="226" column="9" />
-        <mark key="[" line="226" column="9" />
-        <mark key="]" line="226" column="41" />
-        <mark key="." line="226" column="28" />
-        <mark key="^" line="226" column="28" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1510307372311">
+        <mark key="'" line="725" column="23" />
+        <mark key="[" line="386" column="24" />
+        <mark key="]" line="386" column="24" />
+        <mark key="." line="386" column="24" />
+        <mark key="^" line="386" column="24" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_remote_config.c" timestamp="1510224891783">
         <mark key="'" line="92" column="9" />
@@ -289,27 +289,8 @@
         <mark key="^" line="34" column="32" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_def.h" timestamp="1510237300816">
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="168" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="733" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="15" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="146" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="846" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="848" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="854" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="856" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="874" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="100" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
-      <jump line="82" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.h" />
-      <jump line="140" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
-      <jump line="637" column="71" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
       <jump line="247" column="22" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
       <jump line="325" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="330" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
@@ -347,7 +328,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
       <jump line="161" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="212" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="214" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="387" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" />
       <jump line="61" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app_plug_manager.c" />
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/imu.h" />
@@ -396,58 +376,73 @@
       <jump line="136" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
       <jump line="148" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
       <jump line="149" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="574" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="134" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="143" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="528" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="78" column="41" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="133" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="651" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="80" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="140" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="176" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="306" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="725" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="38" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="130" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="214" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>static void ble_rx_queue ( void *ctx, int id )</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>buf</text>
+        <text>AT_DE</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeXNfdGltZW91dF9hZGQgKCAzLCBhdF9wdXRidWYsIGN0eCApOw==</text>
+        <text>static void ble_rx_queue ( void *ctx, int id )</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3lzX3RpbWVvdXRfYWRkICggMywgYXRfcHV0YnVmLCBjdHggKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">dm9pZCBIQUxfQkxFX0Vycm9yQ2FsbGJhY2sgKCBVQVJUX0hhbmRsZVR5cGVEZWYgKmh1YXJ0ICkKewogICAgaWYgKCAoIGh1YXJ0LT5FcnJvckNvZGUgJiBIQUxfVUFSVF9FUlJPUl9PUkUgKSA9PSBIQUxfVUFSVF9FUlJPUl9PUkUgKQogICAgewogICAgICAgIHN5c19xdWV1ZSAoIGJsZV9wcmludCwgQ09MT1JfUkVEICJbRV0gb3ZlcnJ1biBlcnJvclxuIiApOwogICAgICAgIHN5c19xdWV1ZSAoIFNZU19FVkVOVF9IQU5ETEVSICggYmxlX3JlaW5pdCApLCBOVUxMICk7CiAgICB9CiAgICBlbHNlIGlmICggKCBodWFydC0+RXJyb3JDb2RlICYgSEFMX1VBUlRfRVJST1JfUEUgKSA9PSBIQUxfVUFSVF9FUlJPUl9QRSApCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggYmxlX3ByaW50LCBDT0xPUl9SRUQgIltFXSBwYXJpdHkgZXJyb3JcbiIgKTsKICAgIH0KICAgIGVsc2UgaWYgKCAoIGh1YXJ0LT5FcnJvckNvZGUgJiBIQUxfVUFSVF9FUlJPUl9ORSApID09IEhBTF9VQVJUX0VSUk9SX05FICkKICAgIHsKICAgICAgICBzeXNfcXVldWUgKCBibGVfcHJpbnQsIENPTE9SX1JFRCAiW0VdIG5vaXNlIGVycm9yXG4iICk7CiAgICB9CiAgICBlbHNlIGlmICggKCBodWFydC0+RXJyb3JDb2RlICYgSEFMX1VBUlRfRVJST1JfRkUgKSA9PSBIQUxfVUFSVF9FUlJPUl9GRSApCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggYmxlX3ByaW50LCBDT0xPUl9SRUQgIltFXSBmcmFtZSBlcnJvclxuIiApOwogICAgICAgIHN5c19xdWV1ZSAoIFNZU19FVkVOVF9IQU5ETEVSICggYmxlX3JlaW5pdCApLCBOVUxMICk7CiAgICB9CiAgICBlbHNlIGlmICggKCBodWFydC0+RXJyb3JDb2RlICYgSEFMX1VBUlRfRVJST1JfRE1BICkgPT0gSEFMX1VBUlRfRVJST1JfRE1BICkKICAgIHsKICAgICAgICBzeXNfcXVldWUgKCBibGVfcHJpbnQsIENPTE9SX1JFRCAiW0VdIERNQSBlcnJvclxuIiApOwogICAgfQogICAgZWxzZQogICAgewogICAgICAgIHN5c19xdWV1ZSAoIGJsZV9wcmludCwgQ09MT1JfUkVEICJbRV0gVUFSVCBlcnJvclxuIiApOwogICAgfQp9Cgp2b2lkIEhBTF9CTEVfVHhDcGx0Q2FsbGJhY2sgKCBVQVJUX0hhbmRsZVR5cGVEZWYgKmh1YXJ0ICkKewp9Cgp2b2lkIEhBTF9CTEVfUnhDcGx0Q2FsbGJhY2sgKCBVQVJUX0hhbmRsZVR5cGVEZWYgKmh1YXJ0ICkKewogICAgYmxlX3J4X2ZyYW1lX3QgKnRtcF9mcmFtZSA9ICZibGVfc3RhdGUuYmxlX3J4X2ZpZm8uYnVmZmVyWyBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gXTsKCiAgICBpZiAoIGJsZV9zdGF0ZS5jeXByZXNzX21vZGUgPT0gVFJVRSApCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggY3lwX3VhcnRfdHgsICh2b2lkICopKCAodWludDMyX3QpdG1wX2ZyYW1lLT50eXBlICkgKTsKICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dHlwZSwgMSApOwogICAgICAgIHJldHVybjsKICAgIH0KCiAgICBzd2l0Y2ggKCBibGVfc3RhdGUuZnJhbWVfb2Zmc2V0ICkKICAgIHsKICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgIGlmICggKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX0FDSyApIHx8ICggdG1wX2ZyYW1lLT50eXBlID09IEJMRV9OQUNLICkgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoICggKCBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gKyAxICkgJSBCTEVfUlhfRklGT19TSVpFICkgPT0gYmxlX3N0YXRlLmJsZV9yeF9maWZvLm91dCApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggU1lTX0VWRU5UX0hBTkRMRVIgKCBibGVfcnhfb3ZlcmZsb3cgKSwgTlVMTCApOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gPSAoIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiArIDEgKSAlIEJMRV9SWF9GSUZPX1NJWkU7CgogICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggYmxlX3J4X3F1ZXVlLCBOVUxMICk7CgogICAgICAgICAgICAgICAgdG1wX2ZyYW1lID0gJmJsZV9zdGF0ZS5ibGVfcnhfZmlmby5idWZmZXJbIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiBdOwogICAgICAgICAgICAgICAgSEFMX1VBUlRfUmVjZWl2ZV9ETUEgKCAmdWFydF9kZXZzWyBCTEVfVUFSVF9ERVYgXS51YXJ0LCAodWludDhfdCAqKSZ0bXBfZnJhbWUtPnR5cGUsIDEgKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIGlmICggKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX1NFTkROQllURVMgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfRVZUICkgfHwKICAgICAgICAgICAgICAgICAgICAgICggdG1wX2ZyYW1lLT50eXBlID09IEJMRV9FVlQyICkgfHwgKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX1NUQVRVUyApIHx8CiAgICAgICAgICAgICAgICAgICAgICAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfU1dSRVYgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfSFdSRVYgKSB8fAogICAgICAgICAgICAgICAgICAgICAgKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX0dFVE1BQ0FERFIgKSApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICsrYmxlX3N0YXRlLmZyYW1lX29mZnNldDsKICAgICAgICAgICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgJnRtcF9mcmFtZS0+bGVuLCAxICk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dHlwZSwgMSApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgMToKICAgICAgICAgICAgKytibGVfc3RhdGUuZnJhbWVfb2Zmc2V0OwogICAgICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dmFsdWUsIHRtcF9mcmFtZS0+bGVuICsgMyApOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDI6CiAgICAgICAgICAgIHRtcF9mcmFtZS0+Y3JjID0gdG1wX2ZyYW1lLT52YWx1ZVsgdG1wX2ZyYW1lLT5sZW4gXSA8PCA4OwogICAgICAgICAgICB0bXBfZnJhbWUtPmNyYyB8PSB0bXBfZnJhbWUtPnZhbHVlWyB0bXBfZnJhbWUtPmxlbiArIDEgXTsKCiAgICAgICAgICAgIGJsZV9zdGF0ZS5mcmFtZV9vZmZzZXQgPSAwOwoKICAgICAgICAgICAgaWYgKCAoICggYmxlX3N0YXRlLmJsZV9yeF9maWZvLmluICsgMSApICUgQkxFX1JYX0ZJRk9fU0laRSApID09IGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5vdXQgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzeXNfcXVldWUgKCBTWVNfRVZFTlRfSEFORExFUiAoIGJsZV9yeF9vdmVyZmxvdyApLCBOVUxMICk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiA9ICggYmxlX3N0YXRlLmJsZV9yeF9maWZvLmluICsgMSApICUgQkxFX1JYX0ZJRk9fU0laRTsKCiAgICAgICAgICAgIHN5c19xdWV1ZSAoIGJsZV9yeF9xdWV1ZSwgTlVMTCApOwoKICAgICAgICAgICAgLy8gUHJlcGFyaW5nIHRvIHdhaXQgZm9yIG5leHQgZnJhbWUKICAgICAgICAgICAgdG1wX2ZyYW1lID0gJmJsZV9zdGF0ZS5ibGVfcnhfZmlmby5idWZmZXJbIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiBdOwogICAgICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICZ0bXBfZnJhbWUtPnR5cGUsIDEgKTsKICAgICAgICAgICAgYnJlYWs7CiAgICB9Cn0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3lzX3RpbWVvdXRfYWRkICggMywgYXRfcHV0YnVmLCBjdHggKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF0ICggIiAiLCAiICIsIGFrb19zbXNfcGFyc2UsIDEwMDAsIE5VTEwgKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBha29fc21zX0FUX2V2ZW50ICggdm9pZCAqZXZlbnQgKTsK</text>
+        <text encoding="base64">ICAgIGF0ICggIiAiLCAiICIsIGFrb19zbXNfcGFyc2UsIDEwMDAsIE5VTEwgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBha29fc21zX0FUX2V2ZW50Cg==</text>
+        <text encoding="base64">dm9pZCBha29fc21zX0FUX2V2ZW50ICggdm9pZCAqZXZlbnQgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9zbXMuaD4KI2luY2x1ZGUgInR5cGVzLmgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBha29fc21zX0FUX2V2ZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9zbXMuaD4KI2luY2x1ZGUgInR5cGVzLmgiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0Zsb3BpODQvZHJ1c3RfZmlybXdhcmUvcHVsbC80MTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>buf</last-search>
+      <last-search>AT_DE</last-search>
       <last-offset />
-      <last-pattern>buf</last-pattern>
+      <last-pattern>AT_DE</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -455,16 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>memset</entry>
-        <entry>#%))</entry>
-        <entry>3500</entry>
-        <entry>IMU_GYR</entry>
-        <entry>IMU_</entry>
-        <entry>IMU_G</entry>
-        <entry>SENSI</entry>
-        <entry>FS_</entry>
-        <entry>FS_G</entry>
-        <entry>remove</entry>
         <entry>IS_FULL</entry>
         <entry>is_full</entry>
         <entry>proto</entry>
@@ -475,6 +460,16 @@
         <entry>sms</entry>
         <entry>BLE</entry>
         <entry>buf</entry>
+        <entry>BLE_E</entry>
+        <entry>AT_</entry>
+        <entry>ble_print</entry>
+        <entry>ble_rx_overl</entry>
+        <entry>ble_rx_overfl</entry>
+        <entry>ble_rx_queue</entry>
+        <entry>refre</entry>
+        <entry>PWR_LOG</entry>
+        <entry>PWR_</entry>
+        <entry>AT_DE</entry>
       </history-search>
       <history-cmd>
         <entry>242</entry>
