@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_sms.c" timestamp="1510302289364">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_sms.c" timestamp="1510303274537">
         <mark key="'" line="19" column="15" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1509628348955">
         <mark key="'" line="16" column="0" />
@@ -60,10 +59,12 @@
         <mark key="^" line="832" column="0" />
         <mark key="." line="832" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" timestamp="1510244699612">
-        <mark key="'" line="797" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="59" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" timestamp="1510303811646">
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="321" column="26" />
+        <mark key="]" line="343" column="36" />
+        <mark key="." line="343" column="36" />
+        <mark key="^" line="343" column="36" />
       </file>
       <file name="/fragment.m" timestamp="1510155536657">
         <mark key="[" line="0" column="0" />
@@ -256,6 +257,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510303826976">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1510237985571">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="1396" column="37" />
@@ -290,15 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="41" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="728" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="729" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="736" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="567" column="2" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" />
-      <jump line="739" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="750" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="753" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="117" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="118" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="168" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="733" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
@@ -390,60 +387,67 @@
       <jump line="346" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="35" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="90" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="103" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="113" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="128" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="130" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="132" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="135" column="45" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="136" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="148" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
+      <jump line="149" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>BLE</text>
+        <text>buf</text>
       </register>
       <register name="0" type="4">
-        <text>static void ako_sms_delete ( char *str, void *ctx )</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeXNfdGltZW91dF9hZGQgKCAzLCBhdF9wdXRidWYsIGN0eCApOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF0ICggIiAiLCAiICIsIGFrb19zbXNfcGFyc2UsIDEwMDAsIE5VTEwgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3lzX3RpbWVvdXRfYWRkICggMywgYXRfcHV0YnVmLCBjdHggKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBha29fc21zX0FUX2V2ZW50ICggdm9pZCAqZXZlbnQgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBha29fc21zX0FUX2V2ZW50Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9zbXMuaD4KI2luY2x1ZGUgInR5cGVzLmgiCg==</text>
+        <text encoding="base64">ICAgIGF0ICggIiAiLCAiICIsIGFrb19zbXNfcGFyc2UsIDEwMDAsIE5VTEwgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dm9pZCBha29fc21zX0FUX2V2ZW50ICggdm9pZCAqZXZlbnQgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0Zsb3BpODQvZHJ1c3RfZmlybXdhcmUvcHVsbC80MTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBha29fc21zX0FUX2V2ZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFrb2x5dF9zbXMuaD4KI2luY2x1ZGUgInR5cGVzLmgiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//
-// Created by mcunha on 11/9/17.
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0Zsb3BpODQvZHJ1c3RfZmlybXdhcmUvcHVsbC80MTEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>BLE</last-search>
+      <last-search>buf</last-search>
       <last-offset />
-      <last-pattern>BLE</last-pattern>
+      <last-pattern>buf</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AT_DEBUG</entry>
         <entry>memset</entry>
         <entry>#%))</entry>
         <entry>3500</entry>
@@ -471,6 +474,7 @@
         <entry>remote</entry>
         <entry>sms</entry>
         <entry>BLE</entry>
+        <entry>buf</entry>
       </history-search>
       <history-cmd>
         <entry>242</entry>
