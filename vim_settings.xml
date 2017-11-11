@@ -1,8 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" timestamp="1510435028317">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1508428501417">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="25" column="18" />
@@ -41,6 +48,13 @@
         <mark key="]" line="214" column="50" />
         <mark key="." line="214" column="50" />
         <mark key="^" line="214" column="50" />
+      </file>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476xx.cmake" timestamp="1510435326089">
+        <mark key="'" line="9" column="43" />
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup_remote.h" timestamp="1510153697206">
         <mark key="[" line="13" column="2" />
@@ -215,7 +229,6 @@
         <mark key="^" line="108" column="25" />
         <mark key="." line="108" column="25" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart_ex.c" timestamp="1510324842893" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" timestamp="1510326470403">
         <mark key="'" line="240" column="6" />
         <mark key="[" line="172" column="76" />
@@ -349,16 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="140" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="176" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="306" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="725" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="38" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="130" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="214" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="103" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="107" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="232" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
       <jump line="409" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
       <jump line="18" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" />
@@ -449,31 +452,41 @@
       <jump line="1108" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c" />
       <jump line="31" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" />
       <jump line="145" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="72" column="52" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="92" column="12" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="93" column="12" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="94" column="12" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="8" column="8" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="28" column="41" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="29" column="41" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="30" column="41" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
+      <jump line="9" column="43" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476xx.cmake" />
+      <jump line="23" column="0" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5c19xdWV1ZSAoIGJsZV9wcmludCwgQ09MT1JfUkVEICJbRV0gVUFSVCBlcnJvclxuIiApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
-        <text>HAL_UART_RxCpltCallback</text>
+        <text>F3</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBzeXNfcXVldWUgKCBibGVfcHJpbnQsIENPTE9SX1JFRCAiW0VdIFVBUlQgZXJyb3JcbiIgKTs=</text>
+        <text>FREERTOS_SOURCES</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5c19xdWV1ZSAoIGJsZV9wcmludCwgQ09MT1JfUkVEICJbRV0gVUFSVCBlcnJvclxuIiApOwo=</text>
+        <text encoding="base64">ICAgICAgICBEcml2ZXJzL0NNU0lTL0RldmljZS9TVC9TVE0zMkw0eHgvSW5jbHVkZS9zeXN0ZW1fc3RtMzJsNHh4LmgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEcml2ZXJzL0NNU0lTL0RldmljZS9TVC9TVE0zMkw0eHgvU291cmNlL1RlbXBsYXRlcy9zeXN0ZW1fc3RtMzJsNHh4LmMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgdWFydF9kZXZfcnhfY2IgKCAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -481,26 +494,26 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">I3NldChTT1VSQ0VfRklMRVMKIyAgICAgICAgRHJpdmVycy9DTVNJUy9EZXZpY2UvU1QvU1RNMzJMNHh4L0luY2x1ZGUvc3RtMzJsNDc2eHguaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0RldmljZS9TVC9TVE0zMkw0eHgvSW5jbHVkZS9zdG0zMmw0eHguaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0RldmljZS9TVC9TVE0zMkw0eHgvSW5jbHVkZS9zeXN0ZW1fc3RtMzJsNHh4LmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2FybV9jb21tb25fdGFibGVzLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2FybV9jb25zdF9zdHJ1Y3RzLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2FybV9tYXRoLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2Ntc2lzX2FybWNjLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2Ntc2lzX2FybWNjX1Y2LmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2Ntc2lzX2djYy5oCiMgICAgICAgIERyaXZlcnMvQ01TSVMvSW5jbHVkZS9jb3JlX2NtMC5oCiMgICAgICAgIERyaXZlcnMvQ01TSVMvSW5jbHVkZS9jb3JlX2NtMHBsdXMuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9jbTMuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9jbTQuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9jbTcuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9jbUZ1bmMuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9jbUluc3RyLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2NvcmVfY21TaW1kLmgKIyAgICAgICAgRHJpdmVycy9DTVNJUy9JbmNsdWRlL2NvcmVfc2MwMDAuaAojICAgICAgICBEcml2ZXJzL0NNU0lTL0luY2x1ZGUvY29yZV9zYzMwMC5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL0xlZ2FjeS9zdG0zMl9oYWxfbGVnYWN5LmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9JbmMvc3RtMzJsNHh4X2hhbC5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfY29ydGV4LmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9JbmMvc3RtMzJsNHh4X2hhbF9kZWYuaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX2RtYS5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfZG1hX2V4LmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9JbmMvc3RtMzJsNHh4X2hhbF9mbGFzaC5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfZmxhc2hfZXguaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX2ZsYXNoX3JhbWZ1bmMuaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX2dwaW8uaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX2dwaW9fZXguaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX2kyYy5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfaTJjX2V4LmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9JbmMvc3RtMzJsNHh4X2hhbF9wd3IuaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX3B3cl9leC5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfcmNjLmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9JbmMvc3RtMzJsNHh4X2hhbF9yY2NfZXguaAojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL0luYy9zdG0zMmw0eHhfaGFsX3RpbS5oCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvSW5jL3N0bTMybDR4eF9oYWxfdGltX2V4LmgKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbC5jCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvU3JjL3N0bTMybDR4eF9oYWxfY29ydGV4LmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF9kbWEuYwojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL1NyYy9zdG0zMmw0eHhfaGFsX2RtYV9leC5jCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvU3JjL3N0bTMybDR4eF9oYWxfZmxhc2guYwojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL1NyYy9zdG0zMmw0eHhfaGFsX2ZsYXNoX2V4LmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF9mbGFzaF9yYW1mdW5jLmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF9ncGlvLmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF9pMmMuYwojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL1NyYy9zdG0zMmw0eHhfaGFsX2kyY19leC5jCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvU3JjL3N0bTMybDR4eF9oYWxfcHdyLmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF9wd3JfZXguYwojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL1NyYy9zdG0zMmw0eHhfaGFsX3JjYy5jCiMgICAgICAgIERyaXZlcnMvU1RNMzJMNHh4X0hBTF9Ecml2ZXIvU3JjL3N0bTMybDR4eF9oYWxfcmNjX2V4LmMKIyAgICAgICAgRHJpdmVycy9TVE0zMkw0eHhfSEFMX0RyaXZlci9TcmMvc3RtMzJsNHh4X2hhbF90aW0uYwojICAgICAgICBEcml2ZXJzL1NUTTMyTDR4eF9IQUxfRHJpdmVyL1NyYy9zdG0zMmw0eHhfaGFsX3RpbV9leC5jCiMgICAgICAgIEluYy9GcmVlUlRPU0NvbmZpZy5oCiMgICAgICAgIEluYy9tYWluLmgKIyAgICAgICAgSW5jL3N0bTMybDR4eF9oYWxfY29uZi5oCiMgICAgICAgIEluYy9zdG0zMmw0eHhfaXQuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvQ01TSVNfUlRPUy9jbXNpc19vcy5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9DTVNJU19SVE9TL2Ntc2lzX29zLmgKIyAgICAgICAgTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlL2luY2x1ZGUvY3JvdXRpbmUuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9kZXByZWNhdGVkX2RlZmluaXRpb25zLmgKIyAgICAgICAgTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlL2luY2x1ZGUvZXZlbnRfZ3JvdXBzLmgKIyAgICAgICAgTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlL2luY2x1ZGUvRnJlZVJUT1MuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9GcmVlUlRPU0NvbmZpZ190ZW1wbGF0ZS5oCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9pbmNsdWRlL2xpc3QuaAojICAgICAgICBpTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlL2luY2x1ZGUvbXB1X3Byb3RvdHlwZXMuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9tcHVfd3JhcHBlcnMuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9wb3J0YWJsZS5oCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9pbmNsdWRlL3Byb2pkZWZzLmgKIyAgICAgICAgTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlL2luY2x1ZGUvcXVldWUuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9zZW1waHIuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS9TdGFja01hY3Jvcy5oCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9pbmNsdWRlL3Rhc2suaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvaW5jbHVkZS90aW1lcnMuaAojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvcG9ydGFibGUvR0NDL0FSTV9DTTRGL3BvcnQuYwojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvcG9ydGFibGUvR0NDL0FSTV9DTTRGL3BvcnRtYWNyby5oCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9wb3J0YWJsZS9NZW1NYW5nL2hlYXBfNC5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9jcm91dGluZS5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9ldmVudF9ncm91cHMuYwojICAgICAgICBNaWRkbGV3YXJlcy9UaGlyZF9QYXJ0eS9GcmVlUlRPUy9Tb3VyY2UvbGlzdC5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS9xdWV1ZS5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS90YXNrcy5jCiMgICAgICAgIE1pZGRsZXdhcmVzL1RoaXJkX1BhcnR5L0ZyZWVSVE9TL1NvdXJjZS90aW1lcnMuYwojICAgICAgICBTcmMvZnJlZXJ0b3MuYwojICAgICAgICBTcmMvbWFpbi5jCiMgICAgICAgIFNyYy9zdG0zMmw0eHhfaGFsX21zcC5jCiMgICAgICAgIFNyYy9zdG0zMmw0eHhfaGFsX3RpbWViYXNlX1RJTS5jCiMgICAgICAgIFNyYy9zdG0zMmw0eHhfaXQuYwojICAgICAgICBTcmMvc3lzdGVtX3N0bTMybDR4eC5jKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1YXJ0X2Rldi0+ZGlyZWN0X3J4X2NiID0gZGlyZWN0X3J4X2NiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNfcXVldWUgKCBhdF9wcmludCwgQ09MT1JfWUVMTE9XIltXXSBYT05cbiIgKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnRhcmdldF9saW5rX2xpYnJhcmllcygke1BST0pFQ1RfTkFNRX0uZWxmIENNU0lTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>HAL_UART_RxCpltCallback</last-search>
+      <last-search>F3</last-search>
       <last-offset />
-      <last-pattern>HAL_UART_RxCpltCallback</last-pattern>
+      <last-pattern>F3</last-pattern>
       <last-replace>ako_remote_config_is_obd_disabled</last-replace>
       <last-substitute>ako_setup_is_obd_disabled</last-substitute>
       <last-dir>1</last-dir>
@@ -508,12 +521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prod</entry>
-        <entry>DEV</entry>
-        <entry>DEV_</entry>
-        <entry>RX</entry>
-        <entry>DMA</entry>
-        <entry>RXE</entry>
         <entry>RXEN</entry>
         <entry>ERR</entry>
         <entry>_HAL</entry>
@@ -528,6 +535,12 @@
         <entry>ble_init</entry>
         <entry>ble_init (</entry>
         <entry>HAL_UART_RxCpltCallback</entry>
+        <entry>stm32l'</entry>
+        <entry>stm32l4</entry>
+        <entry>stm32l4xx-hal</entry>
+        <entry>stm32l4xx_hal</entry>
+        <entry>stm32l4xx_hal.c</entry>
+        <entry>F3</entry>
       </history-search>
       <history-cmd>
         <entry>425</entry>
