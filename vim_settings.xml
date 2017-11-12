@@ -90,7 +90,6 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.h" timestamp="1510234421175">
         <mark key="'" line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476RGTx_FLASH.ld" timestamp="1510442579895" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1510238621475">
         <mark key="'" line="52" column="23" />
         <mark key="[" line="83" column="35" />
@@ -152,7 +151,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/stm32l4xx_hal_timebase_TIM.c" timestamp="1510441941758" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510327664113">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="66" column="4" />
@@ -220,6 +218,7 @@
       <file name="/GDB" timestamp="1510327064365">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/main.c" timestamp="1510487867250" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" timestamp="1510152790932">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="18" column="0" />
