@@ -141,6 +141,12 @@
         <mark key="^" line="16" column="140" />
         <mark key="." line="16" column="140" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1510593540963">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="27" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+      </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/freertos.c" timestamp="1510499333347">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -212,7 +218,7 @@
         <mark key="." line="227" column="13" />
         <mark key="^" line="227" column="13" />
       </file>
-      <file name="/GDB" timestamp="1510327064365">
+      <file name="/GDB" timestamp="1510593564833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.h" timestamp="1510152790932">
@@ -406,7 +412,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>add_definitions( -DENABLE_CONSOLE )</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -415,7 +421,7 @@
         <text>start</text>
       </register>
       <register name="0" type="4">
-        <text>file(GLOB_RECURSE NANOPB_SOURCES &quot;nanopb/*.c&quot;)</text>
+        <text>add_definitions( -DENABLE_CONSOLE )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTVE0zMkN1YmVfRldfRjBfVjEuMi4wL3N0YXJ0dXBfc3RtMzJmMDkxeGMucykK</text>
