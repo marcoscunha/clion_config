@@ -141,12 +141,6 @@
         <mark key="^" line="16" column="140" />
         <mark key="." line="16" column="140" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1510593540963">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-      </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/freertos.c" timestamp="1510499333347">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -154,7 +148,7 @@
         <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510582648363">
-        <mark key="'" line="157" column="4" />
+        <mark key="'" line="158" column="4" />
         <mark key="[" line="66" column="4" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
