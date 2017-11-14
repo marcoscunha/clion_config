@@ -151,8 +151,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510582648363">
-        <mark key="'" line="158" column="4" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510653636388">
+        <mark key="'" line="156" column="54" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="^" line="160" column="1" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1510327530996">
         <mark key="'" line="145" column="16" />
@@ -303,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="81" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_nor.c" />
-      <jump line="164" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_nor.c" />
       <jump line="309" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="341" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="185" column="63" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -403,13 +405,15 @@
       <jump line="55" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" />
       <jump line="157" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" />
       <jump line="503" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="155" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" />
+      <jump line="156" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add_definitions( -DENABLE_CONSOLE )</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
