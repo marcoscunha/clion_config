@@ -131,6 +131,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510663713212">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_sms.c" timestamp="1510303274537">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="51" column="0" />
@@ -187,11 +193,6 @@
         <mark key="]" line="172" column="73" />
         <mark key="." line="172" column="73" />
         <mark key="^" line="172" column="73" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/board.h" timestamp="1510325841987">
-        <mark key="'" line="63" column="23" />
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="19" />
       </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/usart.c" timestamp="1510442368642">
         <mark key="[" line="135" column="0" />
