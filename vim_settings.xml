@@ -11,12 +11,7 @@
         <mark key="^" line="9" column="77" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.c" timestamp="1510681143808">
-        <mark key="a" line="97" column="4" />
         <mark key="'" line="16" column="1" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="46" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="7" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.h" timestamp="1510675676705">
         <mark key="[" line="33" column="0" />
@@ -62,7 +57,6 @@
         <mark key="]" line="89" column="35" />
         <mark key="." line="89" column="34" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/sys.c" timestamp="1510680528942" />
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476xx.cmake" timestamp="1510440478174">
         <mark key="'" line="9" column="43" />
         <mark key="[" line="10" column="0" />
@@ -70,7 +64,6 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="[backend_dev] CONSOLE - backend_dev" timestamp="1510652020056" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup_remote.c" timestamp="1510153850149">
         <mark key="'" line="36" column="76" />
         <mark key="[" line="36" column="87" />
@@ -95,7 +88,6 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart_ex.h" timestamp="1510665541175" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.h" timestamp="1510234421175">
         <mark key="'" line="57" column="17" />
       </file>
@@ -179,7 +171,6 @@
         <mark key="." line="36" column="50" />
         <mark key="^" line="36" column="52" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/CMSIS/Device/ST/STM32F0xx/Source/Templates/gcc/startup_stm32f091xc.s" timestamp="1510669775266" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/uart_dev.c" timestamp="1510325462278">
         <mark key="'" line="40" column="41" />
         <mark key="[" line="213" column="0" />
