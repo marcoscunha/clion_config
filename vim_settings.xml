@@ -222,12 +222,11 @@
       <file name="/GDB" timestamp="1510678589906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510757340535">
-        <mark key="'" line="178" column="8" />
-        <mark key="[" line="248" column="2" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510759721355">
+        <mark key="'" line="176" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_device_event.c" timestamp="1510679625571">
         <mark key="[" line="14" column="0" />
