@@ -213,12 +213,11 @@
       <file name="/GDB" timestamp="1510764041178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510768399907">
-        <mark key="'" line="337" column="5" />
-        <mark key="[" line="426" column="0" />
-        <mark key="]" line="426" column="0" />
-        <mark key="^" line="426" column="0" />
-        <mark key="." line="426" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510820352117">
+        <mark key="'" line="450" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510765282929">
         <mark key="[" line="0" column="0" />
@@ -315,9 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
-      <jump line="448" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
-      <jump line="649" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="760" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="762" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="688" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
@@ -415,85 +411,62 @@
       <jump line="589" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="264" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="460" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="461" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="462" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="451" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>static void at_uart_read_char ( char *data, size_t *len )</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dW5zaWduZWQg</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text encoding="base64">XDxsZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpdF9idWYubmV4dF9yZWFkX2lkeCsrOw==</text>
+        <text>static void at_uart_read_char ( char *data, size_t *len )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqZGF0YSA9IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmICggaXRfYnVmLm5leHRfd3JpdGVfaWR4ICE9ICggQVRfQlVGX01BWF9TSVpFIC0gQVRfUlhfRG1hSGFuZGxlLkluc3RhbmNlLT5DTkRUUiApICkKICAgIHsKICAgICAgICBBVF9VQVJUX0xPRyAoICJbRF0gJXMgXG4iLAogICAgICAgICAgICAgICAgICAgICAgaXRfYnVmLmJ1ZlsgaXRfYnVmLm5leHRfcmVhZF9pZHggXSA9PSBYT0ZGX0NIQVIgPyAiWE9GRiIgOgogICAgICAgICAgICAgICAgICAgICAgaXRfYnVmLmJ1ZlsgaXRfYnVmLm5leHRfcmVhZF9pZHggXSA9PSBYT05fQ0hBUiA/ICJYT04iIDoKICAgICAgICAgICAgICAgICAgICAgIGl0X2J1Zi5idWZbIGl0X2J1Zi5uZXh0X3JlYWRfaWR4IF0gPT0gRVNDQVBFX0NIQVIgPyAiRVNDQVBFX0NIQVIiOgogICAgICAgICAgICAgICAgICAgICAgIlVua25vd24iICk7CgogICAgICAgIGl0X2J1Zi5uZXh0X3dyaXRlX2lkeCA9IEFUX0JVRl9NQVhfU0laRSAtIEFUX1JYX0RtYUhhbmRsZS5JbnN0YW5jZS0+Q05EVFI7CgogICAgICAgIHJjdl9jaGFyID0gIGl0X2J1Zi5idWZbIGl0X2J1Zi5uZXh0X3JlYWRfaWR4IF07CiAgICAgICAgaXRfYnVmLm5leHRfcmVhZF9pZHgrKzsKICAgICAgICBpdF9idWYubmV4dF9yZWFkX2lkeCAlPSBBVF9CVUZfTUFYX1NJWkU7CiAgICB9</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>static bool_t is_XOFF_active = FALSE;
-static bool_t is_waiting_XOFF = FALSE;</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICBhdF93YWl0X2ZpcnN0X1hPRkYgKCApOyAvLyBOb24gYmxvY2tpbmcgZnVuY3Rpb24gLSBwcm9ncmFtIGEgY2FsbGJhY2sgaW4gY2FzZSBvZiBmYWlsdXJlCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
-      <register name="6" type="4">
-        <text>static void at_XOFF_received ( void );
-static void at_XON_received ( void );</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/*void at_flowcontrol_monitor ( char c )
-{
-    static bool_t blowup = FALSE;
-
-    if ( c == XOFF_CHAR )
-    {
-        blowup = FALSE;
-        at_XOFF_received ( );
-    }
-    else if ( c == XON_CHAR )
-    {
-        blowup = FALSE;
-        at_XON_received ( );
-    }
-    else
-    {
-        if ( blowup == FALSE )
-        {
-            blowup = TRUE;
-            sys_queue ( at_uart_print, COLOR_RED &quot;[E] FLOW CONTROL INCOHERENCE\n&quot; );
-            abort_putbuf = TRUE;
-            sys_queue ( at_uart_print, COLOR_YELLOW &quot;[W] Rebooting...\n&quot; ); // TODO: Try to soft recovery from this kind of error!!!
-            sys_queue ( SYS_EVENT_HANDLER ( ako_reboot ), NULL );
-        }
-    }
-}*/</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LyogICAgaXRfYnVmLmJ1ZlsgMCBdID0gMDsKCiAgICB3aGlsZSAoIF9fSEFMX1VBUlRfR0VUX0lUICggJnVhcnRfZGV2c1sgQVRfVUFSVF9ERVYgXS51YXJ0LCBVQVJUX0lUX1RDICkgPT0gUkVTRVQgKQogICAgewogICAgICAgIHN5c19zbGVlcCAoICk7CiAgICB9CiovCiAgICBpc193YWl0aW5nX1hPRkYgPSBGQUxTRTsKLyogICAgSEFMX1VBUlRfRE1BU3RvcCAoICZ1YXJ0X2RldnNbIEFUX1VBUlRfREVWIF0udWFydCApOwogICAgYXRfcmVzdW1lICggKTsqLw==</text>
+        <text>static bool_t is_XOFF_active = FALSE;
+static bool_t is_waiting_XOFF = FALSE;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search encoding="base64">XDxsZW5cPg==</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern encoding="base64">XDxsZW5cPg==</last-pattern>
       <last-replace>AT_UART_BULK</last-replace>
       <last-substitute>AT_BULK</last-substitute>
       <last-dir>1</last-dir>
@@ -501,8 +474,6 @@ static void at_XON_received ( void );</text>
     </search>
     <history>
       <history-search>
-        <entry>dma_pa</entry>
-        <entry>at_init</entry>
         <entry>at_</entry>
         <entry>at_vu</entry>
         <entry>at_buf</entry>
@@ -521,6 +492,8 @@ static void at_XON_received ( void );</text>
         <entry>AT_</entry>
         <entry>is_waiting</entry>
         <entry>init</entry>
+        <entry encoding="base64">XDxyY3ZfY2hhclw+</entry>
+        <entry encoding="base64">XDxsZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
