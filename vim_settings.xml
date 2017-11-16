@@ -145,10 +145,23 @@
         <mark key="^" line="6" column="39" />
         <mark key="." line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1510763634529">
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_hal.h" timestamp="1510820838428">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_hal.c" timestamp="1510821221711">
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1510821040559">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="96" column="160" />
+        <mark key="]" line="96" column="168" />
+        <mark key="^" line="96" column="168" />
+        <mark key="." line="96" column="168" />
       </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/freertos.c" timestamp="1510499333347">
         <mark key="[" line="56" column="0" />
@@ -156,12 +169,12 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510665332653">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/sys/src/uart.c" timestamp="1510821059303">
         <mark key="'" line="156" column="54" />
-        <mark key="[" line="130" column="4" />
-        <mark key="]" line="130" column="4" />
-        <mark key="^" line="130" column="4" />
-        <mark key="." line="130" column="4" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="/fragment.m" timestamp="1510765282898">
         <mark key="[" line="0" column="0" />
@@ -190,12 +203,12 @@
         <mark key="^" line="398" column="1" />
         <mark key="." line="398" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" timestamp="1510756286418">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="193" column="27" />
-        <mark key="]" line="193" column="33" />
-        <mark key="." line="193" column="33" />
-        <mark key="^" line="193" column="33" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" timestamp="1510820979573">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="51" column="14" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510765118063">
         <mark key="'" line="213" column="15" />
@@ -213,10 +226,11 @@
       <file name="/GDB" timestamp="1510764041178">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510820352117">
-        <mark key="'" line="450" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1510820922685">
+        <mark key="'" line="408" column="0" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="302" column="79" />
+        <mark key="." line="68" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1510765282929">
@@ -314,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="760" column="6" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
-      <jump line="762" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="688" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="708" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="97" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at.c" />
@@ -414,59 +426,66 @@
       <jump line="461" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="462" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="451" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="242" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/stm32f0xx_it.c" />
+      <jump line="30" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>static void at_uart_read_char ( char *data, size_t *len )</text>
+        <text>#include &quot;stm32f0xx_hal_dma.h&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dW5zaWduZWQg</text>
+        <text>#include &quot;stm32f0xx_hal_dma.h&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZW5cPg==</text>
+        <text>at_u</text>
       </register>
       <register name="0" type="4">
-        <text>static void at_uart_read_char ( char *data, size_t *len )</text>
+        <text>////////////////////////////////////////////////////////////////////////////////
+// PRIVATE FUNCTIONS
+////////////////////////////////////////////////////////////////////////////////</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqZGF0YSA9IDA7Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">PAo8CjwKPA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmICggaXRfYnVmLm5leHRfd3JpdGVfaWR4ICE9ICggQVRfQlVGX01BWF9TSVpFIC0gQVRfUlhfRG1hSGFuZGxlLkluc3RhbmNlLT5DTkRUUiApICkKICAgIHsKICAgICAgICBBVF9VQVJUX0xPRyAoICJbRF0gJXMgXG4iLAogICAgICAgICAgICAgICAgICAgICAgaXRfYnVmLmJ1ZlsgaXRfYnVmLm5leHRfcmVhZF9pZHggXSA9PSBYT0ZGX0NIQVIgPyAiWE9GRiIgOgogICAgICAgICAgICAgICAgICAgICAgaXRfYnVmLmJ1ZlsgaXRfYnVmLm5leHRfcmVhZF9pZHggXSA9PSBYT05fQ0hBUiA/ICJYT04iIDoKICAgICAgICAgICAgICAgICAgICAgIGl0X2J1Zi5idWZbIGl0X2J1Zi5uZXh0X3JlYWRfaWR4IF0gPT0gRVNDQVBFX0NIQVIgPyAiRVNDQVBFX0NIQVIiOgogICAgICAgICAgICAgICAgICAgICAgIlVua25vd24iICk7CgogICAgICAgIGl0X2J1Zi5uZXh0X3dyaXRlX2lkeCA9IEFUX0JVRl9NQVhfU0laRSAtIEFUX1JYX0RtYUhhbmRsZS5JbnN0YW5jZS0+Q05EVFI7CgogICAgICAgIHJjdl9jaGFyID0gIGl0X2J1Zi5idWZbIGl0X2J1Zi5uZXh0X3JlYWRfaWR4IF07CiAgICAgICAgaXRfYnVmLm5leHRfcmVhZF9pZHgrKzsKICAgICAgICBpdF9idWYubmV4dF9yZWFkX2lkeCAlPSBBVF9CVUZfTUFYX1NJWkU7CiAgICB9</text>
+        <text>////////////////////////////////////////////////////////////////////////////////
+// PROTOTYPES
+////////////////////////////////////////////////////////////////////////////////</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">fSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="5" type="4">
+        <text>{
+    cprintf ( TAG, &quot;%s&quot;, (char *)ctx );
+}</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>static bool_t is_XOFF_active = FALSE;
-static bool_t is_waiting_XOFF = FALSE;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZW5cPg==</last-search>
+      <last-search>at_u</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZW5cPg==</last-pattern>
+      <last-pattern>at_u</last-pattern>
       <last-replace>AT_UART_BULK</last-replace>
       <last-substitute>AT_BULK</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +493,6 @@ static bool_t is_waiting_XOFF = FALSE;</text>
     </search>
     <history>
       <history-search>
-        <entry>at_</entry>
         <entry>at_vu</entry>
         <entry>at_buf</entry>
         <entry>at_buf_init</entry>
@@ -494,6 +512,7 @@ static bool_t is_waiting_XOFF = FALSE;</text>
         <entry>init</entry>
         <entry encoding="base64">XDxyY3ZfY2hhclw+</entry>
         <entry encoding="base64">XDxsZW5cPg==</entry>
+        <entry>at_u</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
