@@ -46,9 +46,6 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1510855976067">
-        <mark key="'" line="161" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1510913690378">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="1" />
@@ -159,13 +156,13 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1510916015734">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1510925325228">
         <mark key="a" line="232" column="50" />
-        <mark key="'" line="524" column="23" />
-        <mark key="[" line="247" column="26" />
-        <mark key="]" line="247" column="47" />
-        <mark key="^" line="247" column="47" />
-        <mark key="." line="247" column="47" />
+        <mark key="'" line="295" column="38" />
+        <mark key="[" line="285" column="38" />
+        <mark key="]" line="285" column="33" />
+        <mark key="." line="285" column="33" />
+        <mark key="^" line="285" column="33" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1510850319207">
         <mark key="[" line="12" column="20" />
@@ -198,15 +195,13 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_hal.c" timestamp="1510854078294">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_hal.c" timestamp="1510924865847">
         <mark key="'" line="38" column="60" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="134" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="484" column="93" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="514" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="516" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="29" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="469" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="39" column="60" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_hal.c" />
       <jump line="214" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
@@ -303,55 +298,53 @@
       <jump line="379" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="422" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="524" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="283" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="83" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
+      <jump line="288" column="38" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="31" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZWUtPnR5cGUgPT0gQkxFX1NFTkROQllURVMgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfRVZUICkgfHwKICAgICAgICAgICAgICAgICAgICAgICg=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoIGJsZV9zdGF0ZS5jeXByZXNzX21vZGUgPT0gVFJVRSAp</text>
+        <text encoding="base64">LyogICAgYmxlX3J4X2ZyYW1lX3QgKnRtcF9mcmFtZSA9ICZibGVfc3RhdGUuYmxlX3J4X2ZpZm8uYnVmZmVyWyBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gXTsKCiAgICBpZiAoIGJsZV9zdGF0ZS5jeXByZXNzX21vZGUgPT0gVFJVRSApCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggY3lwX3VhcnRfdHgsICh2b2lkICopKCAodWludDMyX3QpdG1wX2ZyYW1lLT50eXBlICkgKTsKICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dHlwZSwgMSApOwogICAgICAgIHJldHVybjsKICAgIH0KCiAgICBzd2l0Y2ggKCBibGVfc3RhdGUuZnJhbWVfb2Zmc2V0ICkKICAgIHsKICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgIGlmICggKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX0FDSyApIHx8ICggdG1wX2ZyYW1lLT50eXBlID09IEJMRV9OQUNLICkgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoICggKCBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gKyAxICkgJSBCTEVfUlhfRklGT19TSVpFICkgPT0gYmxlX3N0YXRlLmJsZV9yeF9maWZvLm91dCApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggU1lTX0VWRU5UX0hBTkRMRVIgKCBibGVfcnhfb3ZlcmZsb3cgKSwgTlVMTCApOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBibGVfc3RhdGUuYmxlX3J4X2ZpZm8uaW4gPSAoIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiArIDEgKSAlIEJMRV9SWF9GSUZPX1NJWkU7CgogICAgICAgICAgICAgICAgc3lzX3F1ZXVlICggYmxlX3J4X3F1ZXVlLCBOVUxMICk7CgogICAgICAgICAgICAgICAgdG1wX2ZyYW1lID0gJmJsZV9zdGF0ZS5ibGVfcnhfZmlmby5idWZmZXJbIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiBdOwogICAgICAgICAgICAgICAgSEFMX1VBUlRfUmVjZWl2ZV9ETUEgKCAmdWFydF9kZXZzWyBCTEVfVUFSVF9ERVYgXS51YXJ0LCAodWludDhfdCAqKSZ0bXBfZnJhbWUtPnR5cGUsIDEgKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIGlmICggKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX1NFTkROQllURVMgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfRVZUICkgfHwKICAgICAgICAgICAgICAgICAgICAgICggdG1wX2ZyYW1lLT50eXBlID09IEJMRV9FVlQyICkgfHwgKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX1NUQVRVUyApIHx8CiAgICAgICAgICAgICAgICAgICAgICAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfU1dSRVYgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfSFdSRVYgKSB8fAogICAgICAgICAgICAgICAgICAgICAgKCB0bXBfZnJhbWUtPnR5cGUgPT0gQkxFX0dFVE1BQ0FERFIgKSApCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICsrYmxlX3N0YXRlLmZyYW1lX29mZnNldDsKICAgICAgICAgICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgJnRtcF9mcmFtZS0+bGVuLCAxICk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dHlwZSwgMSApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgMToKICAgICAgICAgICAgKytibGVfc3RhdGUuZnJhbWVfb2Zmc2V0OwogICAgICAgICAgICBIQUxfVUFSVF9SZWNlaXZlX0RNQSAoICZ1YXJ0X2RldnNbIEJMRV9VQVJUX0RFViBdLnVhcnQsICh1aW50OF90ICopJnRtcF9mcmFtZS0+dmFsdWUsIHRtcF9mcmFtZS0+bGVuICsgMyApOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDI6CiAgICAgICAgICAgIHRtcF9mcmFtZS0+Y3JjID0gdG1wX2ZyYW1lLT52YWx1ZVsgdG1wX2ZyYW1lLT5sZW4gXSA8PCA4OwogICAgICAgICAgICB0bXBfZnJhbWUtPmNyYyB8PSB0bXBfZnJhbWUtPnZhbHVlWyB0bXBfZnJhbWUtPmxlbiArIDEgXTsKCiAgICAgICAgICAgIGJsZV9zdGF0ZS5mcmFtZV9vZmZzZXQgPSAwOwoKICAgICAgICAgICAgaWYgKCAoICggYmxlX3N0YXRlLmJsZV9yeF9maWZvLmluICsgMSApICUgQkxFX1JYX0ZJRk9fU0laRSApID09IGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5vdXQgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzeXNfcXVldWUgKCBTWVNfRVZFTlRfSEFORExFUiAoIGJsZV9yeF9vdmVyZmxvdyApLCBOVUxMICk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGJsZV9zdGF0ZS5ibGVfcnhfZmlmby5pbiA9ICggdWludDE2X3QgKSAoICggYmxlX3N0YXRlLmJsZV9yeF9maWZvLmluICsgMSApICUgQkxFX1JYX0ZJRk9fU0laRSApOwoKICAgICAgICAgICAgc3lzX3F1ZXVlICggYmxlX3J4X3F1ZXVlLCBOVUxMICk7CgogICAgICAgICAgICAvLyBQcmVwYXJpbmcgdG8gd2FpdCBmb3IgbmV4dCBmcmFtZQogICAgICAgICAgICB0bXBfZnJhbWUgPSAmYmxlX3N0YXRlLmJsZV9yeF9maWZvLmJ1ZmZlclsgYmxlX3N0YXRlLmJsZV9yeF9maWZvLmluIF07CiAgICAgICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgJnRtcF9mcmFtZS0+dHlwZSwgMSApOwogICAgICAgICAgICBicmVhazsKICAgIH0KKi8=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBibGVfc3RhdGUuYmxlX3J4X2ZpZm8ucmVhZF9pZHgrKzsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWUtPnR5cGUgPT0gQkxFX1NFTkROQllURVMgKSB8fCAoIHRtcF9mcmFtZS0+dHlwZSA9PSBCTEVfRVZUICkgfHwKICAgICAgICAgICAgICAgICAgICAgICg=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZW4gPSBhdF91YXJ0X2dldF9kbWFfbGVuICggJmJsZV9zdGF0ZS5ibGVfcnhfZmlmbyApOwo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IHRtcF8KIHRtcF8KIHRtcF8=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c3RtMzItMS4xOC4wLWRlYnVnLTc5N2JlNzcwLmVsZgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGlmICggYmxlX3N0YXRlLmN5cHJlc3NfbW9kZSA9PSBUUlVFICkKICAgIHsKICAgICAgICBzeXNfcXVldWUgKCBjeXBfdWFydF90eCwgKHZvaWQgKikoICh1aW50MzJfdCl0bXBfZnJhbWUtPnR5cGUgKSApOwogICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgKHVpbnQ4X3QgKikmdG1wX2ZyYW1lLT50eXBlLCAxICk7CiAgICAgICAgcmV0dXJuOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGlmICggYmxlX3N0YXRlLmN5cHJlc3NfbW9kZSA9PSBUUlVFICkKICAgIHsKICAgICAgICBzeXNfcXVldWUgKCBjeXBfdWFydF90eCwgKHZvaWQgKikoICh1aW50MzJfdCl0bXBfZnJhbWUtPnR5cGUgKSApOwogICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgKHVpbnQ4X3QgKikmdG1wX2ZyYW1lLT50eXBlLCAxICk7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2RlZmluZSBPQkRfV1JBUFBFUl9MT0coZm10LCAuLi4gKSBjcHJpbnRmICggVEFHLCBmbXQsICMjX19WQV9BUkdTX18gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJsZV9yeF9mcmFtZV90ICp0bXBfZnJhbWUgPSBkYXRhOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c3RhdGljIHVpbnQ4X3QgYXRfdWFydF9nZXRfZG1hX2xlbiAoIGJsZV9yeF9maWZvX3QgKmZpZm8gKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGlmICggYmxlX3N0YXRlLmN5cHJlc3NfbW9kZSA9PSBUUlVFICkKICAgIHsKICAgICAgICBzeXNfcXVldWUgKCBjeXBfdWFydF90eCwgKHZvaWQgKikoICh1aW50MzJfdCl0bXBfZnJhbWUtPnR5cGUgKSApOwogICAgICAgIEhBTF9VQVJUX1JlY2VpdmVfRE1BICggJnVhcnRfZGV2c1sgQkxFX1VBUlRfREVWIF0udWFydCwgKHVpbnQ4X3QgKikmdG1wX2ZyYW1lLT50eXBlLCAxICk7CiAgICAgICAgcmV0dXJuOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -407,8 +400,8 @@
         <entry>ẅ</entry>
         <entry>39</entry>
         <entry>427</entry>
-        <entry>W</entry>
         <entry>94</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
