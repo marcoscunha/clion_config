@@ -109,11 +109,11 @@
       <file name="/Dummy.txt" timestamp="1510765282929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c" timestamp="1511103168049">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c" timestamp="1511104922272">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_device_event.c" timestamp="1510679625571">
         <mark key="[" line="14" column="0" />
@@ -142,6 +142,11 @@
         <mark key="]" line="12" column="50" />
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
+      </file>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.h" timestamp="1511104945404">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1510934371765">
         <mark key="'" line="138" column="39" />
@@ -313,37 +318,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>// Created by mcunha on 11/19/17.
-/</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8K</text>
       </register>
-      <register name="5" type="4">
-        <text>#include &quot;console.h&quot;
-#include &quot;sys.h&quot;
-#include &quot;uart.h&quot;
-#include &quot;ble.h&quot;
-#include &quot;types.h&quot;
-#include &quot;common.h&quot;
-#include &quot;akolyt_cypress.h&quot;
-#include &quot;uart_dev.h&quot;
-#include &quot;akolyt_def.h&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gQ3JlYXRlZCBieSBtY3VuaGEgb24gMTEvMTkvMTcuCg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">PAo8CjwKPA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+CiNpbmNsdWRlIDxzdHJpbmcuaD4=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2VuZGlmKi8K</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW50IF9yZWFkKGludCBmaWxlLCBjaGFyICpkYXRhLCBpbnQgbGVuKTsKaW50IF93cml0ZShpbnQgZmlsZSwgY2hhciAqZGF0YSwgaW50IGxlbik7CmludCBfY2xvc2UoaW50IGZpbGUpOwppbnQgX2xzZWVrKGludCBmaWxlLCBpbnQgcHRyLCBpbnQgZGlyKTsKaW50IF9mc3RhdChpbnQgZmlsZSwgc3RydWN0IHN0YXQgKnN0KTsKaW50IF9pc2F0dHkoaW50IGZpbGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiNpZmRlZiBERUJVR19CTEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
