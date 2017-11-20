@@ -88,9 +88,6 @@
         <mark key="^" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c.c" timestamp="1511100906188">
-        <mark key="[" line="2" column="1" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1510913690378">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="1" />
@@ -129,12 +126,6 @@
         <mark key="]" line="215" column="13" />
         <mark key="." line="215" column="13" />
         <mark key="^" line="215" column="13" />
-      </file>
-      <file name="/GDB" timestamp="1510937898051">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510765282929">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" timestamp="1511173135772">
         <mark key="[" line="63" column="0" />
@@ -194,9 +185,6 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1511173797973">
         <mark key="'" line="705" column="20" />
         <mark key="[" line="712" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.c" timestamp="1510928839770">
         <mark key="[" line="51" column="0" />
