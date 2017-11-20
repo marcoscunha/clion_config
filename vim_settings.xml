@@ -25,6 +25,11 @@
         <mark key="^" line="38" column="45" />
         <mark key="." line="38" column="45" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.h" timestamp="1511173230630">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.h" timestamp="1510675676705">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="25" />
@@ -37,17 +42,17 @@
         <mark key="^" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_data.c" timestamp="1511174627447">
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savenor.h" timestamp="1510912547039">
         <mark key="'" line="21" column="16" />
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="14" />
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/gps.c" timestamp="1510938109475">
-        <mark key="'" line="755" column="0" />
-        <mark key="[" line="755" column="0" />
-        <mark key="]" line="755" column="97" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1510940322993">
         <mark key="'" line="435" column="19" />
@@ -96,6 +101,12 @@
         <mark key="." line="144" column="18" />
         <mark key="^" line="144" column="18" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" timestamp="1511174475750">
+        <mark key="'" line="68" column="18" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1510942328473">
         <mark key="'" line="122" column="0" />
         <mark key="[" line="8" column="0" />
@@ -109,11 +120,17 @@
       <file name="/Dummy.txt" timestamp="1510765282929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.h" timestamp="1511166383503">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" timestamp="1511173135772">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.h" timestamp="1511172766336">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c" timestamp="1511107248678">
         <mark key="[" line="117" column="24" />
@@ -161,8 +178,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1510934371765">
-        <mark key="'" line="138" column="39" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" timestamp="1511173797973">
+        <mark key="'" line="705" column="20" />
+        <mark key="[" line="808" column="0" />
+        <mark key="]" line="791" column="0" />
+        <mark key="^" line="791" column="0" />
+        <mark key="." line="791" column="0" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
         <mark key="[" line="0" column="0" />
@@ -172,16 +193,6 @@
         <mark key="]" line="51" column="49" />
         <mark key="^" line="51" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1510940294506">
-        <mark key="a" line="220" column="50" />
-        <mark key="'" line="21" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1510937966310">
-        <mark key="'" line="375" column="32" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510942448048">
         <mark key="[" line="6" column="37" />
@@ -208,35 +219,13 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1511166602545">
-        <mark key="'" line="80" column="47" />
-        <mark key="[" line="711" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" timestamp="1511174396793">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="43" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="60" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="62" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="101" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="135" column="31" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="93" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="171" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" />
-      <jump line="293" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" />
-      <jump line="62" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="193" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="249" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="379" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="422" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="524" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="83" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
-      <jump line="288" column="38" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="31" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
-      <jump line="171" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
-      <jump line="325" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="364" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="293" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
-      <jump line="104" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="283" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="124" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="131" column="70" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -314,29 +303,51 @@
       <jump line="37" column="51" filename="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476RGTx_FLASH.ld" />
       <jump line="78" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="80" column="47" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="714" column="22" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="717" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="92" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="93" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="667" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="705" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_setup.c" />
+      <jump line="699" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="989" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="988" column="47" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="128" column="29" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="636" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="26" column="3" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
+      <jump line="105" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="51" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
+      <jump line="68" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="653" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="708" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="62" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
+      <jump line="22" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="51" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="652" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
+      <jump line="672" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>AKOLYT_A</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIHZvaWQgYWtvX29iZF9yZXRyeV9jb25uZWN0ICggdm9pZCApCnsKICAgIGlmICggcmV0cnlfdGltZW91dF9pZCA9PSAwICkKICAgIHsKICAgICAgICByZXR1cm47CiAgICB9CgogICAgQUtPX09CRF9MT0cgKCAiW0RdIFJldHJ5IE9CRCBjb25uZWN0XG4iICk7CgogICAgaWYgKCBha29seXQucGx1Z2dlZCA9PSBBS09MWVRfVU5QTFVHR0VEICkKICAgIHsKICAgICAgICBBS09fT0JEX0xPRyAoICJbRF0gTm90IHBsdWdnZWQsIHN0b3AgdHJ5aW5nXG4iICk7CiAgICAgICAgYWtvbHl0Lm9iZF9jb25uZWN0ZWQgPSBGQUxTRTsKICAgICAgICBha29seXQub2JkX2FsaXZlID0gRkFMU0U7CiAgICAgICAgcmV0dXJuOwogICAgfQoKICAgIGlmICggYWtvbHl0LnBsdWdnZWQgPT0gQUtPTFlUX1VOS05PV04gKQogICAgewogICAgICAgIEFLT19PQkRfTE9HICggIltEXSBQbHVnIHN0YXRlIHVua25vd24gLSB3YWl0IDFzIHVudGlsIHJldHJ5IGNvbm5lY3RcbiIgKTsKICAgICAgICBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoICk7CiAgICAgICAgcmV0dXJuOwogICAgfQogICAgYWtvX29iZF9jb25uZWN0ICggYWtvX29iZF9yZXRyeV9jb25uZWN0X2NhbGxiYWNrICk7Cn0KCnN0YXRpYyB2b2lkIGFrb19vYmRfcmV0cnlfY29ubmVjdF9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgQUtPX09CRF9MT0cgKCAiW0RdIFN1Y2Nlc3MgcmV0cnkgdG8gY29ubmVjdFxuIiApOwojaWZkZWYgRU5BQkxFX1dBS0VVUF9PQkQKICAgICAgICBpbXVfb24gKCApOwojZW5kaWYKICAgICAgICBudW1iZXJfb2Zfb2JkX3JldHJ5X2Nvbm5lY3QgPSAwOwogICAgICAgIGFrb19vYmRfc3RhcnRfbG9vcCAoICk7CiAgICAgICAgYWtvX3RyaXBfY2hlY2tfYWN0dml0eSAoIE5VTEwsIDAgKTsKICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBBS09fT0JEX0xPRyAoICJbRF0gRmFpbGVkIHJldHJ5IHRvIGNvbm5lY3RcbiIgKTsKI2lmZGVmIEVOQUJMRV9XQUtFVVBfT0JECiAgICAgICAgLy9UT0RPIHdhaXRpbmcgZm9yIGEgdmVyeSBzZW5zaXRpdmUgaW1wYWN0CiAgICAgICAgb2JkX3RpbWVyX3N0YXJ0ICggaW11X2lkbGUsIE9CRF9SRVRSWV9DT05ORUNUX1RJTUVPVVQgKTsKI2Vsc2UKICAgICAgICBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoICk7CiAgICAgICAgbnVtYmVyX29mX29iZF9yZXRyeV9jb25uZWN0ICs9ICggbnVtYmVyX29mX29iZF9yZXRyeV9jb25uZWN0ICsgMSApID49IFJFVFJZX0RFTEFZUyA/IDAgOiAxOwojZW5kaWYKICAgIH0KfQoKdm9pZCBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoIHZvaWQgKQp7CiAgICByZXRyeV90aW1lb3V0X2lkID0gc3lzX3RpbWVvdXRfYWRkICggcmV0cnlfZGVsYXkgWyBudW1iZXJfb2Zfb2JkX3JldHJ5X2Nvbm5lY3QgXSwgU1lTX0VWRU5UX0hBTkRMRVIgKCBha29fb2JkX3JldHJ5X2Nvbm5lY3QgKSwgTlVMTCApOwp9Cgp2b2lkIGFrb19vYmRfY29tbXVuaWNhdGlvbl9pbnRlcnJ1cHRpb24gKCB2b2lkICkKewogICAgYWtvbHl0Lm9iZF9jb25uZWN0ZWQgPSBGQUxTRTsKICAgIGFrb2x5dC5vYmRfYWxpdmUgPSBGQUxTRTsKCiAgICBtZW1zZXQgKCAmb2JkX3ZhbHVlcywgMCwgc2l6ZW9mICggYWtvX29iZF92YWx1ZXNfdCApICk7CiAgICBha29fZHRjX3Jlc2V0ICggKTsKCiAgICBha29seXRfaWRsZSAoICk7Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>#include &quot;akolyt_obd_activity.h&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>verb</text>
+        <text>connect_communi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIF9zaGVhcCA9IC4KIA==</text>
+        <text>bool_t car_is_talking = FALSE;</text>
       </register>
-      <register name="1" type="8">
-        <text>AKOLYT_A</text>
+      <register name="1" type="4">
+        <text encoding="base64">c3RhdGljIHZvaWQgYWtvX29iZF9yZXRyeV9jb25uZWN0ICggdm9pZCApCnsKICAgIGlmICggcmV0cnlfdGltZW91dF9pZCA9PSAwICkKICAgIHsKICAgICAgICByZXR1cm47CiAgICB9CgogICAgQUtPX09CRF9MT0cgKCAiW0RdIFJldHJ5IE9CRCBjb25uZWN0XG4iICk7CgogICAgaWYgKCBha29seXQucGx1Z2dlZCA9PSBBS09MWVRfVU5QTFVHR0VEICkKICAgIHsKICAgICAgICBBS09fT0JEX0xPRyAoICJbRF0gTm90IHBsdWdnZWQsIHN0b3AgdHJ5aW5nXG4iICk7CiAgICAgICAgYWtvbHl0Lm9iZF9jb25uZWN0ZWQgPSBGQUxTRTsKICAgICAgICBha29seXQub2JkX2FsaXZlID0gRkFMU0U7CiAgICAgICAgcmV0dXJuOwogICAgfQoKICAgIGlmICggYWtvbHl0LnBsdWdnZWQgPT0gQUtPTFlUX1VOS05PV04gKQogICAgewogICAgICAgIEFLT19PQkRfTE9HICggIltEXSBQbHVnIHN0YXRlIHVua25vd24gLSB3YWl0IDFzIHVudGlsIHJldHJ5IGNvbm5lY3RcbiIgKTsKICAgICAgICBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoICk7CiAgICAgICAgcmV0dXJuOwogICAgfQogICAgYWtvX29iZF9jb25uZWN0ICggYWtvX29iZF9yZXRyeV9jb25uZWN0X2NhbGxiYWNrICk7Cn0KCnN0YXRpYyB2b2lkIGFrb19vYmRfcmV0cnlfY29ubmVjdF9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgQUtPX09CRF9MT0cgKCAiW0RdIFN1Y2Nlc3MgcmV0cnkgdG8gY29ubmVjdFxuIiApOwojaWZkZWYgRU5BQkxFX1dBS0VVUF9PQkQKICAgICAgICBpbXVfb24gKCApOwojZW5kaWYKICAgICAgICBudW1iZXJfb2Zfb2JkX3JldHJ5X2Nvbm5lY3QgPSAwOwogICAgICAgIGFrb19vYmRfc3RhcnRfbG9vcCAoICk7CiAgICAgICAgYWtvX3RyaXBfY2hlY2tfYWN0dml0eSAoIE5VTEwsIDAgKTsKICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBBS09fT0JEX0xPRyAoICJbRF0gRmFpbGVkIHJldHJ5IHRvIGNvbm5lY3RcbiIgKTsKI2lmZGVmIEVOQUJMRV9XQUtFVVBfT0JECiAgICAgICAgLy9UT0RPIHdhaXRpbmcgZm9yIGEgdmVyeSBzZW5zaXRpdmUgaW1wYWN0CiAgICAgICAgb2JkX3RpbWVyX3N0YXJ0ICggaW11X2lkbGUsIE9CRF9SRVRSWV9DT05ORUNUX1RJTUVPVVQgKTsKI2Vsc2UKICAgICAgICBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoICk7CiAgICAgICAgbnVtYmVyX29mX29iZF9yZXRyeV9jb25uZWN0ICs9ICggbnVtYmVyX29mX29iZF9yZXRyeV9jb25uZWN0ICsgMSApID49IFJFVFJZX0RFTEFZUyA/IDAgOiAxOwojZW5kaWYKICAgIH0KfQoKdm9pZCBha29fb2JkX3JldHJ5X2Nvbm5lY3RfZGVsYXllZCAoIHZvaWQgKQp7CiAgICByZXRyeV90aW1lb3V0X2lkID0gc3lzX3RpbWVvdXRfYWRkICggcmV0cnlfZGVsYXkgWyBudW1iZXJfb2Zfb2JkX3JldHJ5X2Nvbm5lY3QgXSwgU1lTX0VWRU5UX0hBTkRMRVIgKCBha29fb2JkX3JldHJ5X2Nvbm5lY3QgKSwgTlVMTCApOwp9Cgp2b2lkIGFrb19vYmRfY29tbXVuaWNhdGlvbl9pbnRlcnJ1cHRpb24gKCB2b2lkICkKewogICAgYWtvbHl0Lm9iZF9jb25uZWN0ZWQgPSBGQUxTRTsKICAgIGFrb2x5dC5vYmRfYWxpdmUgPSBGQUxTRTsKCiAgICBtZW1zZXQgKCAmb2JkX3ZhbHVlcywgMCwgc2l6ZW9mICggYWtvX29iZF92YWx1ZXNfdCApICk7CiAgICBha29fZHRjX3Jlc2V0ICggKTsKCiAgICBha29seXRfaWRsZSAoICk7Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>AKOLYT_
-AKOLYT_</text>
+      <register name="2" type="4">
+        <text encoding="base64">dm9pZCBha29fb2JkX2Nvbm5lY3QgKCBzeXNfZXZlbnRfaGFuZGxlciAqY2FsbGJhY2sgKQp7CiAgICBpZiAoIGFrb2x5dC5wbHVnZ2VkICE9IEFLT0xZVF9QTFVHR0VEIHx8CiAgICAgICAgIGFrb19yZW1vdGVfY29uZmlnX2lzX29iZF9kaXNhYmxlZCAoICkgPT0gVFJVRSApICAvLyBBa29seXQgaXMgbm90IHBsdWdnZWQgYW5kIG9iZCBmZWF0dXJlIGlzIGRpc2FibGVkCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgICAgICByZXR1cm47CiAgICB9CiAgICBjYXJfaXNfdGFsa2luZyA9IEZBTFNFOwogICAgaWYgKCBha29fb2JkX2NvbnRleHQuY2FsbGJhY2sgPT0gTlVMTCApCiAgICB7CiAgICAgICAgaWYgKCBha29seXQucGx1Z2dlZCA9PSBBS09MWVRfVU5QTFVHR0VEICkKICAgICAgICB7CiAgICAgICAgICAgIElORk9fTE9HICggIltJXSAlcyBOb3QgcGx1Z2dlZCwgbm90IHRyeWluZyBjb25uZWN0XG4iLCBfX0ZVTkNUSU9OX18gKTsKICAgICAgICAgICAgc3lzX3F1ZXVlICggY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgICAgICB9CiAgICAgICAgZWxzZSBpZiAoIGFrb2x5dC5wbHVnZ2VkID09IEFLT0xZVF9VTktOT1dOICkKICAgICAgICB7CiAgICAgICAgICAgIElORk9fTE9HICggIltJXSAlcyBQbHVnIHN0YXRlIHVua293biwgbm90IHRyeWluZyBjb25uZWN0XG4iLCBfX0ZVTkNUSU9OX18gKTsKICAgICAgICAgICAgc3lzX3F1ZXVlICggY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgdWludDhfdCBwcm90b2NvbCA9IGFrb19zZXR1cF9nZXRfcHJvdG9jb2wgKCApOwogICAgICAgICAgICBha29fb2JkX2NvbnRleHQuY2FsbGJhY2sgPSBjYWxsYmFjazsKICAgICAgICAgICAgaWYgKCBUUlVFICkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYWtvX29iZF9jb25uZWN0X2NvbW11bmljYXRpb24gKCApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYWtvX29iZF93YWl0X2Zvcl9DQU5fYWN0aXZpdHkgKCApOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQogICAgZWxzZQogICAgewogICAgICAgIC8vQWxyZWFkeSBydW5uaW5nCiAgICAgICAgc3lzX3F1ZXVlICggY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgIH0KfQoKc3RhdGljIHZvaWQgYWtvX29iZF9jb25uZWN0X2NvbW11bmljYXRpb24gKCApCnsKICAgIHVpbnQ4X3QgcHJvdG9jb2wgPSBha29fc2V0dXBfZ2V0X3Byb3RvY29sICggKTsKCiAgICBpZiAoIHByb3RvY29sID09IFBST1RPQ09MX05PTkUgKQogICAgewogICAgICAgIHByb3RvY29sID0gQUxMOwogICAgfQogICAgSU5GT19MT0cgKCAiW0ldIERpc2FibGUgYmF0dGVyeSBjaGFyZ2VyXG4iICk7CiAgICBhZGNfY2hhcmdlcl9mb3JjZSAoIDAgKTsKICAgIElORk9fTE9HICggIltJXSBDb25uZWN0aW5nIE9CRCB1c2luZyAlcyBwcm90b2NvbFxuIiwgb2JkX3Byb3RvY29sX3N0ciAoIHByb3RvY29sICkgKTsKICAgIG9iZF9jb25uZWN0ICggcHJvdG9jb2wsIGFrb19vYmRfY29ubmVjdF9jYWxsYmFjayApOwp9CgpzdGF0aWMgdm9pZCBha29fb2JkX2Nvbm5lY3RfY2FsbGJhY2sgKCB2b2lkICpjdHgsIGludCBpZCApCnsKICAgIHVpbnQzMl90IHJlc3BvbnNlID0gKHVpbnQzMl90KWN0eDsKCiAgICBpZiAoIHJlc3BvbnNlID09IFRSVUUgKQogICAgewogICAgICAgIGlmICggY2FyX2lzX3RhbGtpbmcgJiYgYWtvX3NldHVwX2lzX3NpbGVudCAoICkgPT0gVFJVRSApCiAgICAgICAgewogICAgICAgICAgICBha29fc2V0dXBfc2V0X3NpbGVudCAoIEZBTFNFICk7CiAgICAgICAgfQogICAgICAgIElORk9fTE9HICggIltJXSAlcyBDb25uZWN0ZWRcbiIsIF9fRlVOQ1RJT05fXyApOwogICAgICAgIGFrb2x5dC5vYmRfY29ubmVjdGVkID0gVFJVRTsKICAgICAgICBha29fb2JkX3JlbGVhc2UgKCAodm9pZCAqKVRSVUUgICk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgSU5GT19MT0cgKCAiW0ldICVzIE5PVCBjb25uZWN0ZWRcbiIsIF9fRlVOQ1RJT05fXyApOwogICAgICAgIGFrb2x5dC5vYmRfY29ubmVjdGVkID0gRkFMU0U7CiAgICAgICAgSU5GT19MT0cgKCAiW0ldICVzIEVuYWJsZSBiYXR0ZXJ5IGNoYXJnZXJcbiIsIF9fRlVOQ1RJT05fXyApOwogICAgICAgIGFkY19jaGFyZ2VyX3JlbGVhc2UgKCApOwogICAgICAgIGFrb19vYmRfcmVsZWFzZSAoICh2b2lkICopRkFMU0UgICk7CiAgICB9Cn0KCnZvaWQgYWtvX29iZF9kaXNjb25uZWN0ICggc3lzX2V2ZW50X2hhbmRsZXIgKmNhbGxiYWNrICkKewogICAgaWYgKCBha29fb2JkX2NvbnRleHQuY2FsbGJhY2sgPT0gTlVMTCApCiAgICB7CiAgICAgICAgYWtvX29iZF9zdG9wX2xvb3AgKCApOwoKICAgICAgICBha29seXQub2JkX2FsaXZlID0gRkFMU0U7CiAgICAgICAgYWtvX29iZF9jb250ZXh0LmNhbGxiYWNrID0gY2FsbGJhY2s7CgogICAgICAgIG9iZF9kaXNjb25uZWN0ICggYWtvX29iZF9kaXNjb25uZWN0X2NhbGxiYWNrICk7CiAgICB9CiAgICBlbHNlCiAgICB7CgogICAgICAgIHN5c19xdWV1ZSAoIGNhbGxiYWNrLCAodm9pZCAqKUZBTFNFICk7CiAgICB9Cn0KCnN0YXRpYyB2b2lkIGFrb19vYmRfZGlzY29ubmVjdF9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgQUtPX09CRF9MT0cgKCAiW0RdIE9CRCBEaXNjb25uZWN0ZWRcbiIgKTsKICAgICAgICBha29seXQub2JkX2Nvbm5lY3RlZCA9IEZBTFNFOwogICAgICAgIElORk9fTE9HICggIltJXSBFbmFibGUgYmF0dGVyeSBjaGFyZ2VyXG4iICk7CiAgICAgICAgYWRjX2NoYXJnZXJfcmVsZWFzZSAoICk7CgogICAgICAgIGFrb19vYmRfcmVsZWFzZSAoKHZvaWQgKiApIFRSVUUpOwogICAgfQogICAgZWxzZQogICAgewogICAgICAgIEFLT19PQkRfTE9HICggIltJXSAlcyBOT1QgY29ubmVjdGVkXG4iLCBfX0ZVTkNUSU9OX18gKTsKCiAgICAgICAgSU5GT19MT0cgKCAiW0ldIEVuYWJsZSBiYXR0ZXJ5IGNoYXJnZXJcbiIgKTsKICAgICAgICBhZGNfY2hhcmdlcl9yZWxlYXNlICgpOwogICAgICAgIGFrb19vYmRfcmVsZWFzZSAoKHZvaWQgKiApIEZBTFNFKTsKICAgIH0KfQp2b2lkIGFrb19vYmRfcmVsZWFzZSAoIHZvaWQgKiBjdHggKQp7CiAgICBpZiAoIGFrb19vYmRfY29udGV4dC5jYWxsYmFjayAhPSBOVUxMKQogICAgewogICAgICAgIHN5c19xdWV1ZSAoIGFrb19vYmRfY29udGV4dC5jYWxsYmFjaywgY3R4ICk7CiAgICAgICAgbWVtc2V0ICggJmFrb19vYmRfY29udGV4dCwgMCwgc2l6ZW9mICggYWtvX29iZF9jb250ZXh0X3QgKSApOwogICAgfQp9Cgpib29sX3QgYWtvX29iZF9zaHV0ZG93biAoIHZvaWQgKQp7CiAgICBha29fb2JkX3N0b3BfbG9vcCAoICk7CiAgICBha29seXQub2JkX2FsaXZlID0gRkFMU0U7CiAgICBtZW1zZXQgKCAmYWtvX29iZF9jb250ZXh0LCAwLCBzaXplb2YgKCBha29fb2JkX2NvbnRleHRfdCApICk7CiAgICBpZiAoIG9iZF9zaHV0ZG93biAoICkgPT0gVFJVRSApCiAgICB7CgogICAgICAgIGNwcmludGYgKCBUQUcsICJbSV0gRW5hYmxlIGJhdHRlcnkgY2hhcmdlclxuIiApOwogICAgICAgIGFkY19jaGFyZ2VyX3JlbGVhc2UgKCApOwoKICAgICAgICBha29seXQub2JkX2Nvbm5lY3RlZCA9IEZBTFNFOwoKICAgICAgICByZXR1cm4gVFJVRTsKICAgIH0KICAgIHJldHVybiBGQUxTRTsKfQoKdm9pZCBha29fb2JkX2t3cF9ub3RfYXdha2VfY2IgKCB2b2lkICkKewogICAgV0FSTl9MT0cgKCAiW1ddIEtXUCBOb3QgYXdha2VcbiIgKTsKCiAgICBha29seXQub2JkX2FsaXZlID0gRkFMU0U7CgogICAgYWtvX29iZF9zdG9wX2xvb3AgKCApOwp9CgojaWZkZWYgRU5BQkxFX1dBS0VVUF9PQkQKdm9pZCBha29fb2JkX3JldHJ5X2Nvbm5lY3RfbW92ZW1lbnQgKCB2b2lkICkKewogICAgYWtvX29iZF9yZXRyeV9jb25uZWN0ICggKTsKfQojZW5kaWYKCi8qKgogKiBAYnJpZWYKICoKICogQHBhcmFtIHZoaWQKICogQHBhcmFtIGNhbGxiYWNrCiAqLwp2b2lkIGFrb19vYmRfZ2V0X3ZoaWQgKCB1aW50OF90ICp2aGlkLCBzeXNfZXZlbnRfaGFuZGxlciAqY2FsbGJhY2sgKQp7CiAgICBpZiAoIGFrb19vYmRfY29udGV4dC5jYWxsYmFjayA9PSBOVUxMICkKICAgIHsKICAgICAgICBBS09fT0JEX0xPRyAoICJbRF0gJXMgXG4iLCBfX0ZVTkNUSU9OX18gKTsKICAgICAgICBha29fb2JkX2NvbnRleHQudmhpZCA9IHZoaWQ7CiAgICAgICAgYWtvX29iZF9jb250ZXh0LmNhbGxiYWNrID0gY2FsbGJhY2s7CgogICAgICAgIGlmICggdmhpZCA9PSBOVUxMICkKICAgICAgICB7CiAgICAgICAgICAgIEVSUk9SX0xPRyAoICJbRV0gJXM6IG51bGwgcG9pbnRlclxuIiwgX19GVU5DVElPTl9fICk7CiAgICAgICAgICAgIHN5c19xdWV1ZSAoIGNhbGxiYWNrLCAodm9pZCAqKUZBTFNFICk7CiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIG9iZF9yZXF1ZXN0X3ZpbiAoIGFrb19vYmRfY29udGV4dC52aGlkLCBha29fb2JkX2dldF92aGlkX3Zpbl9jYWxsYmFjayApOwogICAgICAgIH0KICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBFUlJPUl9MT0cgKCAiW0VdICVzOiBCdXN5IHJlc291cmNlXG4iLCBfX0ZVTkNUSU9OX18gKTsKICAgICAgICBzeXNfcXVldWUgKCBjYWxsYmFjaywgKHZvaWQgKilGQUxTRSApOwogICAgfQp9CgpzdGF0aWMgdm9pZCBha29fb2JkX2dldF92aGlkX3Zpbl9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgb2JkX3ByaW50X3ZpbiAoIGFrb19vYmRfY29udGV4dC52aGlkICk7CgogICAgICAgIC8vIEluc2VydCBQUk9UT0NPTAogICAgICAgIGFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QUk9UTyBdID0gT0JEQVBJX0dldFByb3RvY29sICggKTsKCiAgICAgICAgLy8gR2V0IFBJRCBNT0RFIDEKICAgICAgICBvYmRfZ2V0X3BpZHMgKCBPQkRfTU9ERTEsICh1aW50MzJfdCAqKSZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NMSBdLCBha29fb2JkX2dldF92aGlkX21vZGUxX2NhbGxiYWNrICk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgYWtvX29iZF9yZWxlYXNlICggKHZvaWQgKilGQUxTRSAgKTsKICAgIH0KfQoKc3RhdGljIHZvaWQgYWtvX29iZF9nZXRfdmhpZF9tb2RlMV9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgLy8gR2V0IFBJRCBNT0RFIDUKICAgICAgICBvYmRfZ2V0X3BpZHMgKCBPQkRfTU9ERTUsICh1aW50MzJfdCAqKSZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NNSBdLCBha29fb2JkX2dldF92aGlkX21vZGU1X2NhbGxiYWNrICk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgbWVtc2V0ICggJmFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QSURTX00xIF0sIDAsIHNpemVvZiAoIE91OCApICogNyAqIDQgKTsKICAgICAgICBtZW1zZXQgKCAmYWtvX29iZF9jb250ZXh0LnZoaWRbIE9CRF9WSElEX1BJRFNfTTUgXSwgMCwgc2l6ZW9mICggT3U4ICkgKiA3ICogNCApOwogICAgICAgIG1lbXNldCAoICZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NNiBdLCAwLCBzaXplb2YgKCBPdTggKSAqIDcgKiA0ICk7CiAgICAgICAgbWVtc2V0ICggJmFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QSURTX005IF0sIDAsIHNpemVvZiAoIE91OCApICogNyAqIDQgKTsKICAgICAgICBzeXNfcXVldWUgKCBha29fb2JkX2NvbnRleHQuY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgICAgICBha29fb2JkX2NvbnRleHQuY2FsbGJhY2sgPSBOVUxMOwogICAgfQp9CgpzdGF0aWMgdm9pZCBha29fb2JkX2dldF92aGlkX21vZGU1X2NhbGxiYWNrICggdm9pZCAqY3R4LCBpbnQgaWQgKQp7CiAgICB1aW50MzJfdCByZXNwb25zZSA9ICh1aW50MzJfdCljdHg7CgogICAgaWYgKCByZXNwb25zZSA9PSBUUlVFICkKICAgIHsKICAgICAgICAvLyBHZXQgUElEIE1PREUgNgogICAgICAgIG9iZF9nZXRfcGlkcyAoIE9CRF9NT0RFNiwgKHVpbnQzMl90ICopJmFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QSURTX002IF0sIGFrb19vYmRfZ2V0X3ZoaWRfbW9kZTZfY2FsbGJhY2sgKTsKICAgIH0KICAgIGVsc2UKICAgIHsKICAgICAgICBtZW1zZXQgKCAmYWtvX29iZF9jb250ZXh0LnZoaWRbIE9CRF9WSElEX1BJRFNfTTUgXSwgMCwgc2l6ZW9mICggT3U4ICkgKiA0ICk7CiAgICAgICAgbWVtc2V0ICggJmFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QSURTX002IF0sIDAsIHNpemVvZiAoIE91OCApICogNCApOwogICAgICAgIG1lbXNldCAoICZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NOSBdLCAwLCBzaXplb2YgKCBPdTggKSAqIDQgKTsKICAgICAgICBzeXNfcXVldWUgKCBha29fb2JkX2NvbnRleHQuY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgIH0KfQoKc3RhdGljIHZvaWQgYWtvX29iZF9nZXRfdmhpZF9tb2RlNl9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgLy8gR2V0IFBJRCBNT0RFIDkKICAgICAgICBvYmRfZ2V0X3BpZHMgKCBPQkRfTU9ERTksICh1aW50MzJfdCAqKSZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NOSBdLCBha29fb2JkX2dldF92aGlkX21vZGU5X2NhbGxiYWNrICk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgbWVtc2V0ICggJmFrb19vYmRfY29udGV4dC52aGlkWyBPQkRfVkhJRF9QSURTX002IF0sIDAsIHNpemVvZiAoIE91OCApICogNCApOwogICAgICAgIG1lbXNldCAoICZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NOSBdLCAwLCBzaXplb2YgKCBPdTggKSAqIDQgKTsKICAgICAgICBzeXNfcXVldWUgKCBha29fb2JkX2NvbnRleHQuY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgIH0KfQoKc3RhdGljIHZvaWQgYWtvX29iZF9nZXRfdmhpZF9tb2RlOV9jYWxsYmFjayAoIHZvaWQgKmN0eCwgaW50IGlkICkKewogICAgdWludDMyX3QgcmVzcG9uc2UgPSAodWludDMyX3QpY3R4OwoKICAgIGlmICggcmVzcG9uc2UgPT0gVFJVRSApCiAgICB7CiAgICAgICAgYWtvX29iZF9yZWxlYXNlICggKHZvaWQgKilUUlVFICApOwogICAgfQogICAgZWxzZQogICAgewogICAgICAgIHN5c19xdWV1ZSAoIGFrb19vYmRfY29udGV4dC5jYWxsYmFjaywgKHZvaWQgKilGQUxTRSApOwogICAgICAgIG1lbXNldCAoICZha29fb2JkX2NvbnRleHQudmhpZFsgT0JEX1ZISURfUElEU19NOSBdLCAwLCBzaXplb2YgKCBPdTggKSAqIDQgKTsKICAgIH0KfQoKdm9pZCBha29fb2JkX2dldF9zZXR1cCAoIGFrb19vYmRfc2V0dXBfdCAqb2JkX3NldHVwLCBvYmRfc2Nhbl9lY3VfdCAqc2Nhbl9lY3UsIHN5c19ldmVudF9oYW5kbGVyICpjYWxsYmFjayApCnsKICAgIGlmICggYWtvX29iZF9jb250ZXh0LmNhbGxiYWNrID09IE5VTEwgKQogICAgewogICAgICAgIGFrb19vYmRfY29udGV4dC5jYWxsYmFjayA9IGNhbGxiYWNrOwogICAgICAgIG9iZF90aW1lcl9zZXR1cCAoICk7CiAgICAgICAgb2JkX3NjYW5fcGlkcyAoIG9iZF9zZXR1cCwgc2Nhbl9lY3UsIGFrb19vYmRfZ2V0X3NldHVwX2NhbGxiYWNrICk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgc3lzX3F1ZXVlICggY2FsbGJhY2ssICh2b2lkICopRkFMU0UgKTsKICAgIH0KfQoKc3RhdGljIHZvaWQgYWtvX29iZF9nZXRfc2V0dXBfY2FsbGJhY2sgKCB2b2lkICpjdHgsIGludCBpZCApCnsKICAgIGFrb19vYmRfcmVsZWFzZShjdHgpOwp9Cgpib29sX3QgYWtvX29iZF9zZXRfc2V0dXAgKCBha29fb2JkX3NldHVwX3QgKm9iZF9zZXR1cCApCnsKICAgIG9iZF90aW1lcl9zZXR1cCAoICk7CiAgICByZXR1cm4gb2JkX3BpZHNfc2V0dXAgKCBvYmRfc2V0dXAgKTsKfQoKdm9pZCBha29fb2JkX3RpbWVyX3N0b3AgKCB2b2lkICkKewogICAgb2JkX3RpbWVyX3N0b3AgKCApOwp9Cgp2b2lkIGFrb19vYmRfY2xlYW5fdXBfdGltZXJzICggdm9pZCApCnsKICAgIEFLT19PQkRfTE9HICggIltEXSAlc1xuIiwgX19GVU5DVElPTl9fICk7CiAgICAvLyBSZW1vdmUgb2JkIHJldHJ5IHRpbWVyCiAgICBpZiAoIHJldHJ5X3RpbWVvdXRfaWQgIT0gMCApCiAgICB7CiAgICAgICAgc3lzX3RpbWVvdXRfZGVsICggcmV0cnlfdGltZW91dF9pZCwgYWtvX29iZF9yZXRyeV9jb25uZWN0ICk7CiAgICAgICAgcmV0cnlfdGltZW91dF9pZCA9IDA7CiAgICB9CiAgICBha29fb2JkX3RpbWVyX3N0b3AgKCApOwp9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -344,31 +355,38 @@ AKOLYT_</text>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>//
-// Created by mcunha on 11/20/17.
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB1aW50OF90IGJ1ZmZlciBbIDEwMjQgXTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Lyp0eXBlZGVmIHN0cnVjdCB7CiAgICBzeXNfZXZlbnRfaGFuZGxlciAqY2FsbGJhY2s7Cn0gYWtvX29iZF90OwoKYWtvX29iZF90IGFrb19vYmQ7Ki8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB2VGFza0dldFJ1blRpbWVTdGF0cyAoIGJ1ZmZlciApOwo=</text>
+      <register name="7" type="4">
+        <text>void ako_obd_init_count_CAN_messages ( void )
+{
+    ako_obd_count_CAN_messages = 0;
+}
+
+void ako_obd_inc_count_CAN_messages ( CANHAL_sMessage *msg )
+{
+    ako_obd_count_CAN_messages++;
+    CANHAL_EnableCANInterrupt ( TRUE );
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWlkZGxld2FyZXMvVGhpcmRfUGFydHkvRnJlZVJUT1MvU291cmNlLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjaGFyICptc2cgPSAiSGVsbG8gTnVjbGVvIEZ1biFcblxyIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>verb</last-search>
+      <last-search>connect_communi</last-search>
       <last-offset />
-      <last-pattern>verb</last-pattern>
+      <last-pattern>connect_communi</last-pattern>
       <last-replace>BLE_UART_LOG</last-replace>
       <last-substitute>BLE_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -376,17 +394,6 @@ AKOLYT_</text>
     </search>
     <history>
       <history-search>
-        <entry>LOAD</entry>
-        <entry>10</entry>
-        <entry>AK</entry>
-        <entry>ACK</entry>
-        <entry>ble_callback</entry>
-        <entry>TX :</entry>
-        <entry>TX</entry>
-        <entry>TX:</entry>
-        <entry>DEBUG_BLE</entry>
-        <entry>BLE</entry>
-        <entry>FOTA</entry>
         <entry>BLE_SENDNBYTES</entry>
         <entry>50</entry>
         <entry>DMA</entry>
@@ -396,6 +403,17 @@ AKOLYT_</text>
         <entry>heap</entry>
         <entry>va</entry>
         <entry>verb</entry>
+        <entry>bool_y</entry>
+        <entry>bool_t</entry>
+        <entry>ako_activit</entry>
+        <entry>count</entry>
+        <entry>count_init</entry>
+        <entry>init_count</entry>
+        <entry>ako_obd_count_CAN_messages</entry>
+        <entry>LISTENING_CAN_PERIOD</entry>
+        <entry>car_is_talking</entry>
+        <entry>connect_communit</entry>
+        <entry>connect_communi</entry>
       </history-search>
       <history-cmd>
         <entry>Clear</entry>
@@ -412,11 +430,11 @@ AKOLYT_</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>110</entry>
         <entry>Lw</entry>
-        <entry>q</entry>
         <entry>50</entry>
         <entry>264</entry>
-        <entry>W</entry>
         <entry>wqa</entry>
+        <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
