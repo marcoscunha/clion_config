@@ -223,6 +223,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511263591964">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="222" column="0" />
+        <mark key="." line="225" column="0" />
+      </file>
       <file name="/GDB" timestamp="1510937898051">
         <mark key="[" line="0" column="0" />
       </file>
@@ -386,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>slept</text>
