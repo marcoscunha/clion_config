@@ -255,8 +255,8 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1511254263170">
-        <mark key="'" line="622" column="12" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1511271021508">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="622" column="12" />
         <mark key="]" line="622" column="12" />
         <mark key="^" line="622" column="12" />
@@ -289,8 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="653" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="708" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="62" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
@@ -389,6 +387,8 @@
       <jump line="136" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
       <jump line="14" column="43" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.h" />
       <jump line="622" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
+      <jump line="77" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +398,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>slept</text>
+        <text>EVENT_L</text>
       </register>
       <register name="0" type="4">
         <text>CPPFLAGS += -DDEBUG_BLE</text>
@@ -451,9 +451,9 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
       </register>
     </registers>
     <search>
-      <last-search>slept</last-search>
+      <last-search>EVENT_L</last-search>
       <last-offset />
-      <last-pattern>slept</last-pattern>
+      <last-pattern>EVENT_L</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +461,6 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
     </search>
     <history>
       <history-search>
-        <entry>mkdir</entry>
         <entry>system</entry>
         <entry>STARTU</entry>
         <entry>clean</entry>
@@ -481,6 +480,7 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
         <entry>activ</entry>
         <entry>update</entry>
         <entry>slept</entry>
+        <entry>EVENT_L</entry>
       </history-search>
       <history-cmd>
         <entry>548</entry>
