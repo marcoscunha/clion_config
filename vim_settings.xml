@@ -223,11 +223,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511263591964">
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="222" column="0" />
-        <mark key="." line="225" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511268639292">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="23" />
+        <mark key="^" line="217" column="0" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="/GDB" timestamp="1510937898051">
         <mark key="[" line="0" column="0" />
@@ -392,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>CPPFLAGS += -DDEBUG_BLE</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -401,7 +401,7 @@
         <text>slept</text>
       </register>
       <register name="0" type="4">
-        <text>void ako_obd_connect_communication ( void )</text>
+        <text>CPPFLAGS += -DDEBUG_BLE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
