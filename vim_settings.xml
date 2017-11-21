@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/CMakeLists.txt" timestamp="1511110143260">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.h" timestamp="1510675676705">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="25" />
@@ -46,12 +41,6 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_dtc.c" timestamp="1511195595154">
-        <mark key="'" line="327" column="8" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1511178882652">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="14" column="20" />
@@ -70,11 +59,6 @@
         <mark key="]" line="68" column="40" />
         <mark key="^" line="68" column="40" />
         <mark key="." line="68" column="40" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip_data.c" timestamp="1511195284491">
-        <mark key="[" line="338" column="63" />
-        <mark key="]" line="338" column="63" />
-        <mark key="." line="338" column="63" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" timestamp="1510915563910">
         <mark key="'" line="293" column="4" />
@@ -96,6 +80,12 @@
         <mark key="." line="167" column="14" />
         <mark key="^" line="167" column="14" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1511279374207">
+        <mark key="'" line="117" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1511194171763">
         <mark key="'" line="36" column="23" />
         <mark key="[" line="37" column="34" />
@@ -115,11 +105,6 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.h" timestamp="1511104945404">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1511195540543">
         <mark key="'" line="185" column="4" />
         <mark key="[" line="32" column="0" />
@@ -134,6 +119,12 @@
         <mark key="]" line="51" column="49" />
         <mark key="^" line="51" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1511278792171">
+        <mark key="[" line="232" column="38" />
+        <mark key="]" line="232" column="40" />
+        <mark key="." line="232" column="40" />
+        <mark key="^" line="232" column="40" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510942448048">
         <mark key="[" line="6" column="37" />
@@ -160,21 +151,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/freertos.c" timestamp="1511110191620">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1510930643386">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="45" />
         <mark key="^" line="38" column="45" />
         <mark key="." line="38" column="45" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.h" timestamp="1511173230630">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="61" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1511178919589">
         <mark key="'" line="39" column="17" />
@@ -190,24 +171,18 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1510940322993">
-        <mark key="'" line="435" column="19" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="15" />
-        <mark key="^" line="17" column="15" />
-        <mark key="." line="17" column="15" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511278666990">
+        <mark key="'" line="435" column="24" />
+        <mark key="[" line="1190" column="18" />
+        <mark key="]" line="1190" column="18" />
+        <mark key="^" line="1190" column="18" />
+        <mark key="." line="1190" column="18" />
       </file>
-      <file name="/fragment.m" timestamp="1511196291831">
+      <file name="/fragment.m" timestamp="1511278724338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1510939754365">
-        <mark key="'" line="30" column="28" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="159" column="0" />
-        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c.c" timestamp="1511100906188">
         <mark key="[" line="2" column="1" />
@@ -218,26 +193,21 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" timestamp="1511174475750">
-        <mark key="'" line="68" column="18" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511268639292">
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="23" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511277990318">
+        <mark key="'" line="217" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
         <mark key="^" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="/GDB" timestamp="1510937898051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511196286201">
+      <file name="/Dummy.txt" timestamp="1511278714519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" timestamp="1511275748905">
-        <mark key="'" line="136" column="32" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" timestamp="1511277115826">
+        <mark key="'" line="153" column="46" />
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
@@ -263,6 +233,12 @@
         <mark key="^" line="622" column="12" />
         <mark key="." line="622" column="12" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1511277826012">
+        <mark key="'" line="220" column="12" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="36" />
+        <mark key="." line="224" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/inc/CanHal.h" timestamp="1511193423120">
         <mark key="'" line="192" column="0" />
         <mark key="[" line="10" column="16" />
@@ -285,31 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
-      <jump line="22" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="51" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="652" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="672" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
-      <jump line="34" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
-      <jump line="17" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
-      <jump line="34" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
-      <jump line="30" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
-      <jump line="18" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
-      <jump line="53" column="39" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" />
-      <jump line="27" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
-      <jump line="29" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
-      <jump line="30" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
-      <jump line="32" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" />
-      <jump line="213" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="0" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="17" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="23" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="212" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="211" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
-      <jump line="30" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
-      <jump line="26" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
-      <jump line="22" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" />
-      <jump line="6" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
       <jump line="55" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
       <jump line="54" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
       <jump line="72" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" />
@@ -385,69 +336,83 @@
       <jump line="0" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
       <jump line="93" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
       <jump line="15" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
+      <jump line="143" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
+      <jump line="22" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="829" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="1173" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="1225" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="16" column="10" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="352" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="361" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="395" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="103" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="234" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="3" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
+      <jump line="153" column="46" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
+      <jump line="135" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="220" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" />
+      <jump line="183" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="217" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="128" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="1182" column="123" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="1189" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="83" column="17" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="129" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="435" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="190" column="55" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
+      <jump line="116" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAibW9ja19ha29seXRfb2JkLmgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>signed char stop_update_led = FALSE;</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>signed char stop_update_led = FALSE;</text>
       </register>
       <register name="/" type="4">
-        <text>obd</text>
+        <text>sys_timeout_del</text>
       </register>
       <register name="0" type="4">
-        <text>CPPFLAGS += -DDEBUG_BLE</text>
+        <text encoding="base64">ICAgIGFrb2x5dF9zdG9wX3VwZGF0ZV9sZWQgKCBUUlVFICk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8jaW5jbHVkZSAibW9ja19ha29seXRfb2JkLmgiCg==</text>
+        <text encoding="base64">ICAgIHN0b3BfdXBkYXRlX2xlZCA9IEZBTFNFCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHN5c190aW1lb3V0X2RlbCAoIGFwcF9sZWRfdXBkYXRlX3RpbWVvdXRfaWQsIFNZU19FVkVOVF9IQU5ETEVSICggYXBwX3VwZGF0ZV9sZWQgKSApOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>tatic void ako_activity_start ( void *ctx, int id );
-static void ako_activity_callback ( void *ctx, int id );</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIkNhbjE1NzY1LmgiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>void ako_obd_get_setup(ako_obd_setup_t *obd_setup, obd_scan_ecu_t *scan_ecu, sys_event_handler *callback);
-bool_t ako_obd_set_setup ( ako_obd_setup_t *obd_setup );</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2xlZF9jb2xvcl9kaW0gPSBGQUxTRTsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>void ako_obd_get_setup(ako_obd_setup_t *obd_setup, obd_scan_ecu_t *scan_ecu, sys_event_handler *callback);
-bool_t ako_obd_set_setup ( ako_obd_setup_t *obd_setup );
-
-void ako_obd_kwp_not_awake_cb ( void );
-void ako_obd_clean_up_timers ( void );</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVsc2UKICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBha29fb2JkXzRoel9jYiAoIHZvaWQgKTsK</text>
+        <text encoding="base64">KiBAbm90ZSBUaGlzIGNhbGxiYWNrIGZ1bmN0aW9uIG11c3QgYmUgZGVjbGFyZWQgYnkgdGhlIGFwcGxpY2F0aW9uIHRvIGhhbmRsZSAiQkxFIGRlaW5pdCBkb25lIiBldmVudAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>void ako_obd_connect ( sys_event_handler *callback );
-void ako_obd_disconnect ( sys_event_handler *callback );
-bool_t ako_obd_shutdown ( void );
-void ako_obd_timer_stop ( void );
-void ako_obd_communication_interruption ( );
-OBDCurrProtocol ako_obd_get_protocol ( void );</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>obd</last-search>
+      <last-search>sys_timeout_del</last-search>
       <last-offset />
-      <last-pattern>obd</last-pattern>
+      <last-pattern>sys_timeout_del</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -455,26 +420,26 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
     </search>
     <history>
       <history-search>
-        <entry>system</entry>
-        <entry>STARTU</entry>
-        <entry>clean</entry>
-        <entry>context</entry>
-        <entry>obd_context</entry>
-        <entry>VERBOSE_TH</entry>
-        <entry>VERBOSE_T</entry>
-        <entry>retry</entry>
-        <entry>AKO_OBD_LOG</entry>
-        <entry>RETRY_DE</entry>
-        <entry>obd_values</entry>
-        <entry>akolyt_obd</entry>
-        <entry>obd_is_ali</entry>
-        <entry>obd_set</entry>
         <entry>release</entry>
         <entry>activ</entry>
         <entry>update</entry>
         <entry>slept</entry>
         <entry>EVENT_L</entry>
         <entry>obd</entry>
+        <entry>RGB</entry>
+        <entry>rgb</entry>
+        <entry>ble_deinit</entry>
+        <entry>drust</entry>
+        <entry>drust_bt_deinit</entry>
+        <entry>reinit</entry>
+        <entry>stop</entry>
+        <entry>stop_led</entry>
+        <entry>drust_bt_init</entry>
+        <entry>ble_init</entry>
+        <entry>init</entry>
+        <entry>disconnet</entry>
+        <entry>disconnec</entry>
+        <entry>sys_timeout_del</entry>
       </history-search>
       <history-cmd>
         <entry>548</entry>
