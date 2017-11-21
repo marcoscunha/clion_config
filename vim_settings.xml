@@ -28,16 +28,15 @@
         <mark key="." line="28" column="14" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_gprs_config.c" timestamp="1511196133328">
-        <mark key="[" line="276" column="59" />
-        <mark key="]" line="276" column="59" />
-        <mark key="." line="276" column="59" />
-        <mark key="^" line="31" column="66" />
+        <mark key="[" line="280" column="59" />
+        <mark key="]" line="280" column="59" />
+        <mark key="." line="280" column="59" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.c" timestamp="1511196338813">
-        <mark key="[" line="265" column="20" />
-        <mark key="]" line="265" column="72" />
-        <mark key="^" line="265" column="72" />
-        <mark key="." line="265" column="72" />
+        <mark key="[" line="255" column="20" />
+        <mark key="]" line="255" column="72" />
+        <mark key="^" line="255" column="72" />
+        <mark key="." line="255" column="72" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savenor.h" timestamp="1510912547039">
         <mark key="'" line="21" column="16" />
@@ -95,12 +94,6 @@
         <mark key="]" line="167" column="14" />
         <mark key="." line="167" column="14" />
         <mark key="^" line="167" column="14" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1511196143813">
-        <mark key="'" line="328" column="4" />
-        <mark key="[" line="251" column="56" />
-        <mark key="]" line="251" column="56" />
-        <mark key="." line="251" column="56" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1511194171763">
         <mark key="'" line="36" column="23" />
@@ -261,11 +254,12 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1511195363368">
-        <mark key="[" line="590" column="52" />
-        <mark key="]" line="590" column="53" />
-        <mark key="^" line="590" column="53" />
-        <mark key="." line="590" column="53" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1511254263170">
+        <mark key="'" line="622" column="12" />
+        <mark key="[" line="622" column="12" />
+        <mark key="]" line="622" column="12" />
+        <mark key="^" line="622" column="12" />
+        <mark key="." line="622" column="12" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.c" timestamp="1511194644079">
         <mark key="'" line="43" column="18" />
@@ -281,10 +275,10 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/command.c" timestamp="1511195860550">
-        <mark key="'" line="1391" column="4" />
-        <mark key="[" line="1427" column="59" />
-        <mark key="]" line="1427" column="59" />
-        <mark key="." line="1427" column="59" />
+        <mark key="'" line="1390" column="4" />
+        <mark key="[" line="1426" column="59" />
+        <mark key="]" line="1426" column="59" />
+        <mark key="." line="1426" column="59" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_hal.c" timestamp="1510940347829">
         <mark key="'" line="37" column="60" />
@@ -301,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_activity.c" />
       <jump line="68" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="653" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
       <jump line="708" column="13" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd.c" />
@@ -401,16 +394,17 @@
       <jump line="37" column="41" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" />
       <jump line="136" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
       <jump line="14" column="43" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.h" />
+      <jump line="622" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void ako_obd_connect_communication ( void )</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>vo</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>slept</text>
       </register>
       <register name="0" type="4">
         <text>void ako_obd_connect_communication ( void )</text>
@@ -463,9 +457,9 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>slept</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>slept</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -473,7 +467,6 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
     </search>
     <history>
       <history-search>
-        <entry>LD</entry>
         <entry>mkdir</entry>
         <entry>system</entry>
         <entry>STARTU</entry>
@@ -493,6 +486,7 @@ OBDCurrProtocol ako_obd_get_protocol ( void );</text>
         <entry>release</entry>
         <entry>activ</entry>
         <entry>update</entry>
+        <entry>slept</entry>
       </history-search>
       <history-cmd>
         <entry>548</entry>
