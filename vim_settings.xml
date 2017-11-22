@@ -68,11 +68,11 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511342228310">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511343660136">
         <mark key="'" line="169" column="80" />
-        <mark key="[" line="356" column="89" />
-        <mark key="]" line="358" column="42" />
-        <mark key="." line="358" column="42" />
+        <mark key="[" line="921" column="20" />
+        <mark key="]" line="358" column="0" />
+        <mark key="." line="358" column="0" />
         <mark key="^" line="358" column="42" />
       </file>
       <file name="/fragment.m" timestamp="1511281428038">
@@ -262,9 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" />
-      <jump line="143" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
-      <jump line="22" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="829" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="1173" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="1225" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -348,7 +345,6 @@
       <jump line="896" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="930" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="1185" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="88" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="265" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="289" column="83" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="427" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -360,18 +356,22 @@
       <jump line="857" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="1196" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="1230" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="166" column="82" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="46" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="56" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="86" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="88" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="166" column="83" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="169" column="80" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IFRSVUU7</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IEZBTFNFOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PyBGQUxTRSA6IFRSVUUg</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IEZBTFNFOw==</text>
       </register>
       <register name="/" type="4">
-        <text>onnec</text>
+        <text>onnect</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IFRSVUU7</text>
@@ -411,9 +411,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onnec</last-search>
+      <last-search>onnect</last-search>
       <last-offset />
-      <last-pattern>onnec</last-pattern>
+      <last-pattern>onnect</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -421,9 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sys_timeout_del</entry>
-        <entry>ACK</entry>
-        <entry>NACK</entry>
         <entry>adverti</entry>
         <entry>Setting</entry>
         <entry>resend_last</entry>
@@ -441,6 +438,9 @@
         <entry>connec</entry>
         <entry>Connec</entry>
         <entry>onnec</entry>
+        <entry>is_advertisin</entry>
+        <entry>Connect</entry>
+        <entry>onnect</entry>
       </history-search>
       <history-cmd>
         <entry>548</entry>
