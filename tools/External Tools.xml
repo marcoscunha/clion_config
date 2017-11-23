@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Openocd" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="openocd" />
+      <option name="PARAMETERS" value="-f st_nucleo_f0.cfg" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu" />
+    </exec>
+  </tool>
+</toolSet>
