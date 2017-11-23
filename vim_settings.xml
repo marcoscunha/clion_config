@@ -42,8 +42,8 @@
         <mark key="^" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" timestamp="1511425938315">
-        <mark key="'" line="386" column="30" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" timestamp="1511427559050">
+        <mark key="'" line="792" column="18" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/crypto/Inc/RSA/rsa.h" timestamp="1510566670071">
         <mark key="[" line="28" column="14" />
@@ -268,14 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="677" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="67" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="259" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="267" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="474" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="613" column="41" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" />
-      <jump line="323" column="35" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="180" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" />
       <jump line="318" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="475" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="482" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -368,6 +360,14 @@
       <jump line="310" column="70" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
       <jump line="311" column="70" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
       <jump line="386" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="388" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="623" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="645" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="668" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="690" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="712" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="739" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="792" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -377,7 +377,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IFRSVUU7</text>
       </register>
       <register name="/" type="4">
-        <text>LIN</text>
+        <text>_LIN</text>
       </register>
       <register name="0" type="4">
         <text>const char stack_state_str[][ 16 ] =</text>
@@ -417,9 +417,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LIN</last-search>
+      <last-search>_LIN</last-search>
       <last-offset />
-      <last-pattern>LIN</last-pattern>
+      <last-pattern>_LIN</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -427,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stack_state = STACK_ADV</entry>
         <entry>STACK_ADV</entry>
         <entry>STACK_SET_ADV</entry>
         <entry>advertisin</entry>
@@ -447,6 +446,7 @@
         <entry>is_ad</entry>
         <entry>ENABLE</entry>
         <entry>LIN</entry>
+        <entry>_LIN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BLE_LOG/BLE_UART_LOG/gc</entry>
