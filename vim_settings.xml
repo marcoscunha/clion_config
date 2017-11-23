@@ -112,7 +112,8 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511444904219">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511447850632">
+        <mark key="'" line="63" column="56" />
         <mark key="[" line="22" column="7" />
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
@@ -175,12 +176,12 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511433984240">
-        <mark key="'" line="165" column="25" />
-        <mark key="[" line="165" column="25" />
-        <mark key="]" line="165" column="26" />
-        <mark key="^" line="165" column="26" />
-        <mark key="." line="165" column="26" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511447788066">
+        <mark key="'" line="326" column="85" />
+        <mark key="[" line="172" column="12" />
+        <mark key="]" line="173" column="11" />
+        <mark key="." line="173" column="11" />
+        <mark key="^" line="173" column="11" />
       </file>
       <file name="/fragment.m" timestamp="1511444548933">
         <mark key="[" line="0" column="0" />
@@ -191,8 +192,8 @@
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c.c" timestamp="1511100906188">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1511432926577">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1511445578489">
+        <mark key="'" line="61" column="8" />
         <mark key="[" line="72" column="24" />
         <mark key="]" line="72" column="26" />
         <mark key="^" line="72" column="26" />
@@ -217,8 +218,8 @@
       <file name="/GDB" timestamp="1511444830579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1511444731648">
-        <mark key="'" line="297" column="11" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1511445615989">
+        <mark key="'" line="410" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1511278714519">
         <mark key="[" line="0" column="0" />
@@ -272,35 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="875" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="880" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="881" column="86" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="882" column="65" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="883" column="86" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="886" column="51" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="887" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="890" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="893" column="109" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="895" column="57" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="896" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="930" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1185" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="265" column="54" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="427" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="430" column="63" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="446" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="459" column="27" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="804" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="806" column="114" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="857" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1196" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1230" column="15" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="46" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="56" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="86" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="88" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="166" column="83" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="169" column="80" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="925" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="931" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="289" column="43" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -372,58 +344,99 @@
       <jump line="288" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="289" column="119" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
       <jump line="297" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="61" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" />
+      <jump line="410" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="227" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="181" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="191" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="102" column="28" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="155" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="93" column="69" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="95" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="101" column="200" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="73" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="152" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="438" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="315" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="556" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="109" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="123" column="26" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="146" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="166" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="206" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="126" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="439" column="69" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="153" column="77" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="326" column="85" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="265" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="67" column="52" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="86" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="193" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="63" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>static void ble_uart_print_dma_buf ( uint8_t* rx_data, uint32_t len )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>next_write_idx</text>
+        <text>wait_send</text>
       </register>
       <register name="0" type="4">
         <text>static void ble_uart_print_dma_buf ( uint8_t* rx_data, uint32_t len )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2RlZmluZSBCTEVfUlhfRklGT19TSVpFIDgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTcGxpdCBibGUuYyBpbnRvIGJsZS5jIGJsZV91YXJ0LmMgYW5kIGJsZV9oYWwuYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTcGxpdCBibGUuYyBpbnRvIGJsZS5jIGJsZV91YXJ0LmMgYW5kIGJsZV9oYWwuYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>const char stack_state_str[][ 16 ] =
+    {
+        &quot;INIT&quot;,
+        &quot;INIT_MAC&quot;,
+        &quot;INIT_HWREV&quot;,
+        &quot;INIT_SWREV&quot;,
+        &quot;SETTING&quot;,
+        &quot;RUN&quot;,
+        &quot;CONNGETMAC&quot;,
+        &quot;SET_NAME&quot;,
+        &quot;SET_ADV&quot;,
+        &quot;OFF&quot;,
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RlZmluZSBCTEVfUlhfRklGT19TSVpFIDgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>next_write_idx</last-search>
+      <last-search>wait_send</last-search>
       <last-offset />
-      <last-pattern>next_write_idx</last-pattern>
+      <last-pattern>wait_send</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -431,17 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ble_fix</entry>
-        <entry>ADV</entry>
-        <entry>stack_state_str</entry>
-        <entry encoding="base64">Pj4+</entry>
-        <entry>is_ad</entry>
-        <entry>ENABLE</entry>
-        <entry>LIN</entry>
-        <entry>_LIN</entry>
-        <entry>CR2</entry>
-        <entry>OVER</entry>
-        <entry>OVERSAM</entry>
         <entry>Over</entry>
         <entry>Disconn</entry>
         <entry>.</entry>
@@ -451,6 +453,17 @@
         <entry>Client</entry>
         <entry>CYPRE</entry>
         <entry>next_write_idx</entry>
+        <entry>E5</entry>
+        <entry>waiting</entry>
+        <entry>Wa</entry>
+        <entry>ble_tx_available = TRUE</entry>
+        <entry>BLE_EV</entry>
+        <entry>Waiting</entry>
+        <entry>ble_send_array</entry>
+        <entry>BLE_EVT</entry>
+        <entry>Setting MAC</entry>
+        <entry>ble_tx_available</entry>
+        <entry>wait_send</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
