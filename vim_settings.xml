@@ -176,12 +176,11 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511447788066">
-        <mark key="'" line="326" column="85" />
-        <mark key="[" line="172" column="12" />
-        <mark key="]" line="173" column="11" />
-        <mark key="." line="173" column="11" />
-        <mark key="^" line="173" column="11" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511448688823">
+        <mark key="'" line="483" column="4" />
+        <mark key="[" line="388" column="0" />
+        <mark key="]" line="388" column="0" />
+        <mark key="." line="388" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1511444548933">
         <mark key="[" line="0" column="0" />
@@ -273,14 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="925" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="931" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="289" column="43" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="117" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="92" column="7" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="463" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="458" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="940" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="944" column="9" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="288" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="63" column="33" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -373,70 +364,66 @@
       <jump line="86" column="32" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="193" column="23" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
       <jump line="63" column="56" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" />
+      <jump line="442" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="328" column="85" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="441" column="69" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="444" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="155" column="77" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="330" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="443" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
+      <jump line="501" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>wait_send</text>
+        <text>ble_tx_queue</text>
       </register>
       <register name="0" type="4">
-        <text>static void ble_uart_print_dma_buf ( uint8_t* rx_data, uint32_t len )</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGJsZV9zdGF0ZS5sYXN0X3R4X2ZyYW1lLT53YWl0X3NlbmRfcmVhZHkgPT0gVFJVRSAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>const char stack_state_str[][ 16 ] =
-    {
-        &quot;INIT&quot;,
-        &quot;INIT_MAC&quot;,
-        &quot;INIT_HWREV&quot;,
-        &quot;INIT_SWREV&quot;,
-        &quot;SETTING&quot;,
-        &quot;RUN&quot;,
-        &quot;CONNGETMAC&quot;,
-        &quot;SET_NAME&quot;,
-        &quot;SET_ADV&quot;,
-        &quot;OFF&quot;,
-};</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2RlZmluZSBCTEVfUlhfRklGT19TSVpFIDgK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wait_send</last-search>
+      <last-search>ble_tx_queue</last-search>
       <last-offset />
-      <last-pattern>wait_send</last-pattern>
+      <last-pattern>ble_tx_queue</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -444,8 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Over</entry>
-        <entry>Disconn</entry>
         <entry>.</entry>
         <entry>Disconnec</entry>
         <entry>isconnec</entry>
@@ -464,6 +449,8 @@
         <entry>Setting MAC</entry>
         <entry>ble_tx_available</entry>
         <entry>wait_send</entry>
+        <entry>wait_send_read</entry>
+        <entry>ble_tx_queue</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
