@@ -3,6 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1511178177115">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="27" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1510930643386">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="45" />
+        <mark key="^" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_upload.h" timestamp="1510675676705">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="25" />
@@ -22,6 +35,16 @@
         <mark key="." line="40" column="58" />
         <mark key="^" line="40" column="58" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1511178919589">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" timestamp="1511425938315">
+        <mark key="'" line="386" column="30" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/crypto/Inc/RSA/rsa.h" timestamp="1510566670071">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="14" />
@@ -34,145 +57,19 @@
         <mark key="^" line="255" column="72" />
         <mark key="." line="255" column="72" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savenor.h" timestamp="1510912547039">
-        <mark key="'" line="21" column="16" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="14" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1511178882652">
-        <mark key="'" line="51" column="9" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1511362578418">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="1" />
-        <mark key="^" line="40" column="1" />
-        <mark key="." line="40" column="1" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.h" timestamp="1510914442719">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="40" />
-        <mark key="^" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" timestamp="1510915563910">
-        <mark key="'" line="293" column="4" />
-        <mark key="[" line="205" column="7" />
-        <mark key="]" line="205" column="31" />
-        <mark key="." line="144" column="18" />
-        <mark key="^" line="144" column="18" />
-      </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c" timestamp="1511107248678">
-        <mark key="[" line="117" column="24" />
-        <mark key="]" line="110" column="16" />
-        <mark key="." line="110" column="16" />
-        <mark key="^" line="110" column="16" />
-      </file>
-      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476RGTx_FLASH.ld" timestamp="1511107405192">
-        <mark key="'" line="37" column="51" />
-        <mark key="[" line="163" column="13" />
-        <mark key="]" line="167" column="14" />
-        <mark key="." line="167" column="14" />
-        <mark key="^" line="167" column="14" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1511341885333">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="171" column="13" />
-        <mark key="]" line="171" column="30" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="171" column="7" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1511194171763">
-        <mark key="'" line="36" column="23" />
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c" timestamp="1511363421373" />
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.h" timestamp="1510927708127">
-        <mark key="[" line="23" column="38" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.h" timestamp="1510928846680">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="50" />
-        <mark key="^" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1511195540543">
-        <mark key="'" line="185" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.c" timestamp="1510928839770">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="49" />
-        <mark key="^" line="51" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1511339542636">
-        <mark key="[" line="611" column="1" />
-        <mark key="]" line="611" column="43" />
-        <mark key="." line="611" column="1" />
-        <mark key="^" line="232" column="40" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510942448048">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="39" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_hal.h" timestamp="1510820838428">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1511282302542">
-        <mark key="[" line="721" column="0" />
-        <mark key="]" line="723" column="3" />
-        <mark key="." line="723" column="3" />
-        <mark key="^" line="723" column="3" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rtc.c" timestamp="1511362598143" />
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1511178177115">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/CMakeLists.txt" timestamp="1510930643386">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="45" />
-        <mark key="^" line="38" column="45" />
-        <mark key="." line="38" column="45" />
-      </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/rules.mk" timestamp="1511178919589">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_data.c" timestamp="1511195622365">
         <mark key="'" line="260" column="18" />
         <mark key="[" line="146" column="11" />
         <mark key="]" line="146" column="31" />
         <mark key="." line="104" column="0" />
         <mark key="^" line="104" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_savenor.h" timestamp="1510912547039">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="14" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511359825277">
         <mark key="'" line="524" column="9" />
@@ -187,17 +84,43 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1511178882652">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c.c" timestamp="1511100906188">
         <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1511359665866">
         <mark key="'" line="162" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1511362578418">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.h" timestamp="1510914442719">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="68" column="40" />
+        <mark key="^" line="68" column="40" />
+        <mark key="." line="68" column="40" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/board.h" timestamp="1510842275481">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="55" />
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" timestamp="1510915563910">
+        <mark key="'" line="293" column="4" />
+        <mark key="[" line="205" column="7" />
+        <mark key="]" line="205" column="31" />
+        <mark key="." line="144" column="18" />
+        <mark key="^" line="144" column="18" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" timestamp="1511359939469">
         <mark key="'" line="4" column="14" />
@@ -226,11 +149,50 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c" timestamp="1511107248678">
+        <mark key="[" line="117" column="24" />
+        <mark key="]" line="110" column="16" />
+        <mark key="." line="110" column="16" />
+        <mark key="^" line="110" column="16" />
+      </file>
+      <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/STM32L476RGTx_FLASH.ld" timestamp="1511107405192">
+        <mark key="'" line="37" column="51" />
+        <mark key="[" line="163" column="13" />
+        <mark key="]" line="167" column="14" />
+        <mark key="." line="167" column="14" />
+        <mark key="^" line="167" column="14" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/app.c" timestamp="1511341885333">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="171" column="13" />
+        <mark key="]" line="171" column="30" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="171" column="7" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_device_event.c" timestamp="1510679625571">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="28" />
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/Makefile" timestamp="1511194171763">
+        <mark key="'" line="36" column="23" />
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.h" timestamp="1510927708127">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="39" />
+        <mark key="^" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.h" timestamp="1510928846680">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_device_event.c" timestamp="1511271021508">
         <mark key="'" line="0" column="0" />
@@ -239,11 +201,26 @@
         <mark key="^" line="622" column="12" />
         <mark key="." line="622" column="12" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1511195540543">
+        <mark key="'" line="185" column="4" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1511277826012">
         <mark key="'" line="220" column="12" />
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="36" />
         <mark key="." line="224" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.c" timestamp="1510928839770">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="49" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/inc/CanHal.h" timestamp="1511193423120">
         <mark key="'" line="192" column="0" />
@@ -251,6 +228,30 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1511339542636">
+        <mark key="[" line="611" column="1" />
+        <mark key="]" line="611" column="43" />
+        <mark key="." line="611" column="1" />
+        <mark key="^" line="232" column="40" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_trip.h" timestamp="1510942448048">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_hal.h" timestamp="1510820838428">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/obd_wrapper.c" timestamp="1511282302542">
+        <mark key="[" line="721" column="0" />
+        <mark key="]" line="723" column="3" />
+        <mark key="." line="723" column="3" />
+        <mark key="^" line="723" column="3" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_hal.c" timestamp="1510940347829">
         <mark key="'" line="37" column="60" />
@@ -267,16 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
-      <jump line="641" column="5" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_obd_setup.c" />
-      <jump line="771" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="777" column="0" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="799" column="36" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1118" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1150" column="19" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="1175" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="410" column="12" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="537" column="16" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="677" column="37" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="67" column="18" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="259" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -367,6 +358,16 @@
       <jump line="216" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="222" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="4" column="14" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="277" column="8" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="297" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="298" column="21" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="299" column="68" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="300" column="68" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="308" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="309" column="24" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="310" column="70" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="311" column="70" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
+      <jump line="386" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_uart.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -376,7 +377,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc19hZHZlcnRpc2luZyA9IFRSVUU7</text>
       </register>
       <register name="/" type="4">
-        <text>ENABLE</text>
+        <text>LIN</text>
       </register>
       <register name="0" type="4">
         <text>const char stack_state_str[][ 16 ] =</text>
@@ -416,9 +417,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ENABLE</last-search>
+      <last-search>LIN</last-search>
       <last-offset />
-      <last-pattern>ENABLE</last-pattern>
+      <last-pattern>LIN</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +427,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stack</entry>
         <entry>stack_state = STACK_ADV</entry>
         <entry>STACK_ADV</entry>
         <entry>STACK_SET_ADV</entry>
@@ -446,6 +446,7 @@
         <entry encoding="base64">Pj4+</entry>
         <entry>is_ad</entry>
         <entry>ENABLE</entry>
+        <entry>LIN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/BLE_LOG/BLE_UART_LOG/gc</entry>
