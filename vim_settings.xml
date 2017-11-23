@@ -9,12 +9,6 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/test/test_akolyt_upload.c" timestamp="1511275793419">
-        <mark key="'" line="15" column="36" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_network_manager.h" timestamp="1511196378935">
         <mark key="'" line="37" column="41" />
         <mark key="[" line="40" column="39" />
@@ -109,13 +103,7 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_fota.c" timestamp="1511195540543">
-        <mark key="'" line="185" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1510667503628">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1511444504992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_utils.c" timestamp="1510928839770">
@@ -124,10 +112,11 @@
         <mark key="^" line="51" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511434557560">
-        <mark key="]" line="510" column="0" />
-        <mark key="^" line="510" column="0" />
-        <mark key="." line="510" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511444904219">
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1511339542636">
         <mark key="[" line="611" column="1" />
@@ -193,7 +182,7 @@
         <mark key="^" line="165" column="26" />
         <mark key="." line="165" column="26" />
       </file>
-      <file name="/fragment.m" timestamp="1511434449648">
+      <file name="/fragment.m" timestamp="1511444548933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -225,8 +214,11 @@
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/STM32Cube_FW_F0_V1.2.0/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_uart.c" timestamp="1511430430232">
         <mark key="'" line="1698" column="39" />
       </file>
-      <file name="/GDB" timestamp="1511434740831">
+      <file name="/GDB" timestamp="1511444830579">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" timestamp="1511444731648">
+        <mark key="'" line="297" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1511278714519">
         <mark key="[" line="0" column="0" />
@@ -258,12 +250,6 @@
         <mark key="^" line="622" column="12" />
         <mark key="." line="622" column="12" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/drust.h" timestamp="1511277826012">
-        <mark key="'" line="220" column="12" />
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="36" />
-        <mark key="." line="224" column="0" />
-      </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/obdexperts/App/inc/CanHal.h" timestamp="1511193423120">
         <mark key="'" line="192" column="0" />
         <mark key="[" line="10" column="16" />
@@ -286,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="125" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="435" column="73" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
-      <jump line="436" column="34" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="875" column="20" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="880" column="64" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="881" column="86" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
@@ -386,19 +369,22 @@
       <jump line="11" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
       <jump line="165" column="25" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
       <jump line="20" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/custom.mk" />
+      <jump line="288" column="4" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="289" column="119" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
+      <jump line="297" column="11" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/at_uart.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>static void ble_uart_print_dma_buf ( uint8_t* rx_data, uint32_t len )</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>CYPRE</text>
+        <text>next_write_idx</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIElzb0t3cEhhbmRsZS5Jbml0Lk1vZGUgPSBVQVJUX01PREVfVFhfUlg7</text>
+        <text>static void ble_uart_print_dma_buf ( uint8_t* rx_data, uint32_t len )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2RlZmluZSBCTEVfUlhfRklGT19TSVpFIDgK</text>
@@ -435,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CYPRE</last-search>
+      <last-search>next_write_idx</last-search>
       <last-offset />
-      <last-pattern>CYPRE</last-pattern>
+      <last-pattern>next_write_idx</last-pattern>
       <last-replace>AKO_OBD_SETUP_LOG</last-replace>
       <last-substitute>AKO_OBD_LOG</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ble_is</entry>
         <entry>ble_fix</entry>
         <entry>ADV</entry>
         <entry>stack_state_str</entry>
@@ -465,6 +450,7 @@
         <entry>AT_DE</entry>
         <entry>Client</entry>
         <entry>CYPRE</entry>
+        <entry>next_write_idx</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
