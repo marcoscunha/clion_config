@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/defs.mk" timestamp="1511514218416">
@@ -71,7 +71,7 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511515530428">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" timestamp="1511516182965">
         <mark key="'" line="118" column="30" />
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="0" />
@@ -95,13 +95,13 @@
       <file name="$USER_HOME$/devel/Genesis/Rosie/Rosie/Src/console.c.c" timestamp="1511100906188">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1511514560012">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.h" timestamp="1511516349168">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
         <mark key="^" line="72" column="26" />
-        <mark key="." line="73" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1511514712786">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/main.c" timestamp="1511516203091">
         <mark key="[" line="40" column="1" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="0" />
@@ -231,12 +231,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511512659520">
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble_uart.c" timestamp="1511516537426">
         <mark key="'" line="110" column="52" />
-        <mark key="[" line="307" column="38" />
-        <mark key="]" line="307" column="38" />
-        <mark key="." line="307" column="38" />
-        <mark key="^" line="307" column="38" />
+        <mark key="[" line="145" column="12" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="123" column="0" />
       </file>
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_ble.c" timestamp="1511511237284">
         <mark key="'" line="632" column="8" />
@@ -380,11 +380,11 @@
       <jump line="118" column="30" filename="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/bsp/ble.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmxlX3N0YXRlLmJsZV90eF9maWZvLmJsZV90eF9hdmFpbGFibGUgPSBUUlVFOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>tx_a</text>
