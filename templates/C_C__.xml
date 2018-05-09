@@ -28,4 +28,10 @@
       <option name="c" value="true" />
     </context>
   </template>
+  <template name="c_test_file" value="#include &quot;unity.h&quot;&#10;// Mocked Modules&#10;&#10;void setUp ( void )&#10;{&#10;}&#10;&#10;void tearDown ( void )&#10;{&#10;}&#10;&#10;void resetTest ( void );&#10;&#10;void test_&lt;function_under_test&gt;_should_&lt;expected_behavior&gt; ( void )&#10;{&#10;    // Initialize variables&#10;&#10;    // Mock functions&#10; &#10;    // Execute function under test&#10;&#10;    // Evaluate results&#10;    &#10;}" description="New Test file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
 </templateSet>
