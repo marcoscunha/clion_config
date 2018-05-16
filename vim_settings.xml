@@ -84,7 +84,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="[backend_dev] CONSOLE - backend_dev" timestamp="1511515457885" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/Makefile" timestamp="1511178882652">
         <mark key="'" line="51" column="9" />
         <mark key="[" line="14" column="20" />
@@ -120,6 +119,7 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_timeseries_debug.c" timestamp="1526476457537" />
       <file name="$USER_HOME$/devel/Drust/drust_firmware/DRUST/mcu/app/akolyt_cypress.c" timestamp="1510915563910">
         <mark key="'" line="296" column="4" />
         <mark key="[" line="208" column="7" />
