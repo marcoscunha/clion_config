@@ -1,0 +1,5 @@
+<application>
+  <component name="com.jetbrains.cidr.OpenOcdPlugin">
+    <option name="openOcdLocation" value="/usr/local/bin/openocd" />
+  </component>
+</application>
