@@ -1,4 +1,7 @@
 <application>
+  <component name="EmbeddedDevelopment">
+    <option name="openOcdLocation" value="/usr/local/bin/openocd" />
+  </component>
   <component name="com.jetbrains.cidr.OpenOcdPlugin">
     <option name="openOcdLocation" value="/usr/local/bin/openocd" />
   </component>
